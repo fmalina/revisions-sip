@@ -18,5 +18,5 @@ listov. Okrem toho sa z podbeľu pripravuje tinktúra alebo čerstvá šťava.
 
 *Upozornenie*: Neužívať počas tehotenstva a obdobia dojčenia.
 
-Aplikáciu bylinky nájdete na stránke čaje v [Bronchiol](/caje/bronchiol).
+Aplikáciu bylinky nájdete na stránke čaje v [Bronchiol](/sip/caje/bronchiol).
 

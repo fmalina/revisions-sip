@@ -18,14 +18,14 @@ odskúšanú. Jedným zdrojom je medzinárodná sieť ***CaliVita International
 (CVI)***, ktorá sa prezentuje širokým produktovým portfóliom pre všetky vekové
 kategórie. Výber z celkovej ponuky je štruktúrovaný:
 
-* antioxidanty ([Smokerade](/sip/zdravie/smokerade-90-ks); [Sublingual](/sip/zdravie/sublingual-coq10-30-ks), [Liquid Chlorophyll](/sip/p/liquid-chlorophyll/), [Protect 4Life](/sip/p/protect-4life/), [MegaProtect 4Life](/sip/p/megaprotect-4life/))
-* multivitamíny - vitamíny podľa krvnej skupiny ([Vital 0](/sip/zdravie/vital-0); [Vital A](/sip/zdravie/vital-a); [Vital B](/sip/zdravie/vital-a); [Vital AB](/sip/zdravie/vital-ab))
-* prípravky na podporu trávenia a úpravu hmotnosti ([AC - Zymes](/sip/p/ac-zymes/); [Digestive Enzymes](/sip/zdravie/digestive-enzymes-100-ks); [Meal Time](/sip/p/meal-time/); [Digest Ease](/sip/p/digest-ease/); [Slim Formula](/sip/zdravie/slim-formula-90-ks);)
-* prípravky na ošetrenie pleti ([Hand&Body Lotion](/sip/zdravie/hand-body-lotion-objem-1000-ml); [VeinCare](/sip/zdravie/veincare-objem-75-ml))
-* vitamíny ([C 1000](/sip/p/c-1000/), [C Plus](/sip/p/c-plus/), [Lion Kids](/sip/zdravie/lion-kids-d-90-ks), [Stress Management B - Complex](/sip/p/stress-management-b-complex/))
-* prípravky z liečivých rastlín ([Energy&Memory](/sip/p/energy-memory/), [Choleston](/sip/zdravie/choleston-90-ks); [ImmunAid](/sip/zdravie/imunaid-180-ks); [Nopalin](/sip/zdravie/nopalin-200-ks); [Ocean 21](/sip/zdravie/ocean-21-objem-946-ml); [ParaProtex](/sip/zdravie/paraprotex-100-ks); [Noni Liquid](/sip/zdravie/polinesian-noni-liquid-objem-946-ml); [VirAgo](/sip/zdravie/virago-90-ks); [VitalMan](/sip/zdravie/vital-man-60-ks); [VitalWoman](/sip/zdravie/vital-woman-60-ks); [ZenThonic](/sip/zdravie/zenthonic-objem-946-ml))
-* ďalšie prírodné doplnky ([LiverAid](/sip/p/liver-aid-with-silymarin/), [Natural HGH Support](/sip/p/natural-hgh-support/), [OxyMax](/sip/zdravie/oxymax-objem-60-ml); [Rhodiolin](/sip/zdravie/rhodiolin-120-ks-60-ks); [Pure Yucca](/sip/p/pure-yucca/); [Super Soya Lecithin](/sip/p/super-soya-lecithin/); [Strong Bones](/sip/p/strong-bones/))
-* prístroje a pomôcky od CaliVita Electronics ([BioHarmonex](/sip/zdravie/bioharmonex), [Communiguard](/sip/p/harmonizer-elektromagnetickeho-smogu/)).
+* antioxidanty ([Smokerade](/sip/cvi/smokerade); [Sublingual](/sip/cvi/sublingual-coq10), [Liquid Chlorophyll](/sip/liquid-chlorophyll), [Protect 4Life](/sip/protect-4life/), [MegaProtect 4Life](/sip/p/megaprotect-4life/))
+* multivitamíny - vitamíny podľa krvnej skupiny ([Vital 0](/sip/cvi/vital-0); [Vital A](/sip/cvi/vital-a); [Vital B](/sip/cvi/vital-a); [Vital AB](/sip/cvi/vital-ab))
+* prípravky na podporu trávenia a úpravu hmotnosti ([AC - Zymes](/sip/p/ac-zymes/); [Digestive Enzymes](/sip/cvi/digestive-enzymes); [Meal Time](/sip/p/meal-time/); [Digest Ease](/sip/p/digest-ease/); [Slim Formula](/sip/cvi/slim-formula-90-ks);)
+* prípravky na ošetrenie pleti ([Hand&Body Lotion](/sip/cvi/hand-body-lotion-objem-1000-ml); [VeinCare](/sip/cvi/veincare-objem-75-ml))
+* vitamíny ([C 1000](/sip/p/c-1000/), [C Plus](/sip/p/c-plus/), [Lion Kids](/sip/cvi/lion-kids-d-90-ks), [Stress Management B - Complex](/sip/p/stress-management-b-complex/))
+* prípravky z liečivých rastlín ([Energy&Memory](/sip/p/energy-memory/), [Choleston](/sip/cvi/choleston-90-ks); [ImmunAid](/sip/cvi/imunaid-180-ks); [Nopalin](/sip/cvi/nopalin-200-ks); [Ocean 21](/sip/cvi/ocean-21-objem-946-ml); [ParaProtex](/sip/cvi/paraprotex-100-ks); [Noni Liquid](/sip/cvi/polinesian-noni-liquid-objem-946-ml); [VirAgo](/sip/cvi/virago-90-ks); [VitalMan](/sip/cvi/vital-man-60-ks); [VitalWoman](/sip/cvi/vital-woman-60-ks); [ZenThonic](/sip/cvi/zenthonic-objem-946-ml))
+* ďalšie prírodné doplnky ([LiverAid](/sip/p/liver-aid-with-silymarin/), [Natural HGH Support](/sip/p/natural-hgh-support/), [OxyMax](/sip/cvi/oxymax-objem-60-ml); [Rhodiolin](/sip/cvi/rhodiolin-120-ks-60-ks); [Pure Yucca](/sip/p/pure-yucca/); [Super Soya Lecithin](/sip/p/super-soya-lecithin/); [Strong Bones](/sip/p/strong-bones/))
+* prístroje a pomôcky od CaliVita Electronics ([BioHarmonex](/sip/cvi/bioharmonex), [Communiguard](/sip/p/harmonizer-elektromagnetickeho-smogu/)).
 
 Druhým zdrojom je medzinárodná sieť *[Forever Living
 Products](/sip/pripravky-pre-zdravu-vyzivu-flp)*. Jej
@@ -50,6 +50,6 @@ ušetrite s rozumom. Poštovné platíte iba raz pre celú objednávku.
 
 #### Zdravý životný štýl - začnite dnes!
 
-Cenník jednotlivých produktov je v súlade s oficiálnym cenníkom spoločnosti CaliVita International a ceny na stránkach podliehajú pravidelnej kontrole ku termínu vydania nového cenníka. Spravidla ceny sú zaokrúhlené na celé € dole.
-=======================================================================================================================================================================================================================================
-
+Cenník jednotlivých produktov je v súlade s oficiálnym cenníkom spoločnosti CaliVita International
+a ceny na stránkach podliehajú pravidelnej kontrole ku termínu vydania nového cenníka.
+Spravidla ceny sú zaokrúhlené na celé € dole.

@@ -20,5 +20,5 @@ Jej vôňa je zmesou sladkých kvetov a citrusu.
 *Zaujímavosť*: Vo Francúzsku v 1916 roku aplikovali bylinku vyslúžilcom ako
 prostriedok zbavujúci strachu z vojnových hrôz.
 
-Aplikáciu bylinky nájdete v čaji [Nervus](/caje/nervus).
+Aplikáciu bylinky nájdete v čaji [Nervus](/sip/caje/nervus).
 

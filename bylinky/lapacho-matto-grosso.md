@@ -10,7 +10,7 @@ Je to vnútorná kôra stromu Tecome Lapacho.
 
 *Zber*: Červená vnútorná kôra sa získava z odrôd L. Colorado a L. Morado. Z
 produktu stromu sa pripravuje spravidla čaj, ktorý je u nás známy ako
-“[Lapacho](/caje/lapacho) - čaj Inkov”.
+“[Lapacho](/sip/caje/lapacho) - čaj Inkov”.
 
 *Uplatnenie*: Lapacho účinne zabezpečuje odstraňovanie toxických látok z tela,
 harmonizáciu činnosti pečene a obličiek, podporuje trávenia. Pôsobí
@@ -23,6 +23,6 @@ choroba, reuma, skleróza multiplex), zvyšovanie odolnosti organizmu vrátane
 zlepšenia spánku, posilňovanie a normalizácia sexuálnych orgánov, odstraňovanie
 migrén a miernenie bolesti.
 
-Aplikáciu bylinky nájdete na stránke čaju [Lapacho](/caje/lapacho) a v produkte
+Aplikáciu bylinky nájdete na stránke čaju [Lapacho](/sip/caje/lapacho) a v produkte
 [Ocean 21](/sip/p/ocean-21/).
 

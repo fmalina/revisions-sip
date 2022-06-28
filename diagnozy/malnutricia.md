@@ -44,5 +44,5 @@ Balíček odporučených prípravkov proti malnutrícii
 * [Disbiosan](/sip/elixiry/disbiosan-elixir) elixír
 * [Psyllium](/sip/caje/psyllium) vláknina
 * [Žalúdok a črevá](/sip/caje/zaludok-creva) čaj
-* [BCAA plus L-carnitin Liquid](/sip/zdravie/bcaa-l-carnitin)
+* [BCAA plus L-carnitin Liquid](/sip/cvi/bcaa-l-carnitin)
 * Olivový panenský olej; lisovaný za studena; 1PL denne *(v obchodnej sieti)*

@@ -7,11 +7,11 @@ plynatosti, čaj na bežné použitie, zdroj tekutiny na upokojenie a pitný re�
 
 Obsahuje:
 
-* vňať [mäty piepornej](/bylinky/mata-pieporna/)
-* vňať [medovky lekárskej](/bylinky/medovka-lekarska/)
-* kvet [rumančeka kamilkového](/bylinky/rumancek-kamilkovy/)
-* kvet [bazy čiernej](/bylinky/baza-cierna/)
-* plod [feniklu obyčajného](/bylinky/fenikel-obycajny/)
-* plod [bedrovníka anízového](/bylinky/bedrovnik-anizovy/)
-* koreň [ibiša lekárskeho](/bylinky/ibis-lekarsky/)
-* [chmeľové šišky](/bylinky/chmel-obycajny/)
+* vňať [mäty piepornej](/sip/bylinky/mata-pieporna/)
+* vňať [medovky lekárskej](/sip/bylinky/medovka-lekarska/)
+* kvet [rumančeka kamilkového](/sip/bylinky/rumancek-kamilkovy/)
+* kvet [bazy čiernej](/sip/bylinky/baza-cierna/)
+* plod [feniklu obyčajného](/sip/bylinky/fenikel-obycajny/)
+* plod [bedrovníka anízového](/sip/bylinky/bedrovnik-anizovy/)
+* koreň [ibiša lekárskeho](/sip/bylinky/ibis-lekarsky/)
+* [chmeľové šišky](/sip/bylinky/chmel-obycajny/)

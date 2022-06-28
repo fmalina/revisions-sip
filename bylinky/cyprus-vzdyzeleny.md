@@ -20,5 +20,5 @@ záchvaty kašľa (bronchitída, chrípka, čierny kašeľ, astma).
 
 *Upozornenie*: Silica sa môže užívať len na lekársky predpis.
 
-Aplikáciu bylinky nájdete v čaji [MU](/caje/mu).
+Aplikáciu bylinky nájdete v čaji [MU](/sip/caje/mu).
 

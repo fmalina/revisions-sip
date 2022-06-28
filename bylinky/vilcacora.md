@@ -37,5 +37,5 @@ rastline. Účastníci konferencie konštatovali, že od objavenia *chinínu* ž
 iná rastlina z Južnej Ameriky nevyvolala toľko pozornosti a záujmu odborníkov zo
 sveta vedy.
 
-Na stránkach ju nájdete ako čajovinu [Vilcacora](/caje/vilcacora).### 
+Na stránkach ju nájdete ako čajovinu [Vilcacora](/sip/caje/vilcacora).### 
 

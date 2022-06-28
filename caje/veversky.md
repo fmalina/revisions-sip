@@ -8,9 +8,9 @@ problematickej pleti a [ekzémoch](/diagnozy/ekzemy).
 
 Obsahuje:
 
-* vňať [mäty piepornej](/bylinky/mata-pieporna/)
-* vňať [medovky lekárskej](/bylinky/medovka-lekarska/)
-* kvet [rumančeka kamilkového](/bylinky/rumancek-kamilkovy/)
-* kvet [bazy čiernej](/bylinky/baza-cierna/)
-* kvet [lipy malolistej](/bylinky/lipa-malolista/)
-* plod [feniklu obyčajného](/bylinky/fenikel-obycajny/).
+* vňať [mäty piepornej](/sip/bylinky/mata-pieporna/)
+* vňať [medovky lekárskej](/sip/bylinky/medovka-lekarska/)
+* kvet [rumančeka kamilkového](/sip/bylinky/rumancek-kamilkovy/)
+* kvet [bazy čiernej](/sip/bylinky/baza-cierna/)
+* kvet [lipy malolistej](/sip/bylinky/lipa-malolista/)
+* plod [feniklu obyčajného](/sip/bylinky/fenikel-obycajny/).

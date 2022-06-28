@@ -15,12 +15,12 @@ Chráni **vlasy** a oživuje ich po farbení alebo aplikácii trvalej. Pomáha p
 rôznych **opuchoch**. Má **protizápalové** účinky.
 
 *Obsahuje*: 80% čistého stabilizovaného Aloe vera, propolis,
-[nechtík](/bylinky/nechtik-lekarsky), [rebríček](/bylinky/rebricek-obycajny),
-[tymián](/bylinky/duska-tymianova), [rumanček](/bylinky/rumancek-kamilkovy),
-[púpavu](/bylinky/pupava-lekarska),
+[nechtík](/sip/bylinky/nechtik-lekarsky), [rebríček](/sip/bylinky/rebricek-obycajny),
+[tymián](/sip/bylinky/duska-tymianova), [rumanček](/sip/bylinky/rumancek-kamilkovy),
+[púpavu](/sip/bylinky/pupava-lekarska),
 [eukalyptus](/sip/p/eukalyptus/),
-[mučenku](/sip/p/mucenka/), [šalviu](/bylinky/salvia-lekarska),
-[ďumbier](/bylinky/dumbier-lekarsky), borák a santalové drevo, vitamín E
+[mučenku](/sip/p/mucenka/), [šalviu](/sip/bylinky/salvia-lekarska),
+[ďumbier](/sip/bylinky/dumbier-lekarsky), borák a santalové drevo, vitamín E
 
 *Upozornenie*: Pri podozrení na alergiu na propolis, najskôr odporúčame vyskúšať
 na menšiu časť predlaktia, či nepríde do 20 min ku alergickej reakcii.

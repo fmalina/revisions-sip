@@ -25,5 +25,5 @@ cikatrizancium podporujúce zjazvovanie tkaniva, teda aj jeho hojenie.
 *Upozornenie*: Neodporúčame užívať koreň, ktorý môže vyvolať zvracanie.
 
 Aplikáciu bylinky nájdete v elixíre [Lymfavit](/elixiry/lymfavit-elixir) a čaji
-[Hlavabol](/caje/hlavabol).
+[Hlavabol](/sip/caje/hlavabol).
 

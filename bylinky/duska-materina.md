@@ -29,6 +29,6 @@ pripínali na hruď svojim rytierom.
 *Upozornenie*: Vysoké dávky, alebo dlhodobé užívanie silice máva neurotoxické
 účinky (tymol). Môže mať negatívny účinok na činnosť štítnej žľazy.
 
-Aplikáciu bylinky nájdete na stránke čaje v [Siesta](/caje/siesta) a
-[Bronchiol](/caje/bronchiol).
+Aplikáciu bylinky nájdete na stránke čaje v [Siesta](/sip/caje/siesta) a
+[Bronchiol](/sip/caje/bronchiol).
 

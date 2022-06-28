@@ -1,3 +1,0 @@
-Prípravky pre zdravie
-=====================
-

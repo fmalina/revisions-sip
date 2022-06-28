@@ -2,7 +2,7 @@ Forever Garlic - Thyme
 ======================
 
 [Cesnak kuchynský](/sip/p/cesnak-kuchynsky/) a [dúška
-tymiánová](/bylinky/duska-tymianova) - dva účinné antioxidanty, vytvorili silnú
+tymiánová](/sip/bylinky/duska-tymianova) - dva účinné antioxidanty, vytvorili silnú
 zbraň na udržanie dobrého zdravia. Prípravok má výborné antimykotické (proti
 plesňové) účinky. V tráviacom trakte **tlmí hnilobné** a **kvasné** procesy,
 **vypudzuje** parazity a je účinný proti nafukovaniu a plynatosti. Podporuje

@@ -40,4 +40,4 @@ Balíček odporučených prípravkov proti Crohnovej chorobe
 * [Disbiosan](/sip/elixiry/disbiosan-elixir) elixír
 * [Žalúdok a črevá](/sip/caje/zaludok-creva) čaj
 * [Brnenský](/sip/caje/brnensky) čaj (najmä pri nadúvaní)
-* [BCAA Liquid](/sip/zdravie/bcaa-l-carnitin)
+* [BCAA Liquid](/sip/cvi/bcaa-l-carnitin)

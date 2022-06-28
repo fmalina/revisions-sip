@@ -11,7 +11,7 @@ pomáha pri [menopauzálnych problémoch](/diagnozy/menopauza) - návaloch tepla
 [Nature-min](/pripravky-pre-zdravu-vyzivu-flp/nature-min).
 
 *Obsahuje*: [Chia](/sip/p/chia-zlata/) (Salvia columbariae) 160
-mg, zmes žen-šeň (orientálny 40 mg a [sibírsky](/bylinky/vsehojovec-stetinaty)
+mg, zmes žen-šeň (orientálny 40 mg a [sibírsky](/sip/bylinky/vsehojovec-stetinaty)
 20 mg), vápnik 65 mg, vitamín C 50 mg, kajenská paprika; bylinky spolu sú
 nositeľmi vitamínu A, B1, B2, D, tiaminu, riboflavínu, železa, sodíka, draslíka,
 zinku, medi, horčíka a mangánu.

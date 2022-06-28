@@ -2,13 +2,13 @@ Forever Ginkgo Plus
 ===================
 
 **Forever Ginkgo Plus** je **vysokoúčinný antioxidant**.
-[Ginkgo](/bylinky/ginkgo-dvojlalocne) **zvyšuje cirkuláciu krvi** v mozgu,
+[Ginkgo](/sip/bylinky/ginkgo-dvojlalocne) **zvyšuje cirkuláciu krvi** v mozgu,
 pozitívne pôsobí na pamäť a psychické vyčerpanie, zlepšuje náladu a energiu,
 **zvyšuje koncentráciu** a činnosť metabolizmu. V tomto prípravku je
 skombinované ginkgo s ďalšími tromi účinnými čínskymi bylinkami:
 
 * ganoderma (huba reiši; reishi)
-* plod [schizandry čínskej](/bylinky/schizandra-cinska)
+* plod [schizandry čínskej](/sip/bylinky/schizandra-cinska)
 * upravený koreň Fo - ti.
 
 Touto kombináciu vzniklo jedinečné mozgové tonikum. Prípravok je vhodný aj pre

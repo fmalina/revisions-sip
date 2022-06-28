@@ -25,5 +25,5 @@ dlhodobá konzumácia piva u mužov spôsobuje zväčšenie prsných žliaz.
 
 Aplikáciu bylinky nájdete v elixíroch [Myorel](/elixiry/myorel-elixir),
 [Neuren](/elixiry/neuren-elixir) a [Hypnosan](/elixiry/hypnosan), čaji
-[Nervus](/caje/nervus) a [Pre deti](/caje/pre-deti).
+[Nervus](/sip/caje/nervus) a [Pre deti](/sip/caje/pre-deti).
 

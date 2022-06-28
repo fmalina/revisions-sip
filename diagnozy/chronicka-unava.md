@@ -38,4 +38,4 @@ Balíček odporučených prípravkov proti chronickej únave
 * [Stimulen](/sip/elixiry/stimulen-elixir) eixír
 * [Disbiosan](/sip/elixiry/disbiosan-elixir) elixír
 * [Sayonara](/sip/caje/sayonara) čajovina
-* [BCAA Liquid](/sip/zdravie/bcaa-l-carnitin)
+* [BCAA Liquid](/sip/cvi/bcaa-l-carnitin)

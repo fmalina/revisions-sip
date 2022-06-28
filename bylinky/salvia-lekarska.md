@@ -28,6 +28,6 @@ cestoviny.  *Upozornenie*: Nie je vhodná pre deti, tehotné (abortus) a ani
 dojčiace matky pre obsah jedovatého thujonu. Neodporúča sa aplikovať ani u
 epileptikov, pretože pri užívaní vo vyšších dávkach vyvoláva kŕče podobné
 epileptickým.  Aplikáciu bylinky nájdete na stránke tinktúry
-[Šalvia](/tinktury-jednobylinkove/salvia), čajoviny [Nekašel](/caje/nekasel) a
+[Šalvia](/tinktury-jednobylinkove/salvia), čajoviny [Nekašel](/sip/caje/nekasel) a
 [Telové sviečky](/aplikacia-telovych-cakrovych-sviecok).  ###
 

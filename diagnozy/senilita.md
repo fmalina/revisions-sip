@@ -27,5 +27,5 @@ Balíček odporučených prípravkov proti rozvoju senility
 * [Ginkgo](/sip/tinktury-jednobylinkove/ginkgo) tinktúra
 * [Veronika](/sip/tinktury-jednobylinkove/veronika) tinktúra
 * [Pečeňový](/sip/caje/pecenovy-u-caj) - U čaj
-* [BCAA Liquid](/sip/zdravie/bcaa-l-carnitin)
+* [BCAA Liquid](/sip/cvi/bcaa-l-carnitin)
 * Olivový panenský olej; lisovaný za studena 1PL denne *(v obchodnej sieti)*

@@ -21,6 +21,6 @@ proti spazmatickej kolitíde a hnačke, lebo zmierňuje kŕče. Slez je
 neoddeliteľnou súčasťou utišujúcich kozmetických prípravkov.
 
 Aplikáciu bylinky nájdete na stránke čaju [Žalúdok a
-črevá,](/caje/zaludok-creva)[Siesta](/caje/siesta) a
-[Bronchiol](/caje/bronchiol).
+črevá,](/sip/caje/zaludok-creva)[Siesta](/sip/caje/siesta) a
+[Bronchiol](/sip/caje/bronchiol).
 

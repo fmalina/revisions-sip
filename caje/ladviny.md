@@ -9,7 +9,7 @@ mechúre. Užívanie tohto čaju sa osvedčilo aj pri eliminácií problémov s
 
 Obsahuje:
 
-* kvet [rumančeka kamilkového](/bylinky/rumancek-kamilkovy/) a [hluchavky bielej](/bylinky/hluchavka-biela/) s vňaťou
-* list [brezy previsnutej](/bylinky/breza-previsnuta/)
-* vňať a kvet [vresu obyčajného](/bylinky/vres-obycajny/)
-* vňať [zlatobyle obyčajnej](/bylinky/zlatobyl-obycajna/) a [túžobníka brestového](/bylinky/tuzobnik-brestovy/)
+* kvet [rumančeka kamilkového](/sip/bylinky/rumancek-kamilkovy/) a [hluchavky bielej](/sip/bylinky/hluchavka-biela/) s vňaťou
+* list [brezy previsnutej](/sip/bylinky/breza-previsnuta/)
+* vňať a kvet [vresu obyčajného](/sip/bylinky/vres-obycajny/)
+* vňať [zlatobyle obyčajnej](/sip/bylinky/zlatobyl-obycajna/) a [túžobníka brestového](/sip/bylinky/tuzobnik-brestovy/)

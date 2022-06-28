@@ -30,6 +30,6 @@ hmyz, zlepšuje krvný obeh a chráni cievy.
 Aplikáciu bylinky nájdete na stránke tinktúry
 [Zlatobyľ](/tinktury-jednobylinkove/zlatobyl-2), zmesi [Obličková
 zmes](/sip/p/oblickova-zmes-ledvinova-smes/) a stránkach čajov
-[Cholestin](/caje/cholestin-zlcnikovy), [Pre pánov](/caje/pre-panov) a
-[Ľadviny](/caje/ladviny).
+[Cholestin](/sip/caje/cholestin-zlcnikovy), [Pre pánov](/sip/caje/pre-panov) a
+[Ľadviny](/sip/caje/ladviny).
 

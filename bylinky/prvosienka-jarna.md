@@ -26,6 +26,6 @@ aj ako dezinfekčná ústna voda.
 
 *Upozornenie*: Vonkajšie použitie ojedinele vyvoláva kožnú alergiu.
 
-Aplikáciu bylinky nájdete na stránke čaje v [Bronchiol](/caje/bronchiol) a
-[Nervus](/caje/nervus).
+Aplikáciu bylinky nájdete na stránke čaje v [Bronchiol](/sip/caje/bronchiol) a
+[Nervus](/sip/caje/nervus).
 

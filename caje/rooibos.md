@@ -8,7 +8,7 @@ povzbudzujúce látky. Utišuje zažívací trakt a bolesti hlavy. Pomáha preko
 nespavosť. Aplikácia je tiež vhodná pri alergických reakciách na niektoré druhy
 potravín.
 
-Obsahuje [čajovníkovec kapský](/bylinky/rooibos-kapsky/) s kvalitnými
+Obsahuje [čajovníkovec kapský](/sip/bylinky/rooibos-kapsky/) s kvalitnými
 trieslovinami a množstvom stopových prvkov ako sú:
 
 * železo

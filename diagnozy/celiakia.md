@@ -41,4 +41,4 @@ Balíček odporučených prípravkov proti celiakii
 * [Psyllium](/sip/caje/psyllium) vláknina (aplikáciu preštudujte na tejto linke)
 * [Disbiosan](/sip/elixiry/disbiosan-elixir) elixír
 * [Žalúdok a črevá](/sip/caje/zaludok-creva) čaj
-* [BCAA](/sip/zdravie/bcaa-l-carnitin) Liquid
+* [BCAA](/sip/cvi/bcaa-l-carnitin) Liquid

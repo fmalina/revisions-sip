@@ -39,4 +39,4 @@ Balíček odporučených prípravkov na prevenciu proti srdcovo – cievnym chor
 * [Hloh](/sip/tinktury-jednobylinkove/hloh) tinktúra
 * [Ľadvinový](/sip/caje/ladviny) čaj
 * [Psyllium](/sip/caje/psyllium) vláknina
-* [BCAA Liquid](/sip/zdravie/bcaa-l-carnitin)
+* [BCAA Liquid](/sip/cvi/bcaa-l-carnitin)

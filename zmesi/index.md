@@ -11,8 +11,7 @@ Pozorne si **prečítajte** upozornenia pri každom výrobku; upozornenia sú
 citované z príslušného Rozhodnutia Ministerstva zdravotníctva.
 
 V tejto sekcii sú len tinktúry macerované a miešané z viacerých bylín, ale
-dostupné sú aj [jedno - bylinkové
-tinktúry](/sip/tinktury/jedno-bylinkove/).
+dostupné sú aj [jednobylinkové tinktúry](/sip/tinktury/).
 
 *Tinktúry sú alkoholové maceráty v balení 30 ml v matnej fľaške. Spravidla (ak
 nie je pri konkrétnej tinktúre uvedené inak) sa dávkujú trikrát denne a to tak,

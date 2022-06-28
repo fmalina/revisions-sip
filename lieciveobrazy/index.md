@@ -1,8 +1,12 @@
-Tričká
-======
+Tričká a Trip tašky (mimo predaj)
+=================================
 
-Ospravedlňujeme sa, ale stránky Tričká sú dočasne nedostupné - budeme radi, ak Vám oznámime presný opak!
-========================================================================================================
+*Tieto stránky sú spracované podľa podkladov Marie Kučerovej (Art – Mehrid,
+Prievidza), ktorej budú zaslané Vaše objednávky na realizáciu.*
+
+Na stránkach [Tričká](/sip/lieciveobrazy/tricka) a [Tašky](/sip/lieciveobrazy/tasky)
+sa dozvedáte o autorke, jej pocitoch, vyznaniach a o produktoch z jej tvorivej dielne.
+Je na Vás, či tieto informácie prijmete s rešpektom, úctou a láskou, alebo odmietnete.
 
 … presnejšie liečivé a ochranné obrazce…
 
@@ -97,6 +101,3 @@ Vám, ktorí ste akceptovali obsah a formu obrazcov na tričkách.
 > chorôb sú od „mojich“ anjelov, pacienti v mojej ordinácii sú poslaní anjelmi.
 > Cítim, že na tejto našej ceste životom som skutočne malý medzičlánok v možnej
 > pomoci. Kto to presne vie …? To môže posúdiť len Najvyššia moc …“*
-> 
-> 
-

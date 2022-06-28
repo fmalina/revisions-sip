@@ -11,12 +11,12 @@ klimakterických ťažkostiach a mužom pomáha pri
 **normalizuje** hladinu cukru v krvi a zlepšuje cirkuláciu krvi.
 
 *Obsahuje*: kvet [Aloe vera](/sip/p/aloe-vera/),
-[škorica](/bylinky/skoricovnik-cejlonsky), [pomarančová
+[škorica](/sip/bylinky/skoricovnik-cejlonsky), [pomarančová
 kôra](/sip/p/citronovnik-pomarancovy/),
 [klinčeky](/sip/p/klincekovec-vonavy/),
-[ďumbier](/bylinky/dumbier-lekarsky), nové korenie,
+[ďumbier](/sip/bylinky/dumbier-lekarsky), nové korenie,
 [kardamón](/sip/p/kardamovnik-malabarsky/),
-[fenikel](/bylinky/fenikel-obycajny), [rumanček](/bylinky/rumancek-kamilkovy),
+[fenikel](/sip/bylinky/fenikel-obycajny), [rumanček](/sip/bylinky/rumancek-kamilkovy),
 listy [černice](/sip/p/ostruzina-cernicova-ostruzina-krovita/) a
 Gymnemma Sylvestre (*reguluje hladinu cukru v krvi tým, že potláča chuť na
 sladké, potláča vstrebávanie cukru a podporuje tvorbu a regeneráciu

@@ -2,7 +2,7 @@ Telové sviečky
 ==============
 
 Aplikácia **telových
-[čakrových](/sip/cakry-zakladne-informacie/ "čakry viac info")
+[čakrových](/sip/cakry/ "čakry viac info")
 sviečok** je starodávna alternatívna liečebná (*preventívna*) metóda. **Telové
 sviečky** (tiež z dielne firmy Gizely Halászovej) sú väčšie ako ušné sviečky, sa
 skladajú z bavlnenej látky, ktorá je zmotaná do kuželového tvaru a je nasiaknutá

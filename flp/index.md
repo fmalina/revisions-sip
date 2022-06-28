@@ -28,7 +28,7 @@ z celkovej ponuky je štruktúrovaný:
 * sada kozmetiky Aloe Fleur de Jouvence® ([sada](/sip/p/aloe-fleur-de-juouvence/), [Firming Foundation Lotion](/sip/p/firming-foundation-lotion/), [Rehydrating Toner](/sip/p/rehydrating-toner/), [Exfoliating Cleanser](/sip/p/exfoliating-cleanser/), [Aloe Activator](/sip/p/aloe-activator/), [Recovering Night Creme](/sip/p/recovering-night-creme/), [Facial Countour Mask Powder](/sip/p/facial-contour-mask-powder/))
 
 Druhým zdrojom (okrem Forever Living  Products Slovakia) je medzinárodná sieť
-[CaliVita International](/sip/zdravie), ktorá sa prezentuje
+[CaliVita International](/sip/cvi), ktorá sa prezentuje
 širokým produktovým portfóliom pre všetky vekové kategórie.
 
 Nepreferujeme v ponuke ani jednu sieť, pretože staviame na Vašom rozhodnutí, čo

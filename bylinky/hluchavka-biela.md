@@ -30,6 +30,6 @@ obluda, ktorou sa hrozilo neposlušným deťom.
 
 Aplikáciu bylinky nájdete na stránke elixírov [Neuren](/elixiry/neuren-elixir) a
 [Nefronen](/elixiry/nefronen-elixir) a tiež na stránke čajov [Pre
-ženy,](/caje/pre-zeny) [Ľadvinový čaj](/caje/ladviny) a
-[Cholestin](/caje/cholestin-zlcnikovy).
+ženy,](/sip/caje/pre-zeny) [Ľadvinový čaj](/sip/caje/ladviny) a
+[Cholestin](/sip/caje/cholestin-zlcnikovy).
 

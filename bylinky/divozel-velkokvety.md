@@ -33,5 +33,5 @@ aplikácie.
 
 Táto bylinka je použitá v tinktúre [Divozel,](/tinktury-jednobylinkove/divozel)
 elixíroch [Cardolen](/elixiry/cardolen-elixir) a
-[Respiran](/elixiry/respiran-elixir) a čaji [Siesta](/caje/siesta).
+[Respiran](/elixiry/respiran-elixir) a čaji [Siesta](/sip/caje/siesta).
 

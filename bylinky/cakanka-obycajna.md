@@ -21,6 +21,6 @@ endokrinných žliaz. Osvedčil sa aj v liečbe príznakov tráviacich porúch
 a choleretikum povzbudzujúce tvorbu žlče. Zastavuje množenie baktérii a znižuje
 hladiny tukov a cholesterolu v krvi.
 
-Aplikáciu bylinky nájdete v čaji [Cholesterol](/caje/cholesterol) a
-[Hepatik](/caje/hepatik).
+Aplikáciu bylinky nájdete v čaji [Cholesterol](/sip/caje/cholesterol) a
+[Hepatik](/sip/caje/hepatik).
 

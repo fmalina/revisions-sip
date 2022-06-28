@@ -23,5 +23,5 @@ podporuje trávenie, utišujúco pôsobí na bolesti brucha (kolika) a aerofági
 - veda o mlieku*). Dnes sa hojne používa na dochucovanie syrov, chleba, pečiva a
 cukrárskych výrobkov.
 
-Aplikáciu bylinky nájdete na stránke [Brnenský čaj](/caje/brnensky).
+Aplikáciu bylinky nájdete na stránke [Brnenský čaj](/sip/caje/brnensky).
 

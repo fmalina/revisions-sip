@@ -36,7 +36,7 @@ de Charme*", jeden z prvých parfumov.
 Aplikáciu bylinky nájdete na stránkach tinktúry
 [Medovka](/tinktury-jednobylinkove/medovka), stránke elixírov
 [Neuren](/elixiry/neuren-elixir) a [Hypnosan](/elixiry/hypnosan) a stránke čajov
-[Nervus](/caje/nervus), [Pre deti,](/caje/pre-deti)[Veverský
-čaj](/caje/veversky), [Hlavabol](/caje/hlavabol) a stránke [Ušné
+[Nervus](/sip/caje/nervus), [Pre deti,](/sip/caje/pre-deti)[Veverský
+čaj](/sip/caje/veversky), [Hlavabol](/sip/caje/hlavabol) a stránke [Ušné
 sviečky](/sip/p/usne-sviecky/).
 

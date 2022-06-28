@@ -8,9 +8,9 @@ Bylinný čaj **Pre pánov** je lahodná, chuťovo vyvážená čajová zmes (20
 Obsahuje:
 
 * vňať
-	+ [pamajoránu obyčajného](/bylinky/zlatobyl-obycajna/)
-	+ [zlatobyle obyčajnej](/bylinky/tuzobnik-brestovy/)
-	+ [túžobníka brestového](/bylinky/vrbovka-horska/)
-	+ [vrbovky horskej](/bylinky/stavikrv-vtaci/)
-	+ [stavikrvu vtáčieho](/bylinky/stavikrv-vtaci/)
-* list [brezy previsnutej](/bylinky/breza-previsnuta/)
+	+ [pamajoránu obyčajného](/sip/bylinky/zlatobyl-obycajna/)
+	+ [zlatobyle obyčajnej](/sip/bylinky/tuzobnik-brestovy/)
+	+ [túžobníka brestového](/sip/bylinky/vrbovka-horska/)
+	+ [vrbovky horskej](/sip/bylinky/stavikrv-vtaci/)
+	+ [stavikrvu vtáčieho](/sip/bylinky/stavikrv-vtaci/)
+* list [brezy previsnutej](/sip/bylinky/breza-previsnuta/)

@@ -9,6 +9,6 @@ ochorení pečene. Vhodný zdroj na kvalitný pitný režim detí aj dospelých.
 
 Obsahuje:
 
-* list a plody [jahody obyčajnej](/bylinky/jahoda-obycajna/)
-* kvet [ibišteka krvavého](/bylinky/ibistek-krvavy/)
-* plod [schizandry čínskej](/bylinky/schizandra-cinska/)
+* list a plody [jahody obyčajnej](/sip/bylinky/jahoda-obycajna/)
+* kvet [ibišteka krvavého](/sip/bylinky/ibistek-krvavy/)
+* plod [schizandry čínskej](/sip/bylinky/schizandra-cinska/)

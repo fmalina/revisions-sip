@@ -26,6 +26,6 @@ myší chvost) - môže dôjsť ku alergickým reakciám.
 
 Aplikáciu bylinky nájdete v tinktúre
 [Benedikt](/tinktury-jednobylinkove/benedikt), elixíre
-[Respiran](/elixiry/respiran-elixir) a [Pečeňovom](/caje/pecenovy-u-caj) - U
+[Respiran](/elixiry/respiran-elixir) a [Pečeňovom](/sip/caje/pecenovy-u-caj) - U
 čaji.
 

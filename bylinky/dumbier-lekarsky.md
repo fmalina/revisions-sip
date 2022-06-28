@@ -35,7 +35,7 @@ zabráni morskej chorobe.
 aplikovať pri peptickom vrede, kolitíde, v tehotenstve ako aj pri hypertenzii. V
 niektorých prípadoch môže vyvolať vyrážky (schopnosť silne prekrviť pokožku).
 
-Aplikácia bylinky je na stránke čajov [MU](/caje/mu), v produkte [Slim
+Aplikácia bylinky je na stránke čajov [MU](/sip/caje/mu), v produkte [Slim
 Formula](/sip/p/slim-formula/) a [Forever Active
 HA](/sip/p/forever-active-ha/).
 

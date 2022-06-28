@@ -28,6 +28,6 @@ zápar, zápar do kúpeľa a odvary.
 alebo lesklými listami. Denné (ani dlhodobé) pitie lipového čaju sa neodporúča
 (Bodlák, J.)
 
-Aplikáciu bylinky nájdete na stránke čajov [Chrípka](/caje/chripka) a [Veverský
-čaj](/caje/veversky).
+Aplikáciu bylinky nájdete na stránke čajov [Chrípka](/sip/caje/chripka) a [Veverský
+čaj](/sip/caje/veversky).
 

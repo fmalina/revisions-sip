@@ -13,9 +13,9 @@ popisovaným čajom.
 Obsahuje:
 
 * listy [čajovníka čínskeho](/sip/p/cajovnik-cinsky/) (zelený čaj)
-* vňať [pamajoránu obyčajného](/bylinky/pamajoran-obycajny/)
-* koreň [čakanky obyčajnej](/bylinky/cakanka-obycajna/)
-* koreň [púpavy lekárskej](/bylinky/pupava-lekarska/)
+* vňať [pamajoránu obyčajného](/sip/bylinky/pamajoran-obycajny/)
+* koreň [čakanky obyčajnej](/sip/bylinky/cakanka-obycajna/)
+* koreň [púpavy lekárskej](/sip/bylinky/pupava-lekarska/)
 * vňať [repíka lekárskeho](/sip/p/repik-lekarsky/)
-* vňať [veroniky lekárskej](/bylinky/veronika-lekarska/)
-* kvet [slamihy piesočnej](/bylinky/slamiha-piesocna/)
+* vňať [veroniky lekárskej](/sip/bylinky/veronika-lekarska/)
+* kvet [slamihy piesočnej](/sip/bylinky/slamiha-piesocna/)

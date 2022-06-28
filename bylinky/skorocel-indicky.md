@@ -37,7 +37,7 @@ nepríjemným dojmom a chuťou, treba nasypať do tekutiny a hneď vypiť, semie
 napučia i v žalúdku a vyhnete sa nie práve príjemnému pocitu).
 
 Aplikáciu bylinky nájdete na stránke Vlákniny, resp. čajoviny
-[Psyllium](/caje/psyllium), [Bronchiol](/caje/bronchiol) a
-[Nekašel](/caje/nekasel) a tiež na stránke tinktúry [Priedušková
+[Psyllium](/sip/caje/psyllium), [Bronchiol](/sip/caje/bronchiol) a
+[Nekašel](/sip/caje/nekasel) a tiež na stránke tinktúry [Priedušková
 zmes](/tinktury/prieduskova-zmes).
 

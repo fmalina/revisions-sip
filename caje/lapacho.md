@@ -15,5 +15,5 @@ vody, necháme 5 minút variť, odstavíme na 15 minút, schladíme a pijeme
 (napríklad v rámci pitného režimu dňa)
 
 Má preventívne proti rakovinové účinky. Čajový závar z [bylinky
-Lapacho](/bylinky/lapacho/) má veľmi jemnú a príjemnú chuť.
+Lapacho](/sip/bylinky/lapacho/) má veľmi jemnú a príjemnú chuť.
 

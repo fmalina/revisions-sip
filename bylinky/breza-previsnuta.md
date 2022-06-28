@@ -25,6 +25,6 @@ stromy - u nás zakázané!
 
 Aplikáciu bylinky nájdete v elixíre [Reumel](/elixiry/reumel-elixir), tinktúre
 [Čistiaca zmes](/tinktury/cistiaca-zmes) a čajoch [Pre
-pánov,](/caje/pre-panov)[Čaj na](/caje/ladviny) [ľadviny](/caje/ladviny) a
-[Cholestin](/caje/cholestin-zlcnikovy).
+pánov,](/sip/caje/pre-panov)[Čaj na](/sip/caje/ladviny) [ľadviny](/sip/caje/ladviny) a
+[Cholestin](/sip/caje/cholestin-zlcnikovy).
 

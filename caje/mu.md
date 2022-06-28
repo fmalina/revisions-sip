@@ -24,10 +24,10 @@ Zmes obsahuje:
 
 * [japonský petržlen](/sip/p/petrzlen-japonsky/),
 * [pomaranč](/sip/p/citronovnik-pomarancovy/) (kôra),
-* [cyprus vždyzelený](/bylinky/cyprus-vzdyzeleny/),
+* [cyprus vždyzelený](/sip/bylinky/cyprus-vzdyzeleny/),
 * [škoricovník](/sip/p/skoricovnik-cejlonsky/),
 * [broskyňa](/sip/p/broskyna-obycajna/) (jadro),
-* [ďumbier lekársky](/bylinky/dumbier-lekarsky/),
+* [ďumbier lekársky](/sip/bylinky/dumbier-lekarsky/),
 * [pivonka lekárska](/sip/p/pivonka-lekarska/) (koreň),
 * [ženšen pravý](/sip/p/zensen-pravy/)
 * a japonské byliny.

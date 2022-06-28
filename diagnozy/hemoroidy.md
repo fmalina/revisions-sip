@@ -30,6 +30,6 @@ Balíček odporučených prípravkov proti hemoroidom
 * [Psyllium](/sip/caje/psyllium) vláknina
 * [Žalúdok a črevá](/sip/caje/zaludok-creva) čaj
 * [Rooibos](/sip/caje/rooibos) čaj
-* [BCAA Liquid](/sip/zdravie/bcaa-l-carnitin)
+* [BCAA Liquid](/sip/cvi/bcaa-l-carnitin)
 * Balzam (vyrobiť čípky; napríklad [Aloe Lips](/sip/p/aloe-lips/) - ***nie je v cene*** balíčka)
 * Olivový olej panenský; v obchodnej sieti, 1 PL denne

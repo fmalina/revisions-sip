@@ -28,5 +28,5 @@ dávali obhrýzyť deťom, aby sa im prerezali zúbky.
 *Upozornenie*: Podzemné časti divokorastúcich rastlín je zakázané vykopávať - sú
 chránené!
 
-Aplikáciu bylinky nájdete na stránke čaje v [Bronchiol](/caje/bronchiol).
+Aplikáciu bylinky nájdete na stránke čaje v [Bronchiol](/sip/caje/bronchiol).
 

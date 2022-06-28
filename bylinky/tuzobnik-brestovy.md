@@ -50,5 +50,5 @@ malé deti. Pri dlhodobom používaní môže viesť k problémom so žalúdkom 
 
 Aplikáciu bylinky nájdete na stránkach tiknktúr
 [Túžobník](/tinktury-jednobylinkove/tuzobnik) a čaju
-[Bronchiol](/caje/bronchiol).
+[Bronchiol](/sip/caje/bronchiol).
 

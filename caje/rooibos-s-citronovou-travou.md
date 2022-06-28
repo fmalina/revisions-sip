@@ -8,7 +8,7 @@ Neobsahuje kofeín a iné povzbudzujúce látky. Utišuje zažívací trakt a bo
 hlavy. Pomáha prekonávať nespavosť. Aplikácia je tiež vhodná pri alergických
 reakciách na niektoré druhy potravín.
 
-Obsahuje [čajovníkovec kapský](/bylinky/rooibos-kapsky/) a [citrónovú
+Obsahuje [čajovníkovec kapský](/sip/bylinky/rooibos-kapsky/) a [citrónovú
 trávu](/sip/p/citronova-trava/) s kvalitnými trieslovinami a
 množstvom stopových prvkov, ako sú železo, meď, zinok, mangán, horčík, vápnik,
 molybdén a ďalšie.

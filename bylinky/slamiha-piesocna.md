@@ -26,5 +26,5 @@ traktu. Vhodný aj ako prevencia pred problémami s trávením.
 *Upozornenie*: Vo všetkých prípadoch užívania nasleduje po 3. týždňoch 1. týždeň
 pauza. Nie je určené pre deti do 3. rokov!
 
-Aplikáciu bylinky nájdete na stránke čajoviny [Cholesterol](/caje/cholesterol).
+Aplikáciu bylinky nájdete na stránke čajoviny [Cholesterol](/sip/caje/cholesterol).
 

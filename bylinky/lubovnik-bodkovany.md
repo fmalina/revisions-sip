@@ -31,5 +31,5 @@ kŕče a podráždenie. Dôležité je, aby sme si ľubovník bodkovaný nepopli
 príbuznými druhmi, ktoré sa nezbierajú a ani sa nesmú v droge nachádzať.
 
 Aplikáciu bylinky nájdete na stránke tinktúry
-[Ľubovník](/tinktury-jednobylinkove/lubovnik) a čaji [Nervus](/caje/nervus).
+[Ľubovník](/tinktury-jednobylinkove/lubovnik) a čaji [Nervus](/sip/caje/nervus).
 

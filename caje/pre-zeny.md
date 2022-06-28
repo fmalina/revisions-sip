@@ -8,9 +8,9 @@ zápaloch vaječníkov a problémoch počas [klimaktéria](/diagnozy/menopauza).
 
 Obsahuje:
 
-* vňať [medovky lekárskej](/bylinky/medovka-lekarska/),
-* vňať [alchemilky žltozelenej](/bylinky/alchemilka-zltozelena/)
-* vňať [nátržníka husieho](/bylinky/natrznik-husaci/)
-* kvet [hluchavky bielej](/bylinky/hluchavka-biela/)
-* kvet a vňať [vresu obyčajného](/bylinky/vres-obycajny/)
-* list [rozmarína lekárskeho](/bylinky/rozmarin-lekarsky/).
+* vňať [medovky lekárskej](/sip/bylinky/medovka-lekarska/),
+* vňať [alchemilky žltozelenej](/sip/bylinky/alchemilka-zltozelena/)
+* vňať [nátržníka husieho](/sip/bylinky/natrznik-husaci/)
+* kvet [hluchavky bielej](/sip/bylinky/hluchavka-biela/)
+* kvet a vňať [vresu obyčajného](/sip/bylinky/vres-obycajny/)
+* list [rozmarína lekárskeho](/sip/bylinky/rozmarin-lekarsky/).

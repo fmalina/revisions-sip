@@ -19,4 +19,4 @@ Balíček odporučených prípravkov proti mononukleóze
 * [Pečeňový](/sip/caje/pecenovy-u-caj) - U čaj
 * [Sayonara](/sip/caje/sayonara) čaj
 * [Pestrec mariánsky](/sip/caje/pestrec) mletý *(aplikovať v pomere 4:1 s Glukopur 1PL)*
-* [BCAA](/sip/zdravie/bcaa-l-carnitin)
+* [BCAA](/sip/cvi/bcaa-l-carnitin)

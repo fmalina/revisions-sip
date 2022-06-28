@@ -30,5 +30,5 @@ prsníkov.
 
 Aplikáciu bylinky nájdete na stránke tinktúry
 [Púpava](/tinktury-jednobylinkove/pupava) a čaju
-[Cholestin](/caje/cholestin-zlcnikovy).
+[Cholestin](/sip/caje/cholestin-zlcnikovy).
 

@@ -10,7 +10,7 @@ a stimuláciu imunitného systému.
 
 Obsahuje:
 
-* kvet [bazy čiernej](/bylinky/baza-cierna/)
-* kvet [lipy malolistej](/bylinky/lipa-malolista/)
-* kvet [echinacei purpurea](/bylinky/echinacea-purpurea/)
-* vňať [túžobníka brestového](/bylinky/tuzobnik-brestovy/).
+* kvet [bazy čiernej](/sip/bylinky/baza-cierna/)
+* kvet [lipy malolistej](/sip/bylinky/lipa-malolista/)
+* kvet [echinacei purpurea](/sip/bylinky/echinacea-purpurea/)
+* vňať [túžobníka brestového](/sip/bylinky/tuzobnik-brestovy/).

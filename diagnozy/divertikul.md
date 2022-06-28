@@ -34,7 +34,7 @@ Balíček odporučených prípravkov proti divertikulu
 * [Echinacea](/sip/tinktury-jednobylinkove/echinacea) (Třapatka) tinktúra
 * [Kapucínka](/sip/tinktury-jednobylinkove/kapucinka) (Lichořeřišnice) tinktúra
 * [Žalúdočná zmes](/sip/tinktury/zaludocna-zmes) tinktúra
-* [BCAA Liquid](/sip/zdravie/bcaa-l-carnitin)
+* [BCAA Liquid](/sip/cvi/bcaa-l-carnitin)
 * [Rooibos](/sip/caje/rooibos) čaj
 * [Psyllium](/sip/caje/psyllium) vláknina
 * [Sayonara](/sip/caje/sayonara) čaj

@@ -34,5 +34,5 @@ spôsobiť nežiadúce vedľajšie účinky, ktoré vyvolávajú estrogénne lá
 
 Aplikáciu bylinky nájdete na stránke tinktúry
 [Nechtík](/tinktury-jednobylinkove/nechtik) a stránke čaj
-[Cholestin](/caje/cholestin-zlcnikovy).
+[Cholestin](/sip/caje/cholestin-zlcnikovy).
 

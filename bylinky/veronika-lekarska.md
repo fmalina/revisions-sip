@@ -20,5 +20,5 @@ prostriedok vhodný na liečenie hnisajúcich rán a slnkom popálenej kože.
 
 Aplikáciu bylinky nájdete na stránke tinktúry
 [Veronika](/tinktury-jednobylinkove/veronika), na stránke elixíru
-[Klimakten](/elixiry/klimakten-elixir) a čaju [Cholesterol](/caje/cholesterol).
+[Klimakten](/elixiry/klimakten-elixir) a čaju [Cholesterol](/sip/caje/cholesterol).
 

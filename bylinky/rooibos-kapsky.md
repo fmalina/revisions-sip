@@ -41,7 +41,7 @@ kyslíkové radikály, majú teda protirakovinové účinky a pôsobia proti
 srdcovo-cievnym chorobám a starnutiu organizmu. Čaj-nečaj blahodarne vplýva na
 pečeň, znižuje hladinu cukru v krvi a pomáha pri zápche.
 
-Aplikáciu bylinky nájdete na stránke čajov [Siesta](/caje/siesta),
-[Rooibos](/caje/rooibos) a [Rooibos s citrónovou
-trávou](/caje/rooibos-s-citronovou-travou).
+Aplikáciu bylinky nájdete na stránke čajov [Siesta](/sip/caje/siesta),
+[Rooibos](/sip/caje/rooibos) a [Rooibos s citrónovou
+trávou](/sip/caje/rooibos-s-citronovou-travou).
 

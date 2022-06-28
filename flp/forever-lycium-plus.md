@@ -16,8 +16,8 @@ pečene. Má pozitívny vplyv na zrak a pľúca. Má silné protizápalové úč
 kombinácii s Bee Propolis a [Aleo Vera
 Gel](/pripravky-pre-zdravu-vyzivu-flp/aloe-vera-gel).
 
-*Obsahuje*: [Lycium](/bylinky/lycium) (plod kustovnice čínskej) 300 mg,
-flavonoidy z koreňa [sladkovky](/bylinky/sladovka-hladkoploda) 37,5 mg.
+*Obsahuje*: [Lycium](/sip/bylinky/lycium) (plod kustovnice čínskej) 300 mg,
+flavonoidy z koreňa [sladkovky](/sip/bylinky/sladovka-hladkoploda) 37,5 mg.
 
 *Obsah*: 100 tabliet
 
