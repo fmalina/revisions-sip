@@ -24,6 +24,4 @@ disodium EDTA, metylparabén a vôňa.*
 
 Obsah: *60 ml*
 
-Návod na použitie je na stránke [Aloe Fleur de
-Jouvence®](/sip/#p/aloe-fleur-de-juouvence).
-
+Návod na použitie je na stránke [Aloe Fleur de Jouvence®](/sip/produkty-FLP/aloe-fleur-de-juouvence).

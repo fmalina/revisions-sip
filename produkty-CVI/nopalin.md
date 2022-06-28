@@ -18,5 +18,4 @@ Obsah 200 ks
 *Odporučené dávkovanie*: 2 tabletky 3x denne pred jedlom, alebo podľa rady
 odborníka.
 
-Viacej na stránke [Liečivé bylinky](/sip/#p/opuncia-mexicka).
-
+Viacej na stránke [Liečivé bylinky](/sip/bylinky/opuncia-mexicka).

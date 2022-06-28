@@ -10,12 +10,12 @@ naše zdravie hrozbou. Zníženie hladiny cholesterolu čo i len o 1% pomôže
 zredukovať riziko vzniku srdcovo-cievnych ochorení najmenej o 10%. Spomedzi
 viacnásobne nenasýtených mastných kyselín sú mastné kyseliny omega-3 – spolu s
 primeraným pohybom a stravou – najvhodnejšie na zníženie hladiny cholesterolu.
-Najbohatším zdrojom mastných kyselín omega-3 v prírode je olej z [ľanových
-semien](/sip/#p/lan-siaty), ktorý obsahuje aj prípravok
+Najbohatším zdrojom mastných kyselín omega-3 v prírode je olej z
+[ľanových semien](/sip/bylinky/lan-siaty), ktorý obsahuje aj prípravok
 Cholestone™.
 
-*[Cesnak](/sip/#p/cesnak-kuchynsky)* zlepšuje funkciu
-srdcovo-cievneho systému, [lecitín](/sip/#p/soja-fazulova) a
+*[Cesnak](/sip/bylinky/cesnak-kuchynsky)* zlepšuje funkciu
+srdcovo-cievneho systému, [lecitín](/sip/bylinky/soja-fazulova) a
 chróm majú priaznivý účinok na metabolizmus tukov, vitamíny C a E pôsobia ako
 antioxidanty.
 
@@ -24,4 +24,3 @@ S ľahkým srdcom...
 Balenie 90 ks
 
 *Odporučené dávkovanie*: 3x jedna tableta denne
-

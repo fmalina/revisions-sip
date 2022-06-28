@@ -24,6 +24,4 @@ metylparebén, propylparabén a vôňa.*
 
 Obsah*: 56 gr*
 
-Návod na použitie je na stránke [Aloe Fleur de
-Jouvence®](/sip/#p/aloe-fleur-de-juouvence).
-
+Návod na použitie je na stránke [Aloe Fleur de Jouvence®](/sip/produkty-FLP/aloe-fleur-de-juouvence).

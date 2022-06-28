@@ -48,6 +48,5 @@ v obchodíku vydržať. Predavač si nasadil na ústa mokrú rúšku. Štipľav�
 aromatický dym zaplnil celý priestor a mletie sa muselo prerušovať, aby sa
 miestnosť vyvetrala...“*
 
-Aplikácia bylinky je v čajovej zmesi [Aloe Blossom
-Herbal](/sip/#p/aloe-blossom-herbal-tea).
-
+Aplikácia bylinky je v čajovej zmesi
+[Aloe Blossom Herbal](/sip/produkty-FLP/aloe-blossom-herbal-tea).

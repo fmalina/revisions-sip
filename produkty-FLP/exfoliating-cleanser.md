@@ -6,7 +6,7 @@ nedráždivé čistiace pleťové mlieko s vyváženým pH a vlhkosťou. Rýchlo
 odstraňuje make - up, nečistoty a neviditeľné šupinky. Používajte ho ako prvý
 krok v príprave na komplexné ošetrenie pleti, alebo jednoducho v každodennej
 starostlivosti o pleť. Mlieko obsahuje vyváženú zmes
-[jojobového](/sip/#p/jojoba) oleja a vody.
+[jojobového](/sip/bylinky/jojoba) oleja a vody.
 
 Zloženie: *stabilizovaný Aleo vera gél, deionizovaná voda, hydrogénovaný
 polyizobutén, C 12-15 benzoanalkyl, glycerolstearát, cetylalkohol,
@@ -18,6 +18,5 @@ kyselina askorbová, dimetikón, dvojsodná soľ EDTA, diazolidinyl močovina, i
 
 Obsah: *120 ml*
 
-Návod na použitie je na stránke [Aloe Fleur de
-Jouvence®](/sip/#p/aloe-fleur-de-juouvence).
-
+Návod na použitie je na stránke
+[Aloe Fleur de Jouvence®](/sip/produkty-FLP/aloe-fleur-de-juouvence).

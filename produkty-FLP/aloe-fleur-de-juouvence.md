@@ -21,12 +21,12 @@ na malom povrchu pokožky.
 
 Zostava *Aloe Fleur de Juouvence®* obsahuje:
 
-* [Firming Foundation Lotion](/sip/#p/firming-foundation-lotion)
-* [Rehydrating Toner](/sip/#p/rehydrating-toner)
-* [Exfoliating Cleanser](/sip/#p/exfoliating-cleanser)
-* [Aloe Activator](/sip/#p/aloe-activator)
-* [Recovering Night Creme](/sip/#p/recovering-night-creme)
-* [Facial Countour Mask Powder](/sip/#p/facial-contour-mask-powder)
+* [Firming Foundation Lotion](/sip/produkty-FLP/firming-foundation-lotion)
+* [Rehydrating Toner](/sip/produkty-FLP/rehydrating-toner)
+* [Exfoliating Cleanser](/sip/produkty-FLP/exfoliating-cleanser)
+* [Aloe Activator](/sip/produkty-FLP/aloe-activator)
+* [Recovering Night Creme](/sip/produkty-FLP/recovering-night-creme)
+* [Facial Countour Mask Powder](/sip/produkty-FLP/facial-contour-mask-powder)
 
 Návod na použitie režimu starostlivosti o pleť Aloe Fleur de Juouvence®
 -----------------------------------------------------------------------
@@ -80,4 +80,3 @@ podklad, na ktorý nanesiete make-up*
 
 *Večer špičkami prstov nanesiete Recovering Night Creme a jemne ním pokryte
 oblasť tváre a krku; to umožní spustiť v noci regeneračný proces*
-

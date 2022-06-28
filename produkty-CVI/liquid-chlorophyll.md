@@ -14,7 +14,7 @@ pravidelné vyprázdňovanie čriev.
 literatúre, ale „valí“ sa na nás aj z populárnych časopisov. Jedným z účinných
 detoxikantov je ***Liquid Chlorophyll***. Obsahuje *chlorofíny* (chlorofylovej
 soli sodíka a medi), ktoré sú extrahované z
-[lucerny](/sip/#p/lucerna-siata) a je koncentrovaným zdrojom
+[lucerny](/sip/bylinky/lucerna-siata) a je koncentrovaným zdrojom
 "*chlorofylu a*" a "*chlorofylu b*". A nasleduje ďalšia otázka - čo je to
 *chlorofyl*? Je to zelený fotosyntetický pigment, ktorý sa nachádza vo väčšine
 rastlín, rias a cyanobaktérií (baktérie schopné fotosyntézy a produkcie
@@ -62,5 +62,4 @@ dojčení.
 
 *Balenie*: 473 ml
 
-Viacej na stránke [Liečivé bylinky](/sip/#p/lucerna-siata).
-
+Viacej na stránke [Liečivé bylinky](/sip/bylinky/lucerna-siata).

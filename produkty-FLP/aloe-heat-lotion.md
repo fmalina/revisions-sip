@@ -3,7 +3,7 @@ Aloe Heat Lotion
 
 Krém **Aloe Heat Lotion** umožňuje po aplikácii rýchly ústup **únavy** a
 **bolesti** svalov. Emulzia oleja a vody, obsahujúca prírodné látky s hrejivými
-účinkami *(mentol a [eukalyptus](/sip/#p/eukalyptus))* a [Aloe
+účinkami *(mentol a [eukalyptus](/sip/bylinky/eukalyptus))* a [Aloe
 vera](/aloe-vera-bozsky-liek), emulzia je ideálna na **zmiernenie stresu** a
 **napätia** v organizme. Tento krém (požiteľný aj ako masážny) pomáha tiež na
 **uvoľnenie** bolestí pri artritických kĺboch, pri **bolesti** chrbta spôsobenej
@@ -15,4 +15,3 @@ hlavy, menštruačných bolestiach, opuchoch, výronoch a podliatinách.
 *Obsah*: 118 ml
 
 *Dávkovanie*: podľa potreby a rozsahu aplikácie
-

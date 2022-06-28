@@ -26,4 +26,4 @@ ovocie infikuje napríklad hubami ako je Botryotinia (nepríjemný vzhľad a m
 byť aj toxická).
 
 Aplikácia bylinky je v produkte [Fructavit](/sip/elixiry/duhovy-fructavit) a
-čaji [Aloe Blossom Herbal](/sip/#p/aloe-blossom-herbal-tea).
+čaji [Aloe Blossom Herbal](/sip/produkty-FLP/aloe-blossom-herbal-tea).

@@ -17,13 +17,13 @@ lactuca*)
 * spomaľujú proces artériosklerózy a znižujú vysoký krvný tlak; vitamín E, betakarotén a selén – ako lapači voľných radikálov – hrajú dôležitú úlohu v brzdení procesu artériosklerózy a zvyšovaní obranyschopnosti organizmu;
 * majú vysoký obsah vláknin, preto podporujú trávenie. Pri nadprodukcii žalúdočnej šťavy je ich blahodarný účinok rýchlo vnímaný.
 
-**[Aloe Vera](/sip/#p/aloe-vera)**
+**[Aloe Vera](/sip/bylinky/aloe-vera)**
 
 * Je bohatá na vápnik a obsahuje aj vitamín B12;
 * podporuje trávenie, cirkuláciu telesných tekutín, funkciu obličiek, pečene a žlčníka;
 * podporuje činnosť T-lymfocytov a tak zvyšuje odolnosť organizmu voči chorobám a ďalšie účinky na uvedenej stránke.
 
-[**Pau d´Arco**](/sip/#p/lapacho-matto-grosso)(Lapacho)
+[**Pau d´Arco**](/sip/bylinky/lapacho-matto-grosso)(Lapacho)
 
 * Rastlinka je bohatá na vápnik a železo, ktoré sú nenahraditeľné pre činnosť organizmu ale predovšetkým mozgu;
 * liečivá kôra je známa ako účinný adaptogén a všeobecný roborans (posilňujúci);
@@ -52,4 +52,3 @@ More zdravia...
 Balenie v objeme 946 ml
 
 *Odporučené dávkovanie*: dve polievkové lyžice 1x až 2x denne.
-

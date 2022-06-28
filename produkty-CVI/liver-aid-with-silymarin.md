@@ -1,4 +1,4 @@
-Liver Aid with Silymarín 
+Liver Aid with Silymarín
 =========================
 
 **Liver Aid with Silymarín** je moderný produkt ochraňujúci pečeň. Obsahuje
@@ -46,9 +46,8 @@ metabolického cyklu.
 * Alfa-lipoová kyselina 12,5 mg,
 * Chróm 25 g,
 * Selén 10 g,
-* [Pestrec mariánsky](/sip/#p/pestrec-mariansky) 15 mg.
+* [Pestrec mariánsky](/sip/bylinky/pestrec-mariansky) 15 mg.
 
 *Dávkovanie*: 3 až 6 toboliek denne
 
 *Obsah*: 100 tabliet
-

@@ -27,5 +27,4 @@ Balenie 120 ks
 
 *Odporučené dávkovanie*: 3x denne jedna kapsula alebo podľa rady lekára.
 
-Viac na stránke [Liečivé bylinky](/sip/#p/rozchodnica-ruzova).
-
+Viac na stránke [Liečivé bylinky](/sip/bylinky/rozchodnica-ruzova).

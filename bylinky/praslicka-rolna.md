@@ -28,6 +28,5 @@ nechutenstvo. Nezamieňať s príbuznými jedovatými druhmi. Ľahko ju môžeme
 s jedovatou prasličkou bahennou (*Equisetum palustre*) a prasličkou lesnou
 (*Equisetum silvaticum*), ktoré obsahujú zvýšené množstvo alkaloidných báz.
 
-Aplikáciu bylinky nájdete na stránke tinktúry [Obličková
-zmes](/sip/#p/oblickova-zmes-ledvinova-smes).
-
+Aplikáciu bylinky nájdete na stránke tinktúry
+[Obličková zmes](/sip/tinktury/zmes-oblickova-ledvinova).

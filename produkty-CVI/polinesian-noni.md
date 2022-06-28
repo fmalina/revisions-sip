@@ -51,7 +51,6 @@ stanovená jednak odporúčaná denná alebo terapeutická dávka.
 *Upozornenie*: Prípravky z *Noni* nie sú určené deťom do 15 rokov, tehotným a
 dojčiacim ženám a pri ochorení pečene.
 
-Viacej na stránke [Liečivé bylinky](/sip/#p/noni).
+Viacej na stránke [Liečivé bylinky](/sip/bylinky/noni).
 
 Balenie v objeme: 946 ml
-

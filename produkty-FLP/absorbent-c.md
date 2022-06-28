@@ -10,10 +10,9 @@ ciev) a z ďasien (skorbut). Absorbent C je vitamín s technológiou postupného
 uvoľňovania na prírodnom základe. Je to **silný antioxidant**.
 
 *Obsahuje*: 60 mg vitamínu C
-([papája](/sip/#p/papaja-obycajna)), 500 mg ovsených otrúb
+([papája](/sip/bylinky/papaja-obycajna)), 500 mg ovsených otrúb
 (vysoko rozpustná vláknina)
 
 *Obsah*: 100 tabliet
 
 *Dávkovanie*: Odporučené dávkovanie je minimálne 2 tabletky denne.
-

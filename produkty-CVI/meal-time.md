@@ -35,6 +35,5 @@ uvedených liekov na ľudský organizmus.
 
 *Dávkovanie*: 1-2 tablety po jedle alebo podľa potreby
 
-Viac o rastlinke papája je na stránke [Liečivé
-bylinky](/sip/#p/papaja-obycajna).
-
+Viac o rastlinke papája je na stránke
+[Liečivé bylinky](/sip/bylinky/papaja-obycajna).

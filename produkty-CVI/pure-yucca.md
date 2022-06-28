@@ -44,7 +44,6 @@ rokov môžu užívať prípravok z *juky* iba so súhlasom a pod kontrolou odbo
 *Dávkovanie*: Začať 1 až 2 kapsulami denne. Po niekoľkých dňoch dávku zvýšiť na
 2 až 4 kapsuly. V prípade intenzívnej detoxikácie užívať 3 kapsuly 3x denne.
 
-Viac o bylinke na stránke [Liečivé bylinky](/sip/#p/juka).
+Viac o bylinke na stránke [Liečivé bylinky](/sip/bylinky/juka).
 
 *Obsah*: 100 kapsúl
-

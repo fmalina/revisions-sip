@@ -15,12 +15,10 @@ pokožky stimuluje krvný obeh a zrýchľuje jej rehydratáciu.
 Zloženie: *stabilizované Aloe vera gél, deionozovaná voda, destilát z hamamelu
 (nealkoholický), propylénglykol, rozpustný kolagén, hydrolyzovaný elastín,
 citrónový extrakt, extrakt z uhorky, prasličkový extrakt, rumančenkvý extrakt,
-[rozmarínový](/sip/#p/rozmarin-lekarsky) extrakt,* *pidolát
+[rozmarínový](/sip/bylinky/rozmarin-lekarsky) extrakt,* *pidolát
 sodný, mliečnan sodný, trietanolamín, alantoin, imidomočovina, edetát dvojsodný,
 metylparabén, mentol a vôňa*
 
 Obsah*: 120 ml*
 
-Návod na použitie je na stránke [Aloe Fleur de
-Jouvence®](/sip/#p/aloe-fleur-de-juouvence).
-
+Návod na použitie je na stránke [Aloe Fleur de Jouvence®](/sip/produkty-FLP/aloe-fleur-de-juouvence).

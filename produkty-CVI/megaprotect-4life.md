@@ -1,4 +1,4 @@
-MegaProtect 4Life 
+MegaProtect 4Life
 ==================
 
 **MegaProtect 4Life** je viaczložkový antioxidačný prípravok obsahujúci okrem
@@ -32,8 +32,7 @@ zodpovedné za poruchu mozgovej činnosti, ktorá sprevádza ochorenie pečene.
 *Zloženie*: Betakarotén 5 mg (8333 M.J.); Vitamín A 0,75 mg (2500 M.J.); Vitamín
 E 50 mg (50 M.J.); Mangán 1 mg; Koenzým Q 10 5 mg; Palmitan askorbová 50 mg;
 Selén 25 mg; Lykopenový komplex 2,5 mg; Vitamín C 50 mg; L-cysteín 50 mg;
-L-glutatión 5 mg; Kyselina lipoová 50 mg; [Ginkgo
-biloba](/sip/#p/ginkgo-dvojlalocne) extrakt 10 mg; extrakt zo
-[zeleného čaju](/sip/#p/cajovnik-cinsky) 7,5 mg; extrakt z
-[čučoriedok](/sip/#p/brusnica-cucoriedkova) 2,5 mg
-
+L-glutatión 5 mg; Kyselina lipoová 50 mg;
+[Ginkgo biloba](/sip/bylinky/ginkgo-dvojlalocne) extrakt 10 mg; extrakt zo
+[zeleného čaju](/sip/bylinky/cajovnik-cinsky) 7,5 mg; extrakt z
+[čučoriedok](/sip/bylinky/brusnica-cucoriedkova) 2,5 mg

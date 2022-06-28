@@ -29,6 +29,5 @@ pred ohováraním. Náhrdelník z klinčekov, navlečených na čiernej niti, sa
 na kolísku dieťaťa, aby bolo v bezpečí.
 
 Aplikácia bylinky je v protiparazitickom produkte
-[ParaProteX](/sip/#p/paraprotex) a čaji [Aloe Blossom
-Herbal](/sip/#p/aloe-blossom-herbal-tea).
-
+[ParaProteX](/sip/produkty-CVI/paraprotex) a čaji
+[Aloe Blossom Herbal](/sip/produkty-FLP/aloe-blossom-herbal-tea).

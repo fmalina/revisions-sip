@@ -13,13 +13,9 @@ pokračovať ošetrením pleti pomocou aplikácie Aloe Deep – Cleansing Exfoli
 
 V sade nájdete tieto ďalšie štyri prípravky pre zdravú pokožku:
 
-• [Aloe Purifying Cleanser](/sip/#p/aloe-purifying-cleanser)
-(čistiace mlieko)    • [Aloe Refreshing
-Toner](/sip/#p/aloe-refreshing-toner) (pleťová voda)   • [Aloe
-Nourishing Serum](/sip/#p/aloe-nourishing-serum) (zvlhčujúce
-sérum)   • [Aloe Deep – Cleansing
-Exfoliator](/sip/#p/aloe-deep-cleansing-exfoliator) (hlboko
-čistiaci krém)
+• [Aloe Purifying Cleanser](/sip/produkty-FLP/aloe-purifying-cleanser) (čistiace mlieko)
+• [Aloe Refreshing Toner](/sip/produkty-FLP/aloe-refreshing-toner) (pleťová voda)
+• [Aloe Nourishing Serum](/sip/produkty-FLP/aloe-nourishing-serum) (zvlhčujúce sérum)
+• [Aloe Deep – Cleansing Exfoliator](/sip/produkty-FLP/aloe-deep-cleansing-exfoliator) (hlboko čistiaci krém)
 
 Obsah: 71 g
-

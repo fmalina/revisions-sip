@@ -1,10 +1,7 @@
 Hemoroidy
 =========
 
-
 > ### Nepríjemnosť spojená s uzlovitým rozšírením žíl na výstupe z konečníka…
-> 
-> 
 
 **Hemoroidy** – sú uzlovité rozšíreniny žíl v dolnom úseku konečníka. Hemoroidy
 delíme v princípe na:
@@ -31,5 +28,5 @@ Balíček odporučených prípravkov proti hemoroidom
 * [Žalúdok a črevá](/sip/caje/zaludok-creva) čaj
 * [Rooibos](/sip/caje/rooibos) čaj
 * [BCAA Liquid](/sip/produkty-CVI/bcaa-l-carnitin)
-* Balzam (vyrobiť čípky; napríklad [Aloe Lips](/sip/#p/aloe-lips) - ***nie je v cene*** balíčka)
+* Balzam (vyrobiť čípky; napríklad [Aloe Lips](/sip/produkty-FLP/aloe-lips) - ***nie je v cene*** balíčka)
 * Olivový olej panenský; v obchodnej sieti, 1 PL denne

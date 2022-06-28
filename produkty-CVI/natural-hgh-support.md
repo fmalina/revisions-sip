@@ -1,4 +1,4 @@
-Natural HGH Support 
+Natural HGH Support
 ====================
 
 ### Látky podporujúce tvorbu vlastného rastového hormónu (n i e   rastový hormón!)
@@ -27,7 +27,7 @@ mimoriadne silne stimuluje výťažok z fazule, rovnako tak ako chróm a lecití
 * GABA 33,33 mg,
 * Pyridoxín (B6) 2 mg,
 * Vitamín C 40 mg,
-* [Lecitín](/sip/#p/soja-fazulova) 61,66 mg,
+* [Lecitín](/sip/bylinky/soja-fazulova) 61,66 mg,
 * Pikolinát chrómu (v ňom 4 mcg chrómu) 33,33 mcg,
 * Vicia faba major (výťažok z fazule FABA) 83,33 mg.
 
@@ -39,4 +39,3 @@ pacientom s cukrovkou a ľuďom trpiacim hormonálnymi problémami.
 *Odporučené dávkovanie*: V dňoch bez fyzickej námahy 3 tabletky hodinu pred
 spaním. V dňoch s vyššou fyzickou námahou 2 x denne 3 tabletky a 3 tabletky
 hodinu pred spaním (9 tabletiek denne).
-

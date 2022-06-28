@@ -17,6 +17,4 @@ diazolidinylmočovina, vôňa, červená 27 odtieň hliníkový karmín
 
 Obsah: *30 gr*
 
-Návod na použitie je na stránke [Aloe Fleur de
-Jouvence®](/sip/#p/aloe-fleur-de-juouvence).
-
+Návod na použitie je na stránke [Aloe Fleur de Jouvence®](/sip/produkty-FLP/aloe-fleur-de-juouvence).

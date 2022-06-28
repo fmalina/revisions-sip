@@ -36,8 +36,7 @@ prítomnosti čarodejníc.
 *Upozornenie*: Nezamieňať s druhmi vzrastom podobnými repíku, najmä s divozelom
 čiernym.
 
-Aplikácia bylinky je na stránke čajov [Pečeňový
-U](/sip/#p/pecenovy-u-caj),
-[Hepatik](/sip/#p/hepatik) a
-[Cholesterol](/sip/#p/cholesterol).
-
+Aplikácia bylinky je na stránke čajov
+[Pečeňový U](/sip/caje/pecenovy-u-caj),
+[Hepatik](/sip/caje/hepatik) a
+[Cholesterol](/sip/caje/cholesterol).

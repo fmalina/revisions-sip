@@ -1,4 +1,4 @@
-Protect 4Life 
+Protect 4Life
 ==============
 
 **Protect 4Life** je moderný antioxidant s obsahom betakaroténu, vitamínu C a E
@@ -22,10 +22,9 @@ Alzheimerovej chorobe.
 (deti 6 až 12 rokov); 1 až 2 tablety 3x denne (dospelí)
 
 *Zloženie*: Betakarotén 6 mg (3000 M.J.); Vitamín C 60 mg; Selén
-(selenometionín) 20 mg; Vitamín E 10 mg; list [Ginkgo
-biloba](/sip/#p/ginkgo-dvojlalocne) 50 mg
+(selenometionín) 20 mg; Vitamín E 10 mg; list
+[Ginkgo biloba](/sip/bylinky/ginkgo-dvojlalocne) 50 mg
 
 Ochrana života
 
 *Obsah*: 90 tabliet
-
