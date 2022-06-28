@@ -1,0 +1,24 @@
+{% extends 'page/base.html' %}
+{% block title %}{{ page.title }} - {{ site_name }}{% endblock %}
+{% block head %}
+<link rel="canonical" href="/sip/{{ page.get_absolute_url }}">
+<link rel="alternate" href="/sip/feed.xml" type="application/rss+xml" title="RSS">
+{% endblock %}
+
+{% block body_class %}page page__{{ page.slug }}{% endblock %}
+
+{% block breadcrumb %}
+{% if page.parent %}
+    <div class="breadcrumb" itemprop="breadcrumb">
+		<a href="/sip/">Domov</a> ›
+        <a href="/sip/{{ page.parent }}">{{ page.parent }}</a> ›
+    </div>
+{% endif %}
+{% endblock %}
+
+{% block content %}
+    <h1>{{ page.title }}</h1>
+    {{ page.body }}
+    {% include 'page/nav.html' %}
+    {% if dev %}<p><a href="{{ repo_url }}{{ page.rel_source_path }}">edit</a>{% endif %}
+{% endblock %}
