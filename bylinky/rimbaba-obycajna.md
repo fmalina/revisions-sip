@@ -26,6 +26,6 @@ substancii vyvolávajúcich bolesť a zápal, takže záchvaty nie sú až tak p
 cinerin, ktoré sú sami o sebe pre človeka a teplokrvné zvieratá jedovaté.
 
 Aplikáciu bylinky nájdete na stránke tinktúry
-[Rimbaba](/tinktury-jednobylinkove/rimbaba), na stránke elixírov
-[Migresan](/elixiry/migresan-elixir) a [Disbiosan](/elixiry/disbiosan-elixir).
+[Rimbaba](/tinktury/rimbaba), na stránke elixírov
+[Migresan](/elixiry/migresan) a [Disbiosan](/elixiry/disbiosan).
 

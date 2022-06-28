@@ -31,7 +31,7 @@ obával počarovania, musel sa omyť odvarom z bylinky, aby sa zbavil zlých duc
 *Upozornenie*: Nie je vhodné dlhodobé užívanie, ani odporúčať vysoké dávky
 aplikácie.
 
-Táto bylinka je použitá v tinktúre [Divozel,](/tinktury-jednobylinkove/divozel)
-elixíroch [Cardolen](/elixiry/cardolen-elixir) a
-[Respiran](/elixiry/respiran-elixir) a čaji [Siesta](/sip/caje/siesta).
+Táto bylinka je použitá v tinktúre [Divozel,](/tinktury/divozel)
+elixíroch [Cardolen](/elixiry/cardolen) a
+[Respiran](/elixiry/respiran) a čaji [Siesta](/sip/caje/siesta).
 

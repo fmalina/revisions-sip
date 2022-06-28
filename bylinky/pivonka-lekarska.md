@@ -21,5 +21,5 @@ veľké, červené plné kvety.
 
 *Upozornenie*: Táto rastlina je mierne jedovatá.
 
-Aplikácia rastlinky je v čaji [MU](/sip/p/mu/).
+Aplikácia rastlinky je v čaji [MU](/sip/#p/mu).
 

@@ -39,5 +39,4 @@ pečeňové ťažkosti, vyčerpanie, slabosť a posilniť čchi (životnú energ
 *Upozornenie*: V homeopatickej aplikácii sa odporúča používať ako liečivo
 maximálne jednu hubu na osobu a deň.
 
-Aplikácia huby je v produkte [Imunex](/sip/p/imunex/).
-
+Aplikácia huby je v produkte [Imunex](/sip/elixiry/duhovy-imunex).

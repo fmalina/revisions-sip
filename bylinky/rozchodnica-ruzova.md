@@ -41,7 +41,7 @@ vyvinuté metódy kultivácie Rhodiola rosea a v oblastiach južného Fínska za
 plantáže a boli vyškolení pestovatelia.
 
 Aplikáciu bylinky nájdete na stránke tinktúry
-[Rozchodnica](/tinktury-jednobylinkove/rozchodnica), na stránke elixíru
+[Rozchodnica](/tinktury/rozchodnica), na stránke elixíru
 [Vitalit](/elixiry/vitalit-eleixir) a prípravku zdravej výživy
 [Rhodiolin](/zdravie/rhodiolin-120-ks-60-ks).
 

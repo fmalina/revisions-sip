@@ -16,8 +16,7 @@ minerálov a zoznam rizikových prídavných látok, známych pod pomenovaním "
 
 Sám autor v úvode konštatuje, že "... máme k dispozícii veľa prírodných a
 kvalitných prípravkov a stále dostupnejšie biopotraviny..." a je rozumné ich aj
-aplikovať. Z jeho "kuchyne" sú v ponuke na stránkach [Dúhové
-elixíry](/sip/duhove-elixiry/) - bylinné maceráty. Podľa jeho
+aplikovať. Z jeho "kuchyne" sú v ponuke na stránkach
+[Dúhové elixíry](/sip/elixiry) - bylinné maceráty. Podľa jeho
 receptov známy český výrobca Herba Vitalis vyrába zmesi unikátnou technológiou z
 čerstvých bylín.
-

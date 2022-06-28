@@ -39,9 +39,8 @@ druhu eukalyptus kráľovský. Jeden z nich rastie pri vrchu Baw Baw v Austráls
 podobnosti uzavretého kalicha, ktorý „skrýva“ semená a z gréčtiny sa uvádza
 preklad *ευκάλυπτος*: *ευ* – krásne a *κάλυπτος* - dobré, skryté.
 
-Aplikácia rastliny je na stránke [Telové
-sviečky](/sip/p/telove-sviecky/) a [Ušné
-sviečky](/sip/p/usne-sviecky/) a v produktoch [Aloe
-First](/sip/p/aloe-first/) a [Aloe Heat
-Lotion](/sip/p/aloe-heat-lotion/).
-
+Aplikácia rastliny je na stránke
+[Telové sviečky](/sip/sviecky/telove-sviecky) a
+[Ušné sviečky](/sip/sviecky/usne-sviecky) a v produktoch
+[Aloe First](/sip/produkty-FLP/aloe-first) a
+[Aloe Heat Lotion](/sip/produkty-FLP/aloe-heat-lotion).

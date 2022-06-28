@@ -19,7 +19,6 @@ ako aj samotné oplodie. Pomaranče pestované pre priemyselnú výrobu sa zvyč
 pestujú v hájoch, po celom svete. Prvé tri najvýznamnejšie pestovateľské krajiny
 Brazília, Spojené štáty a Mexiko vyvážajú až 30% svetovej produkcie.
 
-Aplikácia plodov pomarančovníka je v čaji [MU](/sip/p/mu/),
-[Aloe Blossom Herbal](/sip/p/aloe-blossom-herbal-tea/) a
-[Siesta](/sip/p/siesta/).
-
+Aplikácia plodov pomarančovníka je v čaji [MU](/sip/caje/mu),
+[Aloe Blossom Herbal](/sip/produkty-FLP/aloe-blossom-herbal-tea) a
+[Siesta](/sip/caje/siesta).

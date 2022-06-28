@@ -9,7 +9,3 @@ Phoenix) a japonských zdrojov a ich názvy sú preložné do slovenského jaz
 
 Vyberte si svoj čaj a vložte ho do košíka. Čaje a ostatné produkty Vám dodáme
 poštou na dobierku. Cena poštovného a balného je *1,50 €* (*45,19 Sk)*
-
-**Tip:** Spomeňte si aj na svojich dôležitých zákazníkov, blízkych, rodinu a
-ušetrite s rozumom. Poštovné platíte iba raz pre celú objednávku.
-

@@ -20,8 +20,5 @@ dostala do okolitého tkaniva - tým sa zlepšuje mikrocirkulácia. Účinne pô
 pri krčových žilách a pri poruchách prekrvenia končatín a na znižovanie
 cholesterolu.
 
-Aplikáciu bylinky nájdete na stránke elixíru [Venavit](/elixiry/venavit-elixir)
-a tinktúry [Žilná zmes](/tinktury/zilna-zmes).
-
-### 
-
+Aplikáciu bylinky nájdete na stránke elixíru [Venavit](/sip/elixiry/venavit)
+a tinktúry [Žilná zmes](/sip/tinktury/zmes-zilna).

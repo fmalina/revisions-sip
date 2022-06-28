@@ -18,5 +18,5 @@ falzifikát drahého oleja z ruže. Niektoré druhy pelargonius pôsobia aj ako
 repelent proti komárom.
 
 Uplatnenie: Aplikácia rastlinky je v produkte [Telové
-sviečky](/sip/p/telove-sviecky/).
+sviečky](/sip/#p/telove-sviecky).
 

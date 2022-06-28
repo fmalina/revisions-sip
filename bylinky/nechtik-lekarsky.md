@@ -33,6 +33,6 @@ otvorených rán.
 spôsobiť nežiadúce vedľajšie účinky, ktoré vyvolávajú estrogénne látky.
 
 Aplikáciu bylinky nájdete na stránke tinktúry
-[Nechtík](/tinktury-jednobylinkove/nechtik) a stránke čaj
+[Nechtík](/tinktury/nechtik) a stránke čaj
 [Cholestin](/sip/caje/cholestin-zlcnikovy).
 

@@ -1,10 +1,7 @@
 Anémia
 ======
 
-
 > ### Nepríjemnosť v krvnom riečišti...
-> 
-> 
 
 **Anémia** (tiež málokrvnosť) je zníženie koncentrácie nosičov 02, teda Hb a Er
 v objemovej jednotke krvi pod hodnoty zistené ako normálne v určitom veku a
@@ -79,7 +76,7 @@ Balíček odporučených prípravkov proti anémii
 --------------------------------------------
 
 * [Veverský](/sip/caje/veversky) čaj
-* [Čistiaca](/sip/tinktury/cistiaca-zmes) zmes
-* [Lipkavec](/sip/tinktury-jednobylinkove/lipkavec) (Svízel)
-* [Ľubovník](/sip/p/lubovnik/) (Třezalka)
+* [Čistiaca](/sip/tinktury/zmes-cistiaca) zmes
+* [Lipkavec](/sip/tinktury/lipkavec) (Svízel)
+* [Ľubovník](/sip/tinktury/lubovnik) (Třezalka)
 * Olivový olej panenský; lisovaný za studena, 1PL - v obchodnej sieti

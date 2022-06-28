@@ -40,5 +40,5 @@ tonizujúce účinky boli známe v starom Grécku a Ríme. Taktiež staromongols
 tibetské liečiteľstvo využívalo rakytník pri žalúdočných chorobách.
 
 Aplikácia bylinky je na stránke tinktúr
-[Rakytník](http://staticfile.net/product/rakytnik/).
+[Rakytník](http://staticfile.net/product/rakytnik).
 

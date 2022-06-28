@@ -28,7 +28,6 @@ tlmí astmatické záchvaty a celkovo má pozitívny účinok na stav zoslabnut�
 pôsobí aj výrazne antialergicky. Vonkajšia aplikácia je účinná proti reumatizmu,
 ekzémom, zle sa hojace rany.
 
-Aplikácia bylinky je v produkte [Fungilen](/sip/p/fungilen/).
+Aplikácia bylinky je v produkte [Fungilen](/sip/elixiry/duhovy-fungilen).
 
 *(c) Picture by Thomas Schoepke*
-

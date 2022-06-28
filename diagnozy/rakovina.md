@@ -26,9 +26,9 @@ modrín.
 Balíček odporučených prípravkov proti rozvoju rakoviny
 ------------------------------------------------------
 
-* [Echinacea](/sip/tinktury-jednobylinkove/echinacea) tinktúra
-* [Kapucínka](/sip/tinktury-jednobylinkove/kapucinka) tinktúra
-* [Všehojovec](/sip/tinktury-jednobylinkove/vsehojovec) Eleuterokok tinktúra
+* [Echinacea](/sip/tinktury/echinacea) tinktúra
+* [Kapucínka](/sip/tinktury/kapucinka) tinktúra
+* [Všehojovec](/sip/tinktury/vsehojovec) Eleuterokok tinktúra
 * [Sayonara](/sip/caje/sayonara) čajovina
 * [Psyllium](/sip/caje/psyllium) vláknina
 * [Pečeňový](/sip/caje/pecenovy-u-caj) - U čaj

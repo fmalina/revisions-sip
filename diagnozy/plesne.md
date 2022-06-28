@@ -19,9 +19,9 @@ pôvodcov týchto ochorení je všade prítomná. Za normálnych okolností nevy
 Balíček odporučených prípravkov proti plesniam
 ----------------------------------------------
 
-* [Echinacea](/sip/tinktury-jednobylinkove/echinacea) tinktúra
-* [Kapucínka](/sip/tinktury-jednobylinkove/kapucinka) tinktúra
-* [Túžobník](/sip/tinktury-jednobylinkove/tuzobnik) tinktúra
-* [Rooibos](/sip/p/rooibos/) čaj
+* [Echinacea](/sip/tinktury/echinacea) tinktúra
+* [Kapucínka](/sip/tinktury/kapucinka) tinktúra
+* [Túžobník](/sip/tinktury/tuzobnik) tinktúra
+* [Rooibos](/sip/#p/rooibos) čaj
 * [Sayonara](/sip/caje/sayonara) čajovina
 * [Psyllium](/sip/caje/psyllium) vláknina

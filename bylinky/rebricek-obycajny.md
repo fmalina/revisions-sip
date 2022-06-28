@@ -35,5 +35,5 @@ rebríčka sa vysoko neodporúča pitie kávy a alkoholu. U citlivých jedincov 
 môže objaviť kontaktná dermatitída, fotosenzibilita a iné alergické reakcie.
 
 Aplikáciu bylinky nájdete na stránke tinktúry
-[Rebríček](/tinktury-jednobylinkove/rebricek).
+[Rebríček](/tinktury/rebricek).
 

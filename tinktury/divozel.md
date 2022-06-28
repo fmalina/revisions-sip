@@ -11,7 +11,7 @@ rastlinka. Lieči poruchy činnosti pečene a podžalúdkovej žľazy. Zvyšuje
 [imunitu](/sip/diagnozy/imunita) organizmu pri liečbe infekčných
 chorôb a chorôb z prechladnutia.
 
-[Viac informácií](/sip/bylinky/divozel-velkokvety/) o bylinke…
+[Viac informácií](/sip/bylinky/divozel-velkokvety) o bylinke…
 
 Upozornenie: *Výrobok nie je určený pre deti do 3 rokov. Dávkovanie pre
 dospelých 3 x 15 kvapiek za deň; pre deti od troch rokov 3 x 5 kvapiek za deň

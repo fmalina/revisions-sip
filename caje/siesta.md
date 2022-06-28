@@ -10,5 +10,5 @@ Obsahuje:
 * [nevädza poľná](/sip/bylinky/nevadza-polna)
 * [divozel veľkokvetý](/sip/bylinky/divozel-velkokvety)
 * [jahoda obyčajná](/sip/bylinky/jahoda-obycajna) (list aj s plodmi)
-* [pomaranč](/sip/p/citronovnik-pomarancovy/) (oplodie)
-* [citrónová tráva](/sip/p/citronova-trava/).
+* [pomaranč](/sip/#p/citronovnik-pomarancovy) (oplodie)
+* [citrónová tráva](/sip/#p/citronova-trava).

@@ -10,12 +10,12 @@ skladajú z bavlnenej látky, ktorá je zmotaná do kuželového tvaru a je nasi
 
 *Oblasťou použitia podľa prídavnej silice v telovej sviečke sú:*
 
-* ***[citrónová](/sip/p/citronovnik/)*** silica - na tráviace ťažkosti, protikŕčové účinky,
-* ***[čajovníková](/sip/p/cajovnik-cinsky/)*** silica - prírodné antibiotikum, proti mykózam,
-* ***[eukalyptová](/sip/p/eukalyptus/)*** silica - na zápalové ochorenia dýchacích ciest, nádchu, kašeľ a astmu,
-* ***[levandulová](/sip/p/levandula-lekarska/)*** silica - na migrény a reumatizmus,
-* ***[muškátová](/sip/p/muskat/)*** silica - na menštruačné problémy,
-* ***[rozmarínová](/sip/p/rozmarin-lekarsky/)*** silica - na reumatizmus a svalové bolesti,
+* ***[citrónová](/sip/#p/citronovnik)*** silica - na tráviace ťažkosti, protikŕčové účinky,
+* ***[čajovníková](/sip/#p/cajovnik-cinsky)*** silica - prírodné antibiotikum, proti mykózam,
+* ***[eukalyptová](/sip/#p/eukalyptus)*** silica - na zápalové ochorenia dýchacích ciest, nádchu, kašeľ a astmu,
+* ***[levandulová](/sip/#p/levandula-lekarska)*** silica - na migrény a reumatizmus,
+* ***[muškátová](/sip/#p/muskat)*** silica - na menštruačné problémy,
+* ***[rozmarínová](/sip/#p/rozmarin-lekarsky)*** silica - na reumatizmus a svalové bolesti,
 * ***bez silíc*** - na všeobecné použitie preventívne a pre alergikov na silice.
 
 *Príklady použitia telovej sviečky:*
@@ -64,32 +64,32 @@ klinike), Bytča*
 ### Eukalyptová silica
 
 Proti zápalom dýchacích ciest, nádche, proti astme a kašľu je vhodná telová
-sviečka s [eukalyptovou](/sip/p/eukalyptus/) silicou.
+sviečka s [eukalyptovou](/sip/#p/eukalyptus) silicou.
 
 ### Levanduľová silica
 
-Telové sviečky s [levanduľovou](/sip/p/levandula-lekarska/)
+Telové sviečky s [levanduľovou](/sip/#p/levandula-lekarska)
 silicou sú určené proti migrénam a reumatickým bolestiam.
 
 ### Čajovníková silica
 
 Súprava telových sviečok s
-[čajovníkovou](/sip/p/cajovnik-cinsky/) silicou je určená proti
+[čajovníkovou](/sip/#p/cajovnik-cinsky) silicou je určená proti
 mykózam a pôsobí ako prírodné antibiotikum.
 
 ### Citrónová silica
 
-Súprava telových sviečok s [citrónovou](/sip/p/citronovnik/)
+Súprava telových sviečok s [citrónovou](/sip/#p/citronovnik)
 silicou je určená na odstránenie tráviacich problémov a proti kŕčom.
 
 ### Muškátová silica
 
-Telové sviečky s [muškátovou](/sip/p/muskat/) silicou sú určené
+Telové sviečky s [muškátovou](/sip/#p/muskat) silicou sú určené
 proti predmenštruačným bolestiam PMS.
 
 ### Rozmarínová silica
 
-Telové sviečky s [rozmarínovou](/sip/p/rozmarin-lekarsky/)
+Telové sviečky s [rozmarínovou](/sip/#p/rozmarin-lekarsky)
 silicou sú určené proti reumatickým a svalovým bolestiam.
 
 ### Bez silíc

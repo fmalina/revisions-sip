@@ -24,7 +24,7 @@ sú zriedkavé ani recidívy.
 Balíček odporučených prípravkov proti herpes
 --------------------------------------------
 
-* [Disbiosan](/sip/elixiry/disbiosan-elixir) elixír
+* [Disbiosan](/sip/elixiry/disbiosan) elixír
 * [Psyllium](/sip/caje/psyllium)
 * [Žalúdok a črevá](/sip/caje/zaludok-creva)
-* [BCAA Liquid](/sip/cvi/bcaa-l-carnitin)
+* [BCAA Liquid](/sip/produkty-CVI/bcaa-l-carnitin)

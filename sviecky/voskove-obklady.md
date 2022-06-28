@@ -10,7 +10,7 @@ presiaknutý včelím voskom.
 Prostredníctvom účinku vpíjania uvoľňuje kŕčové stavy. Včelí vosk so svojím
 vysokým obsahom vitamínu A, podporuje látkovú výmenu v bunkách. Po aplikácii
 obkladu sa odporúča postihnuté miesto ošetriť
-[jojobovým](/sip/p/jojoba/) olejom.
+[jojobovým](/sip/bylinky/jojoba) olejom.
 
 *Oblasť použitia*: teplý obklad s obsahom včelieho vosku sa odporúča pri:
 
@@ -46,7 +46,6 @@ miesto ošetriť jojobovým olejom, ktorý pokožke dodáva jemnosť a vláčnos
 * *1 ks silica (10 ml)*
 
 *Odporučenie:* Voskové obklady
-([veľké](/sip/p/voskovy-obklad-velky/) aj
-[malé](/sip/p/voskovy-obklad-maly/)) a silice si môžete
+([veľké](/sip/sviecky/voskovy-obklad-velky) aj
+[malé](/sip/sviecky/voskovy-obklad-maly)) a silice si môžete
 doobjednať.
-

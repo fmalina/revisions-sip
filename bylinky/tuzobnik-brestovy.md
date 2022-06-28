@@ -49,6 +49,6 @@ malé deti. Pri dlhodobom používaní môže viesť k problémom so žalúdkom 
 črevami.
 
 Aplikáciu bylinky nájdete na stránkach tiknktúr
-[Túžobník](/tinktury-jednobylinkove/tuzobnik) a čaju
+[Túžobník](/tinktury/tuzobnik) a čaju
 [Bronchiol](/sip/caje/bronchiol).
 

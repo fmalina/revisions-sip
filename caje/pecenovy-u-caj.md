@@ -12,4 +12,4 @@ Obsahuje:
 * [pestrec mariánsky](/sip/bylinky/pestrec-mariansky)
 * [púpavu lekársku](/sip/bylinky/pupava-lekarska)
 * [rebríček obyčajný](/sip/bylinky/rebricek-obycajny)
-* [repík lekársky](/sip/p/repik-lekarsky-1/).
+* [repík lekársky](/sip/bylinky/repik-lekarsky).

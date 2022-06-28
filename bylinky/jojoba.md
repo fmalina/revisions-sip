@@ -27,14 +27,13 @@ mastnote, ktorá je obsiahnutá v našej koži. Pretože jojoba vyrovnáva aj pH
 pomáha pri drobných kožných defektoch (akné, popáleniny, popraskaná koža,
 zapareniny, slabé nechty a jazvy).
 
-Aplikácia bylinky je na stránkach [voskové
-obklady](/sip/p/voskove-obklady/) (malé a veľké), [Aloe
-Lips](/sip/p/aloe-lips/), [Aloe Moisturizing
-Lotion](/sip/p/aloe-moisturizing-lotion/), [Exfloating
-Cleanser](/sip/p/exfoliating-cleanser/), [Aloe Jojoba
-Shampoo](/sip/p/aloe-jojoba-shampoo/), [Aloe Jojoba Conditioning
-Rinse](/sip/p/aloe-jojoba-conditioning-rinse/), [Aloe Deep -
-Cleansing Creme](/sip/p/aloe-deep-cleansing-exfoliator/),
-[Recovering Night Creme](/sip/p/recovering-night-creme/) a
-[Sonya Skin Care](/sip/p/sonya-skin-care/).
-
+Aplikácia bylinky je na stránkach
+[voskové obklady](/sip/sviecky/voskove-obklady) (malé a veľké),
+[Aloe Lips](/sip/produkty-FLP/aloe-lips),
+[Aloe Moisturizing Lotion](/sip/produkty-FLP/aloe-moisturizing-lotion),
+[Exfloating Cleanser](/sip/produkty-FLP/exfoliating-cleanser),
+[Aloe Jojoba Shampoo](/sip/produkty-FLP/aloe-jojoba-shampoo),
+[Aloe Jojoba Conditioning Rinse](/sip/produkty-FLP/aloe-jojoba-conditioning-rinse),
+[Aloe Deep - Cleansing Creme](/sip/produkty-FLP/aloe-deep-cleansing-exfoliator),
+[Recovering Night Creme](/sip/produkty-FLP/recovering-night-creme) a
+[Sonya Skin Care](/sip/produkty-FLP/sonya-skin-care).

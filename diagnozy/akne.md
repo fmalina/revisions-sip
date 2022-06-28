@@ -3,8 +3,8 @@ Akné
 
 
 > ### Nepríjemnosť na vlastnej tvári, hrudi a chrbte...
-> 
-> 
+>
+>
 
 **Akné** je ochorenie charakterizované zápalom vlasového folikulu spojeného so
 zamedzením vylučovania (retenciou) mazu. Príčinných faktorov (etiológia) je
@@ -106,8 +106,8 @@ pri práci s dechtom.
 Balíček odporučených prípravkov proti akné
 ------------------------------------------
 
-* [Dermasan](/sip/elixiry/dermasan-elixir/) elixír
-* [Disbiosan](/sip/elixiry/disbiosan-elixir/) elixír
-* [Ľubovník](/sip/p/lubovnik/) (Třezalka)
+* [Dermasan](/sip/elixiry/dermasan) elixír
+* [Disbiosan](/sip/elixiry/disbiosan) elixír
+* [Ľubovník](/sip/#p/lubovnik) (Třezalka)
 * [Psyllium](/sip/caje/psyllium) vláknina
 * [Ľadvinový](/sip/caje/ladviny) čaj

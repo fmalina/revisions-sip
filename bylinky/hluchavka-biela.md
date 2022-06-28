@@ -28,8 +28,8 @@ milenkou. Jeho žiarlivá manželka Héra zahubila dieťa zrodené z tohto zväz
 sa Lámia pomstila, začala požierať deti šťastných matiek. Stala sa tak z nej
 obluda, ktorou sa hrozilo neposlušným deťom.
 
-Aplikáciu bylinky nájdete na stránke elixírov [Neuren](/elixiry/neuren-elixir) a
-[Nefronen](/elixiry/nefronen-elixir) a tiež na stránke čajov [Pre
+Aplikáciu bylinky nájdete na stránke elixírov [Neuren](/elixiry/neuren) a
+[Nefronen](/elixiry/nefronen) a tiež na stránke čajov [Pre
 ženy,](/sip/caje/pre-zeny) [Ľadvinový čaj](/sip/caje/ladviny) a
 [Cholestin](/sip/caje/cholestin-zlcnikovy).
 

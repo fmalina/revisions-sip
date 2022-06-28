@@ -45,7 +45,6 @@ besnotu a protijed.
 Veľké dávky však môžu spôsobiť predráždenie tráviacej sliznice a močových ciest.
 
 Aplikáciu bylinky nájdete na stránke protiparazitického prípravku
-[ParaProteX](/sip/p/paraprotex/), produkte
-[Choleston](/sip/p/choleston/) a [Forever Garlic -
-Thyme](/sip/p/forever-garlic-thyme/).
-
+[ParaProteX](/sip/produkty-CVI/paraprotex), produkte
+[Choleston](/sip/produkty-CVI/choleston) a
+[Forever Garlic - Thyme](/sip/produkty-FLP/forever-garlic-thyme).

@@ -1,10 +1,7 @@
 Dyspepsia
 =========
 
-
 > ### Nepríjemnosť spojená so súborom "pestrých" ťažkostí so žalúdkom a črevami…
-> 
-> 
 
 **Dyspepsia** je súbor veľmi pestrých ťažkostí vznikajúcich pri poruchách
 funkcií žalúdka a čriev. Dyspepsia *žalúdková* – zahrňuje ťažkosti v oblasti
@@ -28,9 +25,9 @@ pach, býva často aj pri karcinóme hrubého čreva.
 Balíček odporučených prípravkov proti dyspepsii
 -----------------------------------------------
 
-* [Benedikt](/sip/tinktury-jednobylinkove/benedikt) tinktúra
-* [Žalúdočná zmes](/sip/tinktury/zaludocna-zmes) tinktúra
-* [Čistiaca zmes](/sip/p/cistiaca-zmes/) (Čistící směs)
+* [Benedikt](/sip/tinktury/benedikt) tinktúra
+* [Žalúdočná zmes](/sip/tinktury/zmes-zaludocna) tinktúra
+* [Čistiaca zmes](/sip/tinktury/zmes-cistiaca) (Čistící směs)
 * [Rooibos](/sip/caje/rooibos) čaj
 * [Žalúdok a črevá](/sip/caje/zaludok-creva) čaj
 * Olivový olej panenský; lisovaný za studena, 1PL - v obchodnej sieti

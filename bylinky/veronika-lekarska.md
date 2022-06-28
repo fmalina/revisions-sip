@@ -19,6 +19,6 @@ zápale močového mechúra, chronických kožných ochoreniach a furunkuloch
 prostriedok vhodný na liečenie hnisajúcich rán a slnkom popálenej kože.
 
 Aplikáciu bylinky nájdete na stránke tinktúry
-[Veronika](/tinktury-jednobylinkove/veronika), na stránke elixíru
-[Klimakten](/elixiry/klimakten-elixir) a čaju [Cholesterol](/sip/caje/cholesterol).
+[Veronika](/tinktury/veronika), na stránke elixíru
+[Klimakten](/elixiry/klimakten) a čaju [Cholesterol](/sip/caje/cholesterol).
 

@@ -197,5 +197,5 @@ nefunguje.
    Zdrojová literatúra:   *Sharamon, Sh., Baginski, B. J.: Základní kniha o
 čakrách   Lübeck, W.: Základní kniha o auře   [Marquardtová, H.: Terapia
 reflexných zón na
-nohách](/sip/p/terapia-reflexnych-zon-na-nohe/)*
+nohách](/sip/#p/terapia-reflexnych-zon-na-nohe)*
 

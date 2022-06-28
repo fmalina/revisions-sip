@@ -1,10 +1,7 @@
-Ľadvinové kamene 
+Ľadvinové kamene
 =================
 
-
 > ### Nepríjemnosť spojená s chorobou ľadvín…
-> 
-> 
 
 **Ľadvinové kamene** sú vytvorené v močovom vylučovacom systéme organizmu. Môžu
 viesť až ku zablokovaniu vývodných močových ciest. Zablokovanie vyvoláva krutú
@@ -17,8 +14,8 @@ zvracanie, zvracanie.
 Balíček odporučených prípravkov proti ľadvinovým kameňom
 --------------------------------------------------------
 
-* [Nefronen](/sip/p/nefronen-elixir/) elixír
-* [Pakost](/sip/tinktury-jednobylinkove/pakost) (Kakost)
-* [Čistiaca zmes](/sip/tinktury/cistiaca-zmes) (Čistící směs)
-* [Púpava](/sip/tinktury-jednobylinkove/pupava) (Smetanka)
+* [Nefronen](/sip/elixiry/nefronen) elixír
+* [Pakost](/sip/tinktury/pakost) (Kakost)
+* [Čistiaca zmes](/sip/tinktury/zmes-cistiaca) (Čistící směs)
+* [Púpava](/sip/tinktury/pupava) (Smetanka)
 * [Ľadvinový](/sip/caje/ladviny) čaj

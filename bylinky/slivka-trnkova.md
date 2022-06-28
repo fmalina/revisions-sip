@@ -28,5 +28,5 @@ hlavne ako tzv. krvčistiace prostriedky a kôra proti horúčke.
 
 *Upozornenie*: Rastlina vo väčších dávkach môže spôsobiť otravu.
 
-Aplikáciu bylinky nájdete na stránke elixíru [Myorel](/elixiry/myorel-elixir).
+Aplikáciu bylinky nájdete na stránke elixíru [Myorel](/elixiry/myorel).
 

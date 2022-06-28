@@ -8,6 +8,6 @@ dlhodobej aplikácií znižuje hladinu [cholesterolu](/diagnozy/cholesterol) v k
 a tým zabraňuje vzniku [artériosklerózy](/diagnozy/as). Spevňuje cievy, zlepšuje
 látkovú výmenu a mierne reguluje tvorbu žlče.
 
-Obsahuje drvené plody [ruže šípkovej](/sip/bylinky/ruza-sipova/) (Rosa canina),
+Obsahuje drvené plody [ruže šípkovej](/sip/bylinky/ruza-sipova) (Rosa canina),
 ktoré sú nositeľmi karotenoidov a vitamínov C, B a K.
 

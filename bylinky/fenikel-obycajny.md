@@ -28,9 +28,9 @@ zámeny s jedovatými mrkvovitými rastlinami. Odporúča sa kupovať hotovú dr
 Čistá silica sa vôbec nesmie používať; aj nepatrné množstvo zapríčiňuje otravu a
 dlhodobé užívanie sa neodporúča pre estrogénne účinky.
 
-Aplikáciu bylinky nájdete v tinktúre [Priedušková
-zmes](/tinktury/prieduskova-zmes), čajoch [Nekašeľ](/sip/caje/nekasel), [Pre
-deti,](/sip/caje/pre-deti) [Veverský](/sip/caje/veversky) a
-produktoch [Cholestin](/sip/caje/cholestin-zlcnikovy) a [Slim
-Formula](/sip/p/slim-formula/).
-
+Aplikáciu bylinky nájdete v tinktúre
+[Priedušková zmes](/sip/tinktury/zmes-prieduskova),
+čajoch [Nekašeľ](/sip/caje/nekasel),
+[Pre deti,](/sip/caje/pre-deti) [Veverský](/sip/caje/veversky) a
+produktoch [Cholestin](/sip/caje/cholestin-zlcnikovy) a
+[Slim Formula](/sip/produkty-CVI/slim-formula).

@@ -32,5 +32,5 @@ očianka nosila na posilnenie duševných síl a dokonca *predurčovala* vyvolan
 jasnovidectva.
 
 Aplikáciu bylinky nájdete na stránke tinktúry
-[Očianka](/tinktury-jednobylinkove/ocianka).
+[Očianka](/tinktury/ocianka).
 

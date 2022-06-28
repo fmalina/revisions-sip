@@ -33,11 +33,10 @@ v termínoch:
 Pretože ide o individuálne konzultácie, ktoré vedie *Marcel* ***Černoch*** (ČR)
 - autor knihy [Diagnostika v
 praxi](/sip/knihy/diagnostika-v-praxi) a spoluautor brožúry
-[Čítame z tváre](/sip/p/citame-z-tvare/), je rozumné, keď si
+[Čítame z tváre](/sip/#p/citame-z-tvare), je rozumné, keď si
 svoj čas dohodnete a tiež sa spýtate na všetko, čo Vás zaujíma pred samotnou
 konzultáciou:
 
-Kontakt: [slnieckova@slnieckova.sk](mailto:slnieckova@slnieckova.sk)
+Kontakt: [hi@unilexicon.com](mailto:hi@unilexicon.com)
 
 Vitajte na prahu Vašej novej kvality života…!
-

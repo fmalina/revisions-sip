@@ -16,6 +16,6 @@ pečene a nadľadviniek, potláča reumatické bolesti a zlé trávenie, je úč
 choroby dýchací­ch ciest, kožné choroby, lupienku a alergie (aj alergická
 nádcha) a je dobrý rekonvalescent po dlhodobom ochorení.­
 
-Aplikáciu bylinky nájdete v elixíre [Alersan](/elixiry/alersan-elixir) a
-[Dermasan](/elixiry/dermasan-elixir).
+Aplikáciu bylinky nájdete v elixíre [Alersan](/elixiry/alersan) a
+[Dermasan](/elixiry/dermasan).
 

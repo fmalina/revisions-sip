@@ -23,5 +23,4 @@ neodporúčajú do osevných postupov a ako následná plodina je vhodná včas 
 miešanka na zeleno pred nasadzovaním hľúz. Rastlina je krátkodenná, kvitne
 neskoro a semená obyčajne nedozrievajú.
 
-Aplikácia bylinky je v elixire [Diasan](/sip/p/diasan-elixir/).
-
+Aplikácia bylinky je v elixire [Diasan](/sip/elixiry/diasan).

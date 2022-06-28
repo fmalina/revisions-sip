@@ -47,5 +47,4 @@ grapefruitových jadierok:
 * je to čistý prírodný produkt.
 
 Aplikáciu účinkov jadierok nájdete v prípravku proti parazitom
-[ParaProteX](/sip/p/paraprotex/).
-
+[ParaProteX](/sip/produkty-CVI/paraprotex).

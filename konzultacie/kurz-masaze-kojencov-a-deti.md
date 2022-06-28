@@ -27,7 +27,8 @@ Priebeh kurzu
 
 * kurz bude tlmočený, ale je vhodné mať zvládnuté základy jazyka, lebo časť dokumentácie bude v angličtine
 * po absolvovaní kurzu spracuje a odovzdá absolvent písomnú “diplomovú” prácu
-* po úspešnej skúške absolvent dostane **certifikát** (v anglickom jazyku), ktorý ho **oprávňuje učiť rodičov**, ako masírovať svoje deti
+* po úspešnej skúške absolvent dostane **certifikát** (v anglickom jazyku),
+  ktorý ho **oprávňuje učiť rodičov**, ako masírovať svoje deti
 * platnosť certifikátu je celosvetová.
 
 Tipy
@@ -35,7 +36,8 @@ Tipy
 
 * počet účastníkov je obmedzený
 * tento druh kurzu bude na Slovensku v roku 2008 jediný.
-* hláste sa čo najskôr na e-mail adrese [holistic\_services@yahoo.com](mailto:holistic_services@yahoo.com?subject=Prihlaska%20zo%20slnieckova.sk). V predmete e-mailu spomeňte slnieckova.sk.
+* hláste sa čo najskôr na e-mail adrese [holistic\_services@yahoo.com](mailto:holistic_services@yahoo.com?subject=Prihlaska%20z%20unilexicon.com/sip).
+V predmete e-mailu spomeňte unilexicon.com/sip
 
 \_\_\_\_\_\_\_\_\_\_\_
 
@@ -46,4 +48,3 @@ medzinárodnách certifikátov CIBTAC (Confederation of International Beauty
 Therapy & Cosmetology) v oblasti alternatívnej medicíny, vrátane masáže a
 reflexnej terapie a prvej pomoci kojencom a deťom. Je spoluorganizátor kurzu a
 tlmočník.
-

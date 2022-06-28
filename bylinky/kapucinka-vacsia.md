@@ -33,5 +33,5 @@ Sušené plody sa uplatňujú ako preháňadlo.
 reakciu.
 
 Aplikáciu bylinky nájdete na stránke tinktúry
-[Kapucínka](/tinktury-jednobylinkove/kapucinka).
+[Kapucínka](/tinktury/kapucinka).
 

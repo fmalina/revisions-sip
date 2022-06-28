@@ -19,7 +19,7 @@ tele s pomerne dobrým úspechom.
 
 *Zaujímavosť*: Patrí medzi najrýchlejšie rastúce stromy medzi orechmi a preto sa
 často používa v lesníctve. Plody nie sú tak chutné ako [orecha
-kráľovského](/sip/p/orech-vlassky/). Listy orecha čierneho (aj
+kráľovského](/sip/#p/orech-vlassky). Listy orecha čierneho (aj
 ďalších orechov) produkujú chemické látky, ktoré pri daždi stekajú do pôdy a
 spomaľujú rast iných druhov rastlín. Korene zasa produkujú látky, ktoré môžu byť
 toxické pre iné rastliny a môžu až odumrieť (*tomuto javu sa hovorí alelopatia -
@@ -27,5 +27,5 @@ vzájomné pôsobenie rastlín chemickými látkami, ktoré vylučujú do prostr
 navzájom ovplyvňujú rast a vývin*).
 
 Aplikáciu tohto plodu nájdete v protiparazitickom produkte
-[ParaProteX](/sip/p/paraprotex/).
+[ParaProteX](/sip/#p/paraprotex).
 

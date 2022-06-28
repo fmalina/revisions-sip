@@ -22,5 +22,5 @@ veľmi účinný glykozid a vanilín v nažkách. Šípky sú aj zdrojom provita
 *Upozornenie*: Vzhľadom na stratu vitamínu C počas tepelnej úpravy by sa šípky
 mali konzumovať v čerstvom stave a nevariť dlhšie ako päť minút.
 
-Aplikácia rastlinky je v čaji [Šípkový](/sip/p/sipkovy-caj/).
+Aplikácia rastlinky je v čaji [Šípkový](/sip/#p/sipkovy-caj).
 

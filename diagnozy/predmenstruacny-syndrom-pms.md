@@ -19,8 +19,8 @@ objavuje sa akné, sú citlivé prsia, bolesť v podbrušku.
 Balíček prípravkov odporučených na tlmenie PMS
 ----------------------------------------------
 
-* [Feminan](/sip/elixiry/feminan-elixir) elixír
-* [Jarabina](/sip/tinktury-jednobylinkove/jarabina) (Jeřáb)
-* [Nechtík](/sip/p/nechtik/) (Měsíček)
-* [Rebríček](/sip/p/rebricek/) (Řebříček)
+* [Feminan](/sip/elixiry/feminan) elixír
+* [Jarabina](/sip/tinktury/jarabina) (Jeřáb)
+* [Nechtík](/sip/#p/nechtik) (Měsíček)
+* [Rebríček](/sip/#p/rebricek) (Řebříček)
 * [Pre ženy](/sip/caje/pre-zeny) čaj

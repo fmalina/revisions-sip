@@ -22,9 +22,6 @@ teda krvné podliatiny a bodkovité krvné výrony. Najdôležitešia vlastnosť
 účinok proti hnačke. Plody sú predmetom zavárania, ale aj "mlsania" v koláčoch.
 
 Aplikáciu bylinky nájdete v produkte
-[Zenthonic,](/sip/p/zenthonic/) elixíre
-[Diasan](/elixiry/diasan-elixir), tinktúre [Dia zmes](/tinktury/dia-zmes) a
-produkte [MegaProtect 4Life](/sip/p/megaprotect-4life/).
-
-### 
-
+[Zenthonic](/sip/produkty-CVI/zenthonic), elixíre
+[Diasan](/sip/elixiry/diasan), tinktúre [Dia zmes](/tinktury/zmes-dia) a
+produkte [MegaProtect 4Life](/sip/produkty-CVI/megaprotect-4life).

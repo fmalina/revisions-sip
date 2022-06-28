@@ -126,8 +126,8 @@ vlákniny a zabezpečiť očistu organizmu.
 Balíček odporučených prípravkov proti angíne
 --------------------------------------------
 
-* [Echinacea](/sip/tinktury-jednobylinkove/echinacea) (Třapatka)
-* [Šalvia](/sip/p/salvia/) (Šalvěj)
-* [Lymfavit](/sip/elixiry/lymfavit-elixir) elixír
+* [Echinacea](/sip/tinktury/echinacea) (Třapatka)
+* [Šalvia](/sip/#p/salvia) (Šalvěj)
+* [Lymfavit](/sip/elixiry/lymfavit) elixír
 * [Veverský](/sip/caje/veversky) čaj
 * [Čaj ľadviny](/sip/caje/ladviny)

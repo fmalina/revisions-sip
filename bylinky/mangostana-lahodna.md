@@ -32,5 +32,5 @@ Veitchii* od *James Herbert Veitchova* sa hovorí, že autor navštívil Javu v 
 (štyroch) stupňov zemepisnej šírky od rovníka.
 
 Aplikáciu plodu nájdete v produkte
-[ZenThonic](/sip/p/zenthonic/).
+[ZenThonic](/sip/#p/zenthonic).
 

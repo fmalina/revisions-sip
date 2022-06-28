@@ -23,8 +23,9 @@ dôsledkov dny, reumy a opuchov.
 *Upozornenie*: Získavanie brezovej šťavy navŕtavaním kôry stromov poškodzuje
 stromy - u nás zakázané!
 
-Aplikáciu bylinky nájdete v elixíre [Reumel](/elixiry/reumel-elixir), tinktúre
-[Čistiaca zmes](/tinktury/cistiaca-zmes) a čajoch [Pre
-pánov,](/sip/caje/pre-panov)[Čaj na](/sip/caje/ladviny) [ľadviny](/sip/caje/ladviny) a
+Aplikáciu bylinky nájdete v elixíre [Reumel](/elixiry/reumel),
+tinktúre [Čistiaca zmes](/tinktury/zmes-cistiaca)
+a čajoch
+[Pre pánov](/sip/caje/pre-panov),
+[Čaj na ľadviny](/sip/caje/ladviny) a
 [Cholestin](/sip/caje/cholestin-zlcnikovy).
-

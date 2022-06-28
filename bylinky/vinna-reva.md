@@ -35,5 +35,5 @@ víno). Grécki filozofi chválili liečebné účinky *hrozna* aj v podobe vín
 druhom storočí s dovozom druhov z Ta-jüan.
 
 Aplikácia extraktu plodov je v produkte
-[Zenthonic](/sip/p/zenthonic/).
+[Zenthonic](/sip/#p/zenthonic).
 

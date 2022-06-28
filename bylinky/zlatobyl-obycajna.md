@@ -28,8 +28,8 @@ hmyz, zlepšuje krvný obeh a chráni cievy.
 *Upozornenie*: Peľ z čerstvej rastliny vyvoláva sennú nádchu.
 
 Aplikáciu bylinky nájdete na stránke tinktúry
-[Zlatobyľ](/tinktury-jednobylinkove/zlatobyl-2), zmesi [Obličková
-zmes](/sip/p/oblickova-zmes-ledvinova-smes/) a stránkach čajov
+[Zlatobyľ](/tinktury/zlatobyl-2), zmesi [Obličková
+zmes](/sip/#p/oblickova-zmes-ledvinova-smes) a stránkach čajov
 [Cholestin](/sip/caje/cholestin-zlcnikovy), [Pre pánov](/sip/caje/pre-panov) a
 [Ľadviny](/sip/caje/ladviny).
 

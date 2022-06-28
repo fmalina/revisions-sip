@@ -38,5 +38,4 @@ vlastnosti, ale v takých malých množstvách, že to ľudské zdravie neohrozu
 jednej údenej klobáse je určite viac karcinogénnych látok, ako v rovnakom
 množstve šampiňónov.
 
-Aplikácia húb je v produkte [Imunex](/sip/p/imunex/).
-
+Aplikácia húb je v produkte [Imunex](/sip/elixiry/duhovy-imunex).

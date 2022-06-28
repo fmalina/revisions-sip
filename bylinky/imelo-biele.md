@@ -45,5 +45,5 @@ vnútornom použití jedovaté, listy a vetvičky však nie. Keď ich však zmie
 bravčovým sadlom na vazelínu a použijeme na omrzliny, úspešne pomôžu (vazelínu
 používame iba zvonka pri omrzlinách).
 
-Aplikáciu bylinky nájdete v tinktúre [Imelo](/tinktury-jednobylinkove/imelo).
+Aplikáciu bylinky nájdete v tinktúre [Imelo](/tinktury/imelo).
 

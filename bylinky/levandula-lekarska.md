@@ -31,7 +31,7 @@ prísada do masážnych prostriedkov na "*dolámané telo*".
 mať nežiaduce komplikácie najmä na precitlivených jedincov a tehotné ženy.
 
 Aplikáciu bylinky nájdete v tinktére
-[Levanduľa](/tinktury-jednobylinkove/levandula) a čaji [Nervus](/sip/caje/nervus).
+[Levanduľa](/tinktury/levandula) a čaji [Nervus](/sip/caje/nervus).
 
 Photo (c) Havlis Milan
 

@@ -24,7 +24,6 @@ liekoch.
 *Zaujímavosť*: Výťazok z citronely sa používa ako ochranný prostriedok v múzeách
 na staroveké dokumenty (udržiava ich suché a vláčne).
 
-Aplikácia bylinky je v čaji [Rooibos s citrónovou
-trávou](/sip/p/rooibos-s-citronovou-travou/) a čaji
-[Siesta](/sip/p/siesta/).
-
+Aplikácia bylinky je v čaji
+[Rooibos s citrónovou trávou](/sip/caje/rooibos-s-citronovou-travou) a čaji
+[Siesta](/sip/caje/siesta).

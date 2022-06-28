@@ -30,7 +30,7 @@ vína *Maitrank*, ktoré sa dodnes vyrába v Alsasku, Belgicku a v Nemecku (*má
 víno*).
 
 Aplikáciu bylinky nájdete na stránke tinktúry
-[Lipkavec](/tinktury-jednobylinkove/lipkavec) a stránke elixírov
-[Lymfavit](/elixiry/lymfavit-elixir) a [Hepaven](/elixiry/hepaven-elixir) a čaju
-[Hlavabol](http://staticfile.net/product/hlavabol/).
+[Lipkavec](/tinktury/lipkavec) a stránke elixírov
+[Lymfavit](/elixiry/lymfavit) a [Hepaven](/elixiry/hepaven) a čaju
+[Hlavabol](http://staticfile.net/product/hlavabol).
 

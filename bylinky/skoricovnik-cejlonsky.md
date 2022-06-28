@@ -25,5 +25,5 @@ bylinárskej knihe čínskeho cisára Sen - Munga.
 žalúdočných a črevných vredoch.
 
 Aplikáciu bylinky nájdete na stránke čaje v [MU
-čaj](/sip/p/mu/).
+čaj](/sip/#p/mu).
 

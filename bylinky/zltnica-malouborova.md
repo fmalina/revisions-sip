@@ -20,5 +20,5 @@ ekzémy a kožné zápaly.
 *Upozornenie*: Žltnicu by nemali užívať tehotné ženy, pôsobí na maternicu.
 
 Aplikáciu bylinky nájdete na stránke elixíru
-[Dermasan](/elixiry/dermasan-elixir).
+[Dermasan](/elixiry/dermasan).
 

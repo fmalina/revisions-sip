@@ -1,10 +1,8 @@
 Alzheimerova choroba
 ====================
 
-
 > ### Nebojte sa..., bojujte!
-> 
-> 
+
 
 **Alzheimerova choroba** (ACH) sa nazýva tiež aj choroba „predčasného
 starnutia”. ACH je najrozšírenejšia forma senilnej (stareckej) demencie v USA a
@@ -50,9 +48,9 @@ medikamentmi pod dohľadom lekárov.
 Objednajte is balíček prípravkov na pomoc v boji s Alzheimerovou chorobou
 -------------------------------------------------------------------------
 
-* [Arnika](/sip/tinktury-jednobylinkove/arnika) horská
-* [Ginkgo](/sip/tinktury-jednobylinkove/ginkgo) biloba
-* [Žilná](/sip/tinktury/zilna-zmes) zmes
+* [Arnika](/sip/tinktury/arnika) horská
+* [Ginkgo](/sip/tinktury/ginkgo) biloba
+* [Žilná](/sip/tinktury/zmes-zilna) zmes
 * [Hepatik](/sip/caje/hepatik) čaj
 * [Ľadvinový](/sip/caje/ladviny) čaj
 * [Pestrec](/sip/caje/pestrec) mariánsky (Ostropestřec mariansky) vláknina s Glukopur 4:1 PL (nevariť!)

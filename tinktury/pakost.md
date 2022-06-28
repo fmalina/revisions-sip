@@ -12,7 +12,7 @@ rany. Rozdrvená čerstvá bylinka účinne lieči ušné a nervové zápaly (tr
 nerv). Ako preventor je bylinka účinná najmä proti hemoroidom spolu so sedacími
 kúpeľmi.
 
-[Viac informácií](/sip/bylinky/pakost-smradlavy/) o bylinke…
+[Viac informácií](/sip/bylinky/pakost-smradlavy) o bylinke…
 
 Upozornenie: *Výrobok nie je určený pre deti do 3 rokov. Dávkovanie pre
 dospelých 3 x 15 kvapiek za deň; pre deti od troch rokov 3 x 5 kvapiek za deň

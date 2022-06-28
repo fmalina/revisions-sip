@@ -21,7 +21,7 @@ liter vody, vložíme 3 polievkové lyžice (alebo podobný objem) kôry do vria
 vody, necháme 5 minút variť, odstavíme na 15 minút, schladíme a pijeme
 (napríklad v rámci pitného režimu dňa)
 
-*Upozornenie*: [Vilcacora](/sip/bylinky/vilcacora/) je vysoko účinná v ochrane proti
+*Upozornenie*: [Vilcacora](/sip/bylinky/vilcacora) je vysoko účinná v ochrane proti
 cudzím látkam v organizme, preto je nevyhnutné pred užívaním **poradiť sa s
 lekárom** (transplantáty (pred aj po), transfúzie, tehotenstvo, chemoterapia,
 rádioterapia, DM I, pri aplikácii hormonálnych liekov, pri alergických

@@ -3,8 +3,8 @@ Senilita
 
 
 > ### Otázky spojené s menej radostným životom, nie len svojim…
-> 
-> 
+>
+>
 
 **Senilita** známa tiež pod pojmom *senilná* alebo *paralytická* **demencia**.
 Má chronicky progresívny charakter s globálnymi psychickými poruchami a celkovou
@@ -23,9 +23,9 @@ Balíček odporučených prípravkov proti rozvoju senility
 ------------------------------------------------------
 
 * [Psyllium](/sip/caje/psyllium) vláknina
-* [Neuren](/sip/elixiry/neuren-elixir) elixír
-* [Ginkgo](/sip/tinktury-jednobylinkove/ginkgo) tinktúra
-* [Veronika](/sip/tinktury-jednobylinkove/veronika) tinktúra
+* [Neuren](/sip/elixiry/neuren) elixír
+* [Ginkgo](/sip/tinktury/ginkgo) tinktúra
+* [Veronika](/sip/tinktury/veronika) tinktúra
 * [Pečeňový](/sip/caje/pecenovy-u-caj) - U čaj
-* [BCAA Liquid](/sip/cvi/bcaa-l-carnitin)
+* [BCAA Liquid](/sip/produkty-CVI/bcaa-l-carnitin)
 * Olivový panenský olej; lisovaný za studena 1PL denne *(v obchodnej sieti)*

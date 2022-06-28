@@ -1,7 +1,7 @@
 Skorocel indický
 ================
 
-**Skratka**: [Kúpte si Psyllium](/p/psyllium/) pre pre Vašu spotrebu.
+**Skratka**: [Kúpte si Psyllium](/sip/caje/psyllium) pre pre Vašu spotrebu.
 
 #### Jitrocel písečný, Plantago arenaria Waldst. et Kit. (Syn.: Psyllium arenaria (Waldst. et Kit.) Mirbel, Plantago indica L., Plantago scabra Moench, Plantago ramosa Aschers), Skorocel indický (indická bylina, chmelík)
 
@@ -38,6 +38,5 @@ napučia i v žalúdku a vyhnete sa nie práve príjemnému pocitu).
 
 Aplikáciu bylinky nájdete na stránke Vlákniny, resp. čajoviny
 [Psyllium](/sip/caje/psyllium), [Bronchiol](/sip/caje/bronchiol) a
-[Nekašel](/sip/caje/nekasel) a tiež na stránke tinktúry [Priedušková
-zmes](/tinktury/prieduskova-zmes).
-
+[Nekašel](/sip/caje/nekasel) a tiež na stránke
+tinktúry [Priedušková zmes](/sip/tinktury/zmes-prieduskova).

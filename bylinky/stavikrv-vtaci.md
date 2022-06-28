@@ -23,8 +23,7 @@ aj na zmiernenie krvácania a na odvodnenie.
 *Zaujímavosť*: Lekár Dioskurides chválil bylinku pre účinky pri "chrlení krvi",
 červienke a cholere.
 
-Aplikáciu bylinky nájdete na stránke tinktúry [Čistiaca
-zmes](/tinktury/cistiaca-zmes), [Obličková
-zmes](/sip/p/oblickova-zmes-ledvinova-smes/) a v čaji [Pre
-pánov](/sip/caje/pre-panov).
-
+Aplikáciu bylinky nájdete na stránke tinktúry
+[Čistiaca zmes](/sip/tinktury/zmes-cistiaca),
+[Obličková zmes](/sip/tinktury/zmes-oblickova-ledvinova)
+a v čaji [Pre pánov](/sip/caje/pre-panov).

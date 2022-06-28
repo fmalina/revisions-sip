@@ -23,6 +23,6 @@ srdca). Posilňuje srdcový sval a znižuje krvný tlak.
 *Upozornenie*: Predávkovanie môže spôsobiť výrazné zníženie tlaku a spomalenie
 činnosti srdca.
 
-Aplikáciu bylinky nájdete v tinktúre [Hloh](/tinktury-jednobylinkove/hloh) a
-elixíre [Cardolen](/elixiry/cardolen-elixir).
+Aplikáciu bylinky nájdete v tinktúre [Hloh](/tinktury/hloh) a
+elixíre [Cardolen](/elixiry/cardolen).
 

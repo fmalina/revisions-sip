@@ -1,10 +1,7 @@
 Depresia
 ========
 
-
 > ### Nepríjemnosť spojená s prvotnou poruchou vzťahu ku sebe samému a medziľudských vzťahov vôbec…
-> 
-> 
 
 **Depresia** – psychogénne ochorenie človeka. Človek s touto chorobou má
 predispozíciu „*špirálového myslenia*“ a zamotáva sa do svojich vlastných
@@ -29,9 +26,9 @@ hormonálne zmeny, bolesti hlavy, strata hmotnosti).
 Balíček odporučených prípravkov proti depresii
 ----------------------------------------------
 
-* [Neuren](/sip/elixiry/neuren-elixir) elixír
-* [Tonizačná zmes](/sip/tinktury/tonizacna-zmes)
-* [Všehojovec](/sip/tinktury-jednobylinkove/vsehojovec) (Eleuterokok)
+* [Neuren](/sip/elixiry/neuren) elixír
+* [Tonizačná zmes](/sip/tinktury/zmes-tonizacna)
+* [Všehojovec](/sip/tinktury/vsehojovec) (Eleuterokok)
 * [MU](/sip/caje/mu) čaj; aplikovať maximálne dve balenia
 * [Pozdrav z Křtin](/sip/caje/pozdrav-z-krtin) čaj
-* [Valeriána](/sip/tinktury-jednobylinkove/valeriana) (Kozlík); *pred spaním*
+* [Valeriána](/sip/tinktury/valeriana) (Kozlík); *pred spaním*

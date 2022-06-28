@@ -15,5 +15,5 @@ do podhorských oblastí.
 pôsobí dezinfekčne na močové cesty.
 
 Aplikáciu bylinky nájdete na stránke tinktúry [Obličková
-zmes](/sip/p/oblickova-zmes-ledvinova-smes/).
+zmes](/sip/#p/oblickova-zmes-ledvinova-smes).
 

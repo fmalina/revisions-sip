@@ -64,10 +64,9 @@ Josefa Kamela* (*Camelius*), rodáka z Brna, ktorý pôsobil ako misionár na
 Filipínach a v Číne. Bol známy zanietením pre botaniku, prírodovedu a samozrejme
 šírením kresťanstva.
 
-Aplikácia výťažku z bylinky je na stránkach produktov [Chlesterol
-čaj](/sip/p/cholesterol/), [Telové
-sviečky](/sip/p/telove-sviecky/), [Slim
-Formula](/sip/p/slim-formula/),
-[Smokerade](/sip/p/smokerade/) a [MegaProtect
-4Life](/sip/p/megaprotect-4life/).
-
+Aplikácia výťažku z bylinky je na stránkach produktov
+[Chlesterol čaj](/sip/caje/cholesterol),
+[Telové sviečky](/sip/sviecky/telove-sviecky),
+[Slim Formula](/sip/produkty-CVI/slim-formula),
+[Smokerade](/sip/produkty-CVI/smokerade) a
+[MegaProtect 4Life](/sip/produkty-CVI/megaprotect-4life).

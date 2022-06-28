@@ -11,7 +11,7 @@ celkový priebeh horúčkových ochorení, napomáha čisteniu organizmu, zmier�
 kožné problémy a pôsobí proti dne. V prevencií je vhodné zdôrazniť
 protireumatické účinky.
 
-[Viac informácií](/sip/bylinky/tuzobnik-brestovy/) o bylinke…
+[Viac informácií](/sip/bylinky/tuzobnik-brestovy) o bylinke…
 
 Upozornenie: *Výrobok nie je určený pre deti do 3 rokov. Dávkovanie pre
 dospelých 3 x 15 kvapiek za deň; pre deti od troch rokov 3 x 5 kvapiek za deň

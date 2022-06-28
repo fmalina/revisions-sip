@@ -34,9 +34,9 @@ medovkový protikŕčový alkoholový destilát. Už v 15. storočí sa pripravo
 de Charme*", jeden z prvých parfumov.
 
 Aplikáciu bylinky nájdete na stránkach tinktúry
-[Medovka](/tinktury-jednobylinkove/medovka), stránke elixírov
-[Neuren](/elixiry/neuren-elixir) a [Hypnosan](/elixiry/hypnosan) a stránke čajov
+[Medovka](/tinktury/medovka), stránke elixírov
+[Neuren](/elixiry/neuren) a [Hypnosan](/elixiry/hypnosan) a stránke čajov
 [Nervus](/sip/caje/nervus), [Pre deti,](/sip/caje/pre-deti)[Veverský
 čaj](/sip/caje/veversky), [Hlavabol](/sip/caje/hlavabol) a stránke [Ušné
-sviečky](/sip/p/usne-sviecky/).
+sviečky](/sip/#p/usne-sviecky).
 

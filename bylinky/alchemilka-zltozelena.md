@@ -27,8 +27,8 @@ vlastnosť prinavrátenia ženám panenstva a oživenia ich krásy. Hildegarda 
 Binderu (ranný stredovek) odporúčala vňať aj proti vredovitému zápalu v hrdle.
 
 Aplikáciu bylinky nájdete v tinktúre
-[Alchemilka](/sip/tinktury-jednobylinkove/alchemilka) a
-elixíroch [Feminan](/sip/elixiry/feminan-elixir),
-[Disbiosan](/sip/elixiry/disbiosan-elixir) a
-[Myorel](/sip/elixiry/myorel-elixir).
+[Alchemilka](/sip/tinktury/alchemilka) a
+elixíroch [Feminan](/sip/elixiry/feminan),
+[Disbiosan](/sip/elixiry/disbiosan) a
+[Myorel](/sip/elixiry/myorel).
 

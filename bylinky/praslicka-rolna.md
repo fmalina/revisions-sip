@@ -29,5 +29,5 @@ s jedovatou prasličkou bahennou (*Equisetum palustre*) a prasličkou lesnou
 (*Equisetum silvaticum*), ktoré obsahujú zvýšené množstvo alkaloidných báz.
 
 Aplikáciu bylinky nájdete na stránke tinktúry [Obličková
-zmes](/sip/p/oblickova-zmes-ledvinova-smes/).
+zmes](/sip/#p/oblickova-zmes-ledvinova-smes).
 

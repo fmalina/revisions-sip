@@ -28,8 +28,8 @@ na oxidačné procesy v mozgu, pečeni a svaloch, urýchľuje metabolizmus lipid
 má anticholesterolemický efekt, čím brzdí rozvoj arteriosklerózy.
 
 Aplikáciu bylinky nájdete na stránke tinktúry
-[Schizandra](/tinktury-jednobylinkove/schizandra), na stránkach elixírov
-[Venavit](/elixiry/venavit-elixir), [Stimulen](/elixiry/stimulen-elixir) a
-[Cardolen](/elixiry/cardolen-elixir), v produkte [Forever Ginkgo
-Plus](/sip/p/forever-ginkgo-plus/).
+[Schizandra](/tinktury/schizandra), na stránkach elixírov
+[Venavit](/elixiry/venavit), [Stimulen](/elixiry/stimulen) a
+[Cardolen](/elixiry/cardolen), v produkte [Forever Ginkgo
+Plus](/sip/#p/forever-ginkgo-plus).
 

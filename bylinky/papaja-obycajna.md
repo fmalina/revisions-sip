@@ -44,5 +44,5 @@ interakcia s liekmi typu warfarínu (lieky znižujúce krvnú zrážanlivosť p�
 proti vitamínu K)). Možno tiež predpokladať vznik alergickej reakcie u obzvlášť
 citlivých osôb.
 
-Aplikácia bylinky je v produkte [Meal Time](/sip/p/meal-time/).
+Aplikácia bylinky je v produkte [Meal Time](/sip/#p/meal-time).
 

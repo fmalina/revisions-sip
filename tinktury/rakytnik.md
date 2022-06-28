@@ -8,7 +8,7 @@ organizmus. Má antidepresívne a antistresové účinky. Napomáha vylučovaniu
 škodlivých látok z tela. Rozpúšťa hlieny, podporuje liečbu pľúcnych a pečeňových
 ochorení. Pôsobí ako všeobecné tonikum.
 
-[Viac informácií](/sip/bylinky/rakytnik-resetliakovy/) o
+[Viac informácií](/sip/bylinky/rakytnik-resetliakovy) o
 bylinke…
 
 Upozornenie: *Výrobok nie je určený pre deti do 3 rokov. Dávkovanie pre

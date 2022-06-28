@@ -1,8 +1,0 @@
-{% if not page.parent %}
-    <ul class="page__list">
-    {% for p in ls %}
-        <li><a href="/{{ page.slug }}/{{ p.slug }}">{{ p.title }}</a></li>
-    {% endfor %}
-    </ul>
-{% endif %}
-

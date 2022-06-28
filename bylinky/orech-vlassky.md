@@ -38,5 +38,5 @@ obsahuje juglon s mutagennými a karcinogennými účinkami (tvrdenie nie je
 overené).
 
 Aplikáciu rastlinky nájdete na stránke elixíru
-[Disbiosan](/elixiry/disbiosan-elixir).
+[Disbiosan](/elixiry/disbiosan).
 

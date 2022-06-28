@@ -34,9 +34,8 @@ pri ťažkých produktívnych psychózach, ťažších poruchách srdcového ryt
 *Zaujímavosť*: Koreň leuzei používali Tatári ako afrodiziakum.
 
 Aplikáciu bylinky nájdete na stránke tinktúr
-[Leuzea](/tinktury-jednobylinkove/leuzea) a [Tonizačná
-zmes](/tinktury/tonizacna-zmes) a tiež na stránkach elixírov
-[Masculan](/elixiry/masculan-elixir) a [Vitalit](/elixiry/vitalit-eleixir).
+[Leuzea](/sip/tinktury/leuzea) a
+[Tonizačná zmes](/sip/tinktury/zmes-tonizacna) a tiež na stránkach elixírov
+[Masculan](/sip/elixiry/masculan) a [Vitalit](/sip/elixiry/vitalit).
 
 Photo (c) Harri Arkkio
-

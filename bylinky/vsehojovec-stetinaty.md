@@ -41,6 +41,6 @@ látka. Kvapky sú vhodné aj pre vodičov, ktorých čaká náročná a dlhá c
 *Upozornenie:* Neodporúčame užívať vo večerných hodinách (nespavosť), taktiež
 nevhodné pre tehotné ženy a pre ľudí s vysokým krvným tlakom.  Aplikáciu bylinky
 nájdete v elixíre [Hypnosan](/elixiry/hypnosan), tinktúre
-[Všehojovec](/tinktury-jednobylinkove/vsehojovec) a produkte
-[VitalMan](/sip/p/vital-man/).  ###
+[Všehojovec](/tinktury/vsehojovec) a produkte
+[VitalMan](/sip/#p/vital-man).  ###
 

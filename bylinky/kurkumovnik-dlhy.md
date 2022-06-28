@@ -34,6 +34,6 @@ Najnovšie sa zistilo, že významne podporuje mozgové kognitívne funkcie, naj
 starších ľudí. Je to prírodný a veľmi účinný mozgový doping.
 
 Aplikácia bylinky je na stránke produktu [Slim
-Formula](/sip/p/slim-formula/) a [Forever Active
-HA](/sip/p/forever-active-ha/).
+Formula](/sip/#p/slim-formula) a [Forever Active
+HA](/sip/#p/forever-active-ha).
 

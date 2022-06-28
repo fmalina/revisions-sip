@@ -50,6 +50,4 @@ kontraindikovaná v tehotenstve pre abortívne účinky, pri nízkom krvnom tlak
 krvácaní u žien. Predávkovanie sa prejavuje zvracaním a omámením. Pri liečení
 vyvolávame dávenie a čistenie čriev.
 
-Aplikáciu bylinky nájdete na stránke tinktúry [Žilná
-zmes](/tinktury/zilna-zmes).
-
+Aplikáciu bylinky nájdete na stránke tinktúry [Žilná zmes](/sip/tinktury/zmes-zilna).

@@ -20,5 +20,5 @@ jedle sa získavajú aj silice, ktoré majú využitie v kozmetike a alternatív
 medicíne.
 
 Aplikácia rastliny je na stránke [Ušné
-sviečky](/sip/p/usne-sviecky/).
+sviečky](/sip/#p/usne-sviecky).
 

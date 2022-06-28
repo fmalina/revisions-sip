@@ -20,7 +20,3 @@ s rôznymi silicami). Sviečky aj obklady Vám dodáme doporučenou poštou na
 dobierku.
 
 Cena poštovného a balného je *1,50 € (45,19 Sk).*
-
-**Tip:** Spomeňte si na svojich blízkych a prezrite si aj iné produkty v ponuke.
-Ušetrite s rozumom, poštovné pre jednu celú objednávku platíte iba raz.
-

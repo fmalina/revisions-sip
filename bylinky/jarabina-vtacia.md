@@ -40,6 +40,6 @@ dobytok priväzovaním vetvičiek jarabiny v tvare kríža na ich chvost.
 niekedy zapríčiňujú ľahké otravy - príčinou je obsah kyseliny parasorbovej.
 
 Aplikáciu bylinky nájdete na stránke
-[Jarabina](/tinktury-jednobylinkove/jarabina) tinktúra a stránke elixírov
-[Feminan](/elixiry/feminan-elixir) a [Klimakten](/elixiry/klimakten-elixir).
+[Jarabina](/tinktury/jarabina) tinktúra a stránke elixírov
+[Feminan](/elixiry/feminan) a [Klimakten](/elixiry/klimakten).
 

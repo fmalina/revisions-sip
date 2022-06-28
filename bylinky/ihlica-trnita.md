@@ -23,6 +23,5 @@ zápale obličiek a opuchlín rozličného pôvodu, obezite, zvyšuje krvný tla
 Ľudové liečiteľstvo používa korene ihlice aj pri liečení reumatizmu, pri
 hemoroidoch, na zastavenie krvácania, pri neplodnosti.
 
-Aplikáciu bylinky nájdete v [Brnenskom
-čaji](/sip/caje/brnensky-%E2%80%93-bylinna-cajova-zmes).
-
+Aplikáciu bylinky nájdete
+v [Brnenskom čaji](/sip/caje/brnensky).

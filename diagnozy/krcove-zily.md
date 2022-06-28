@@ -47,6 +47,6 @@ Balíček odporučených prípravkov proti žilovým chorobám
 
 * [Psyllium](/sip/caje/psyllium) vláknina
 * [Sayonara](/sip/caje/sayonara) čaj
-* [Nechtík](/sip/p/nechtik/) (Měsíček)
-* [Veronika](/sip/p/veronika/) (Rozrazil)
-* [VeinCare](/sip/p/veincare/) s hirudinovým extraktom (masť)
+* [Nechtík](/sip/#p/nechtik) (Měsíček)
+* [Veronika](/sip/#p/veronika) (Rozrazil)
+* [VeinCare](/sip/#p/veincare) s hirudinovým extraktom (masť)

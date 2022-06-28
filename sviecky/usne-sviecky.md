@@ -8,9 +8,9 @@ dielne Gizely Halászovej (Slovenská republika) je látka z ľanu, nasiaknutá
 
 Ušné sviečky dodávame s obsahom silice (záleží na Vašom výbere):
 
-* ***[eukalyptová](/sip/p/eukalyptus/)*** silica (osviežuje),
-* ***[jedľová](/sip/p/jedla/)*** silica (dezinfikuje),
-* ***[medovková](/sip/p/medovka-lekarska/)*** silica (ukludňuje).
+* *[eukalyptová](/sip/bylinky/eukalyptus)* silica (osviežuje),
+* *[jedľová](/sip/bylinky/jedla)* silica (dezinfikuje),
+* *[medovková](/sip/bylinky/medovka-lekarska)* silica (ukludňuje).
 
 Ako všetky produkty v našej ponuke, aj sviečky sú certifikované v zmysle
 slovenskej legislatívy.
@@ -23,7 +23,7 @@ zvukovodu), prípadne pri čistení zvukovodu (ak sa maz tlačí do hĺbky). Cho
 sa zhorší sluch (podobne ako pri kúpaní, keď vniknutá voda upchá zvukovod). Pri
 tvrdšej mazovej zátke sa zjavuje i bolesť, niekedy chorému hučí v uchu a cíti aj
 závrate. Pri bolestiach iných častí organizmu ako uší je rozumné aplikovať
-[telové sviečky](/sip/aplikacia-telovych-cakrovych-sviecok).
+[telové sviečky](/sip/masaze/telove-sviecky).
 
 *Použitie*: Aplikácia ušných sviečok AURMED rozhodne pomáha aj pri liečení
 nahromadeného hlienu v horných dýchacích cestách, pri nádche, po zápale ucha,
@@ -55,4 +55,3 @@ Kontakt MT (predaj, aplikácia a konzultácia) **+421 910 967 179** (**Zuzana**)
 
 *priestory na ul. S. Sakalovej 148 (medzi budovou VÚB a zámkom smerom ku
 klinike), Bytča*
-

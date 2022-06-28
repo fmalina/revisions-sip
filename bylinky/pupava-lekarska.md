@@ -29,6 +29,6 @@ prsníkov.
 *Upozornenie*: Je nevhodná pre dojčiace matky (prienik horčiny do mlieka).
 
 Aplikáciu bylinky nájdete na stránke tinktúry
-[Púpava](/tinktury-jednobylinkove/pupava) a čaju
+[Púpava](/tinktury/pupava) a čaju
 [Cholestin](/sip/caje/cholestin-zlcnikovy).
 

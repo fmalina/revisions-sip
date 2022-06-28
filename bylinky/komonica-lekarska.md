@@ -33,6 +33,5 @@ preto veľmi pozorne treba sledovať jej dávkovanie a po týždni vždy na čas
 prerušiť jej užívanie. Komonicu by nemali užívať pacienti, ktorí majú lieky
 proti tvorbe krvných zrazenín *Pelentan* a *Heparin*.
 
-Aplikáciu bylinky nájdete na stránke tinktúry [Žilná
-zmes](/tinktury/zilna-zmes).
-
+Aplikáciu bylinky nájdete na stránke tinktúry
+[Žilná zmes](/sip/tinktury/zmes-zilna).

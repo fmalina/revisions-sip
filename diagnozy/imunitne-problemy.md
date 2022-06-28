@@ -3,8 +3,8 @@ Imunitné problémy
 
 
 > ### Nepríjemnosť spojená vysokou náchylnosťou na choroby...
-> 
-> 
+>
+>
 
 **Imunita** je odolnosť organizmu proti určitej infekcií, alebo schopnosť
 organizmu rozoznať „svoje“ od „cudzieho“ a pomocou bielych krviniek (lymfocyty,
@@ -15,10 +15,10 @@ nikedy pojem imunita zjednodušuje na obranu proti infekcií.
 Objednajte si balíček prípravkov na posilnenie imunity
 ------------------------------------------------------
 
-* [Echinacea](/sip/tinktury-jednobylinkove/echinacea) (Echinacea)
-* [Kapucínka](/sip/tinktury-jednobylinkove/kapucinka) (Lichořeřišnice)
-* [Túžobník](/sip/tinktury-jednobylinkove/tuzobnik) (Tužebník)
-* [Stimulen](/sip/p/stimulen-elixir/) elixír
+* [Echinacea](/sip/tinktury/echinacea) (Echinacea)
+* [Kapucínka](/sip/tinktury/kapucinka) (Lichořeřišnice)
+* [Túžobník](/sip/tinktury/tuzobnik) (Tužebník)
+* [Stimulen](/sip/elixiry/stimulen) elixír
 * [Sayonara](/sip/caje/sayonara) čajovina
 * [Rooibos](/sip/caje/rooibos) čaj
 * [Psyllium](/sip/caje/psyllium) vláknina; nevariť!

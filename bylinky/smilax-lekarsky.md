@@ -25,6 +25,6 @@ zárodky choroby sú "v ponuke" v domácej strave.
 *Upozornenie*: Nadmerné dávky môžu spôsobiť gastrointestinálne podráždenie
 (tráviacej sústavy).
 
-Aplikácia je na stránkach [VitalMan](/sip/p/vital-man/) a
-[VitalWoman](/sip/p/vital-woman/).
+Aplikácia je na stránkach [VitalMan](/sip/#p/vital-man) a
+[VitalWoman](/sip/#p/vital-woman).
 

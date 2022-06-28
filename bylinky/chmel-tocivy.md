@@ -23,7 +23,7 @@ Matthioli o ňom píše, že "*má moc stenčujúcu, otvárajúcu a čistiacu*".
 *Upozornenie*: Veľké množstvo vyvoláva bolesti hlavy, nevoľnosť a závraty a
 dlhodobá konzumácia piva u mužov spôsobuje zväčšenie prsných žliaz.
 
-Aplikáciu bylinky nájdete v elixíroch [Myorel](/elixiry/myorel-elixir),
-[Neuren](/elixiry/neuren-elixir) a [Hypnosan](/elixiry/hypnosan), čaji
+Aplikáciu bylinky nájdete v elixíroch [Myorel](/elixiry/myorel),
+[Neuren](/elixiry/neuren) a [Hypnosan](/elixiry/hypnosan), čaji
 [Nervus](/sip/caje/nervus) a [Pre deti](/sip/caje/pre-deti).
 

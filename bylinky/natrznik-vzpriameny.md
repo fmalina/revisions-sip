@@ -28,6 +28,4 @@ alebo pri dne a reumatizme. Odvar možno použiť aj ako kloktadlo pri zápaloch
 *Upozornenie*: Vzhľadom na vysoký obsah trieslovín môže nátržník pri
 predávkovaní vyvolať u citlivých osôb dávenie.
 
-Aplikácia bylinky je v dúhovom elixíre
-[Detoxilen](/sip/p/detoxilen/).
-
+Aplikácia bylinky je v dúhovom elixíre [Detoxilen](/sip/elixiry/duhovy-detoxilen).

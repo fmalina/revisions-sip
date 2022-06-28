@@ -23,9 +23,9 @@ potláčaním nutkania na stolicu, náhlení, únave, strachu a pod.
 Balíček odporučených prípravkov proti zápche
 --------------------------------------------
 
-* [Disbiosan](/sip/elixiry/disbiosan-elixir) elixír
-* [Benedikt](/sip/p/benedikt/) (Benedikt)
-* [Rimbaba](/sip/p/rimbaba/) (Řimbaba)
+* [Disbiosan](/sip/elixiry/disbiosan) elixír
+* [Benedikt](/sip/#p/benedikt) (Benedikt)
+* [Rimbaba](/sip/#p/rimbaba) (Řimbaba)
 * [Psyllium](/sip/caje/psyllium) vláknina
 * [Rooibos](/sip/caje/rooibos) čaj
 * [Žalúdok a črevá](/sip/caje/zaludok-creva) čaj

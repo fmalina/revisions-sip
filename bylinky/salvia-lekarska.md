@@ -22,12 +22,12 @@ horúčav, migréna), pri silnej menštruácii na podporenie pružnosti maternic
 *Zaujímavosť*: Dym zo šalvie neutralizuje pachy. Žuvanie čerstvých lístkov
 odstraňuje zápach z úst. V niektorých krajinách je obľúbená aj ako ochucovadlo
 pokrmov. Pri opatrnom používaní, alebo v spojení s inou koreninou, najmä listami
-[rozmarínu](/sip/p/rozmarin-lekarsky/), dodáva pokrmom zaujímavú
+[rozmarínu](/sip/#p/rozmarin-lekarsky), dodáva pokrmom zaujímavú
 chuť. Môžeme ňou ochutiť mäsové pokrmy, pečienku, varené a pečené ryby, paštéty,
 cestoviny.  *Upozornenie*: Nie je vhodná pre deti, tehotné (abortus) a ani
 dojčiace matky pre obsah jedovatého thujonu. Neodporúča sa aplikovať ani u
 epileptikov, pretože pri užívaní vo vyšších dávkach vyvoláva kŕče podobné
 epileptickým.  Aplikáciu bylinky nájdete na stránke tinktúry
-[Šalvia](/tinktury-jednobylinkove/salvia), čajoviny [Nekašel](/sip/caje/nekasel) a
+[Šalvia](/tinktury/salvia), čajoviny [Nekašel](/sip/caje/nekasel) a
 [Telové sviečky](/aplikacia-telovych-cakrovych-sviecok).  ###
 

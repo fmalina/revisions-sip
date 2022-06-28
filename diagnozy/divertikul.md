@@ -1,10 +1,7 @@
 Divertikul
 ==========
 
-
 > ### Nepríjemnosť spojená s vydutinami sliznice tráviacich orgánov…
-> 
-> 
 
 **Divertikul** (Diverticulum et diverticulosis) je slepo sa končiaca vydutina
 dutého orgánu, ktorá sa môže vyskytovať samostatne alebo viacnásobne v celom
@@ -31,10 +28,10 @@ Patogenické rozdelenie divertikulov
 Balíček odporučených prípravkov proti divertikulu
 -------------------------------------------------
 
-* [Echinacea](/sip/tinktury-jednobylinkove/echinacea) (Třapatka) tinktúra
-* [Kapucínka](/sip/tinktury-jednobylinkove/kapucinka) (Lichořeřišnice) tinktúra
-* [Žalúdočná zmes](/sip/tinktury/zaludocna-zmes) tinktúra
-* [BCAA Liquid](/sip/cvi/bcaa-l-carnitin)
+* [Echinacea](/sip/tinktury/echinacea) (Třapatka) tinktúra
+* [Kapucínka](/sip/tinktury/kapucinka) (Lichořeřišnice) tinktúra
+* [Žalúdočná zmes](/sip/tinktury/zmes-zaludocna) tinktúra
+* [BCAA Liquid](/sip/produkty-CVI/bcaa-l-carnitin)
 * [Rooibos](/sip/caje/rooibos) čaj
 * [Psyllium](/sip/caje/psyllium) vláknina
 * [Sayonara](/sip/caje/sayonara) čaj

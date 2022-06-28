@@ -11,7 +11,7 @@ nádche. Priaznivo pôsobí pri pečeňových problémoch a užíva sa aj pri
 nechutenstve. Vhodný podporný prostriedok pri psychickom prepracovaní. Ako
 preventor spomaľuje zhoršovanie zraku.
 
-[Viac informácií](/sip/bylinky/ocianka-rostkovova/) o bylinke…
+[Viac informácií](/sip/bylinky/ocianka-rostkovova) o bylinke…
 
 Upozornenie: *Výrobok nie je určený pre deti do 3 rokov. Dávkovanie pre
 dospelých 3 x 15 kvapiek za deň; pre deti od troch rokov 3 x 5 kvapiek za deň

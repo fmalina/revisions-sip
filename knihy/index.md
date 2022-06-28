@@ -10,8 +10,4 @@ aj ťažko dostupné novinky v obore. Sme radi, že sa Vám knihy páčia, i ke�
 cudzom jazyku (***češtine***).
 
 Vyberte si svoju knihu a vložte ju do košíka. Knihy a ostatné produkty Vám
-dodáme poštou na dobierku. Cena poštovného a balného je *1,50 € (45,19 Sk)*.
-
-**Tip:** Spomeňte si aj na svojich blízkych a rodinu a ušetrite s rozumom.
-Poštovné platíte iba raz pre celú objednávku.
-
+dodáme poštou na dobierku.

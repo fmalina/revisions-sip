@@ -13,7 +13,7 @@ systém, rozširuje cievy a žily. Preventívne pôsobí proti infarktu a mozgov
 príhode. Pôsobí antiskleroticky, zlepšuje pamäť a užíva sa pri pískaní a šumení
 v ušiach. Je vhodná pre každého a účinné je dlhodobé užívanie.
 
-[Viac informácií](/sip/bylinky/ginkgo-dvojlalocne/) o bylinke…
+[Viac informácií](/sip/bylinky/ginkgo-dvojlalocne) o bylinke…
 
 Upozornenie: *Výrobok nie je určený pre deti do 3 rokov. Dávkovanie pre
 dospelých 3 x 15 kvapiek za deň; pre deti od troch rokov 3 x 5 kvapiek za deň

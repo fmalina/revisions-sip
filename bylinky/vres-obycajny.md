@@ -24,6 +24,6 @@ uplatňujú sa ako podporný prostriedok v liečbe funkčných porúch obličiek
 zápalu močových ciest. Takisto účinkuje proti hnačke.
 
 Aplikáciu vresu nájdete na stránke elixíru
-[Prostaten](/elixiry/prostaten-elixir) a čajov [Pre ženy](/sip/caje/pre-zeny) a
+[Prostaten](/elixiry/prostaten) a čajov [Pre ženy](/sip/caje/pre-zeny) a
 [Ľadviny](/sip/caje/ladviny).
 

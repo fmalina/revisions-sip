@@ -50,8 +50,8 @@ s ochoreniami štítnej žľazy (*sójové* bôby obsahujú látku znižujúcu t
 tyroxínu).
 
 Aplikácia bylinky je na stránke [Super Soya
-Lecithin](/sip/p/super-soya-lecithin/),
-[Energy&Memory](/sip/p/energy-memory/), [Natural HGH
-Support](/sip/p/natural-hgh-support/) a
-[Choleston](/sip/p/choleston/).
+Lecithin](/sip/#p/super-soya-lecithin),
+[Energy&Memory](/sip/#p/energy-memory), [Natural HGH
+Support](/sip/#p/natural-hgh-support) a
+[Choleston](/sip/#p/choleston).
 

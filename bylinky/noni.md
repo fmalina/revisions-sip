@@ -109,5 +109,5 @@ stanovená jednak odporúčaná denná alebo terapeutická dávka.
 dojčiacim ženám a pacientom pri ochorení pečene.
 
 Aplikácia Noni je v prípravku [Polinesian
-Noni](/sip/p/polinesian-noni/).
+Noni](/sip/#p/polinesian-noni).
 

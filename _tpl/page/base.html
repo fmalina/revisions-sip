@@ -2,18 +2,31 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>{% block title %}{{ title }}{% endblock %}</title>
-<meta name="description" content="{% block desc %}{{ desc }}{% endblock %}">
+<title>{% block title %}{{ page.title }} - {{ site_name }}{% endblock %}</title>
+<meta name="description" content="{{ desc }}">
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-<link rel="stylesheet" href="/sip/_style.css">
-{% block head %}{% endblock %}
+<link rel="stylesheet" href="/sip/style.css">
+<link rel="canonical" href="/sip{{ page.get_absolute_url }}">
+<link rel="alternate" href="/sip/feed.xml" type="application/rss+xml" title="RSS">
 </head>
-<body class="{% block body_class %}{% endblock %}">
-<header><a href="/sip/">☀️🌿 {{ site_name }}</a></header>
-<main class="content {% block content_class %}{% endblock %}">
-    {% block breadcrumb %}{% endblock %}
-    {% block content %}{% endblock %}
+<body>
+<header>
+    	<a href="/sip/">{{ site_name }}</a> 🌿
+      {% if page.parent %}<a href="/sip/{{ page.parent }}">{{ page.parent }}</a>{% endif %}
+</header>
+<main>
+    <h1>{{ page.title }}</h1>
+    {{ page.body }}
 </main>
+{% if ls %}
+<nav>
+    <ul>
+    {% for p in ls %}
+        <li><a href="/sip{{ p.get_absolute_url }}">{{ p.title }}</a></li>
+    {% endfor %}
+    </ul>
+</nav>
+{% endif %}
 <footer>
 &copy; {{ site_name }} 2022
 </footer>

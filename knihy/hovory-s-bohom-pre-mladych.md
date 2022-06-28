@@ -4,7 +4,7 @@ Hovory s Bohom pre mladých
 ###  Walsch Neale Donald
 
 Autor svojím súborom kníh “[Hovory s
-Bohom](/sip/knihy-mudrost-pre-vas/hovory-s-bohem-2/)“, ”
+Bohom](/sip/knihy-mudrost-pre-vas/hovory-s-bohem-2)“, ”
 Přátelství s Bohem” a “Přijímaní Boha” vytvoril bestsellery, ktoré boli
 preložené do dvadsiatich siedmych jazykov a predané sú už milióny. Autor žije v
 južnom Oregone so svojou ženou Nancy. Spoločnými silami založili neziskovú

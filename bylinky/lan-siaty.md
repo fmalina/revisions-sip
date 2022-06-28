@@ -24,5 +24,5 @@ kožná choroba). Ľanová voda sa používala na dvore Ľudovíte XIV, lebo pô
 močopudne, zároveň upokojujúco a zabraňovala tvorbe obličkových kameňov.
 
 Aplikácia bylinky je na stránke produktu
-[Choleston](/sip/p/choleston/).
+[Choleston](/sip/#p/choleston).
 

@@ -40,6 +40,5 @@ Fidesan; v návode na použitie bolo uvedené: *"aplikovať pri všeobecnej sl
 prepracovaní, rekonvalescencii, ..."*
 
 Aplikácia bylinky je v produktoch
-[VitalWoman](/sip/p/vital-woman/) a
-[VitalMan](/sip/p/vital-man/).
-
+[VitalWoman](/sip/produkty-CVI/vital-woman) a
+[VitalMan](/sip/produkty-CVI/vital-man).

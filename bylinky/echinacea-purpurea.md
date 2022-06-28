@@ -37,7 +37,5 @@ jednom stanovišti až päť rokov. Prihnojujeme dobre vyzretým humusom. Naše 
 znáša, v chladnejších oblastiach ju treba na zimu prikryť čečinou. Vegetatívne
 ju rozmnožujeme na jar.
 
-Aplikáciu bylinky nájdete v tinktúre
-[Echinacea](/tinktury-jednobylinkove/echinacea), [Tonizačná
-zmes](/tinktury/tonizacna-zmes) a elixíre [Reumel](/elixiry/reumel-elixir).
-
+Aplikáciu bylinky nájdete v tinktúre [Echinacea](/sip/tinktury/echinacea),
+[Tonizačná zmes](/sip/tinktury/zmes-tonizacna) a elixíre [Reumel](/sip/elixiry/reumel).

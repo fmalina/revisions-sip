@@ -29,10 +29,10 @@ keď so synom utekala pred Herodesom. Nemci používajú pestrec ako protijed na
 muchotrávku zelenú, ktorá vyvoláva nekrózu (odumieranie) pečeňového tkaniva.
 
 Aplikáciu bylinky nájdete na stránkach tinktúry
-[Pestrec](/tinktury-jednobylinkove/pestrec), čajoviny [Pestrec
+[Pestrec](/tinktury/pestrec), čajoviny [Pestrec
 mariánsky](/sip/caje/pestrec) a [Pečeňový](/sip/caje/pecenovy-u-caj) - U čaj, tiež
-elixíru [Diasan](/elixiry/diasan-elixir) a produkte
-[LiverAid](/sip/p/liver-aid-with-silymarin/).
+elixíru [Diasan](/elixiry/diasan) a produkte
+[LiverAid](/sip/#p/liver-aid-with-silymarin).
 
 ### 
 

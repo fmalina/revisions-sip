@@ -26,5 +26,5 @@ predpisovaný na opuchy, meškanie menštruácie, zápchy a črevné parazity. B
 tiež používané na reumatizmus a črevné sťažností.
 
 Aplikácia rastliny je v produkte [Slim
-Formula](/sip/p/slim-formula/).
+Formula](/sip/#p/slim-formula).
 

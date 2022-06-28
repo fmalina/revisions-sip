@@ -1,10 +1,8 @@
 Hepatitis
 =========
 
-
 > ### Nepríjemnosť spojená so skupinou chorôb pečene…
-> 
-> 
+
 
 Hepatitis chronica; Hepatitis virosa
 
@@ -33,9 +31,9 @@ non B) sa prenáša krvou a krvnými prípravkami, krv a sérum sú vysoko infek
 Balíček odporučených prípravkov proti hepatitis
 -----------------------------------------------
 
-* [Hepaven](/sip/p/hepaven-elixir/) elixír
-* [Benedikt](/sip/p/benedikt/) (Benedikt)
-* [Schizandra](/sip/p/schizandra/) (Klanopraška)
+* [Hepaven](/sip/elixiry/hepaven) elixír
+* [Benedikt](/sip/tinktury/benedikt) (Benedikt)
+* [Schizandra](/sip/tinktury/schizandra) (Klanopraška)
 * [Hepatik](/sip/caje/hepatik) čaj
 * [Ľadvinový](/sip/caje/ladviny) čaj
 * [Pestrec mariánsky](/sip/caje/pestrec) mletý *(aplikovať s Glukopur 1PL v pomere 4:1; nevariť!)*

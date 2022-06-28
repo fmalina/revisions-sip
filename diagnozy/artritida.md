@@ -36,7 +36,7 @@ Liečebné alternatívy
 Objednajte si balíček prípravkov proti artritíde
 ------------------------------------------------
 
-* [Reumel](/sip/elixiry/reumel-elixir) elixír
-* [Túžobník](/sip/tinktury-jednobylinkove/tuzobnik) (Tužebník)
+* [Reumel](/sip/elixiry/reumel) elixír
+* [Túžobník](/sip/tinktury/tuzobnik) (Tužebník)
 * [Ľadvinový](/sip/caje/ladviny) čaj
 * [Rooibos](/sip/caje/rooibos) čaj

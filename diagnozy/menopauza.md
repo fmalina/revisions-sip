@@ -22,9 +22,9 @@ predpoklad vážnych chorobných zmien až nádorov.
 Balíček odporučených prípravkov proti prejavom menopauzy
 --------------------------------------------------------
 
-* [Klimakten](/sip/elixiry/klimakten-elixir) elixír
-* [Jarabina](/sip/tinktury-jednobylinkove/jarabina) (Jeřáb)
-* [Rebríček](/sip/tinktury-jednobylinkove/rebricek) (Řebříček)
-* [Nechtík](/sip/tinktury-jednobylinkove/nechtik) (Měsiček)
+* [Klimakten](/sip/elixiry/klimakten) elixír
+* [Jarabina](/sip/tinktury/jarabina) (Jeřáb)
+* [Rebríček](/sip/tinktury/rebricek) (Řebříček)
+* [Nechtík](/sip/tinktury/nechtik) (Měsiček)
 * [Pre ženy](/sip/caje/pre-zeny) čaj
 * [MU](/sip/caje/mu) čaj; *odporúčame maximálne dve balenia*

@@ -39,10 +39,10 @@ odbúrava voľné radikály, čím spomaľuje rozvoj zmien súvisiacich so starn
 predlžuje vek, má pozitívne účinky pri liečbe Parkinsonovej a Alzhaimerovej
 choroby, lieči impotenciu, má antibakteriálny a antivírusový účinok.
 
-Aplikáciu bylinky nájdete v tinktúre [Ginkgo](/tinktury-jednobylinkove/ginkgo) a
-elixíroch [Venavit](/elixiry/venavit-elixir),
-[Respiran](/elixiry/respiran-elixir) a [Cardolen](/elixiry/cardolen-elixir),
-produktoch [Forever Ginkgo Plus](/sip/p/forever-ginkgo-plus/),
-[Protect 4Life](/sip/p/protect-4life/) a [MegaProtect
-4Life](/sip/p/megaprotect-4life/).
+Aplikáciu bylinky nájdete v tinktúre [Ginkgo](/tinktury/ginkgo) a
+elixíroch [Venavit](/elixiry/venavit),
+[Respiran](/elixiry/respiran) a [Cardolen](/elixiry/cardolen),
+produktoch [Forever Ginkgo Plus](/sip/#p/forever-ginkgo-plus),
+[Protect 4Life](/sip/#p/protect-4life) a [MegaProtect
+4Life](/sip/#p/megaprotect-4life).
 

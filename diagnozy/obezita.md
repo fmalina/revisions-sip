@@ -66,8 +66,8 @@ zásady racionálnej životosprávy, telesná a duševná aktivita.
 Balíček odporučených prípravkov proti obezite
 ---------------------------------------------
 
-* [Lipkavec](/sip/tinktury-jednobylinkove/lipkavec) (Svízel)
-* [Alchemilka](/sip/p/alchemilka/) (Kontryhel)
+* [Lipkavec](/sip/tinktury/lipkavec) (Svízel)
+* [Alchemilka](/sip/#p/alchemilka) (Kontryhel)
 * [Hannasaki](/sip/caje/hannasaki) čajovina
 * [Psyllium](/sip/caje/psyllium) vláknina
-* [Rooibos](/sip/p/rooibos/) čaj
+* [Rooibos](/sip/#p/rooibos) čaj

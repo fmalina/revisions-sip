@@ -1,7 +1,7 @@
 Srdcovník obyčajný
 ==================
 
-**Skratka**: [Elixír Hypnosan](/p/hypnosan/) obsahuje Srdcovník pre upokojenie
+**Skratka**: [Elixír Hypnosan](/#p/hypnosan) obsahuje Srdcovník pre upokojenie
 tela a dobrý spánok.
 
 #### Buřina srdečník, Lenurus cardiaca L., Leví chvost (srdečník)
@@ -39,6 +39,6 @@ krvi“, preto by ho nemali brať ľudia užívajúci látky brániace zrážanl
 (aspirín a iné) a ľudia s poruchami zrážanlivosti krvi. U citlivých osôb môže
 vyvolať alergické reakcie.
 
-Aplikáciu Srdcovníka nájdete v elixíre [Hypnosan](/p/hypnosan/) pre upokojenie
+Aplikáciu Srdcovníka nájdete v elixíre [Hypnosan](/#p/hypnosan) pre upokojenie
 tela a dobrý spánok.
 

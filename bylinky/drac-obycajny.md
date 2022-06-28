@@ -50,5 +50,4 @@ objavili akékoľvek nežiaduce účinky, ako nevoľnosť, vracanie alebo hnačk
 potrebné dávkovanie znížiť alebo liečbu úplne ukončiť.
 
 Aplikáciu bylinky nájdete v prípravku proti parazitom
-[ParaProteX](/sip/p/paraprotex/).
-
+[ParaProteX](/sip/produkty-CVI/paraprotex).

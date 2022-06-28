@@ -19,8 +19,8 @@ Balíček odporučených prípravkov proti rozvoju SM
 ------------------------------------------------
 
 * [Ľadvinový](/sip/caje/ladviny) čaj
-* [Hloh](/sip/p/hloh/) (Hloh) tinktúra
-* [Imelo](/sip/p/imelo/) (Jmelí) tinktúra
-* [Schizandra](/sip/p/schizandra/) (Klanopraška) tinktúra
+* [Hloh](/sip/#p/hloh) (Hloh) tinktúra
+* [Imelo](/sip/#p/imelo) (Jmelí) tinktúra
+* [Schizandra](/sip/#p/schizandra) (Klanopraška) tinktúra
 * [Pečeňový](/sip/caje/pecenovy-u-caj) - U čaj
 * [Pestrec mariánsky](/sip/caje/pestrec) mletý (*aplikovať s Glukopur v pomere 4:1 1PL; nevariť!)*

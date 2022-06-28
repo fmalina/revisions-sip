@@ -14,7 +14,7 @@ silné, že sa mnohokrát vyliečia všetky trápenia pri ochorení prostaty.
 *Zaujímavosť*: Dva druhy vrboviek sa vôbec nesmú zbierať - mimochodom ich
 nemožno ani zameniť s malokvetými druhmi. Sú to Vrbovka chlpatá (Epilobium
 hirsutum) a Vrbovka úzkolistá (Chamerion augustifolium).  Aplikáciu bylinky
-nájdete na stránke tinktúry [Vrbovka](/tinktury-jednobylinkove/vrbovka), na
-stránke elixírov [Prostaten](/elixiry/prostaten-elixir) a
-[Nefronen](/elixiry/nefronen-elixir).
+nájdete na stránke tinktúry [Vrbovka](/tinktury/vrbovka), na
+stránke elixírov [Prostaten](/elixiry/prostaten) a
+[Nefronen](/elixiry/nefronen).
 

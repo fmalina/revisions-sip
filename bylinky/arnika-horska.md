@@ -22,5 +22,5 @@ Arnika horská je odporučená len na vonkajšie použitie. Vnútorné použitie
 pri nesprávnom dávkovaní môže vyvolať bolesti brucha a hlavy a poruchy krvného
 obehu.
 
-Aplikáciu bylinky nájdete v tinktúre [Arnika](/tinktury-jednobylinkove/arnika).
+Aplikáciu bylinky nájdete v tinktúre [Arnika](/tinktury/arnika).
 

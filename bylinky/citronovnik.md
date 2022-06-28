@@ -29,6 +29,5 @@ elektródy do citróna - použitie ako batéria. Energia je schopná poháňať 
 elektrický motor. Treba podotknúť, že tieto experimenty tiež fungujú aj s inými
 druhmi ovocia a zeleniny.
 
-Aplikácia silice z citróna je v produkte [Telová
-sviečka](/sip/p/telove-sviecky/).
-
+Aplikácia silice z citróna je v produkte
+[Telová sviečka](/sip/sviecky/telove-sviecky).

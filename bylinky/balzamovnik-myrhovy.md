@@ -43,5 +43,4 @@ vhodná ani pre deti mladšie ako 2 roky, pretože deti v tomto veku nevedia
 kloktať a vypľuť tekutinu (zvyčajne ju prehltnú).
 
 Aplikácia živice je v protiparazitickom produkte
-[ParaProteX](/sip/p/paraprotex/).
-
+[ParaProteX](/sip/produkty-CVI/paraprotex).

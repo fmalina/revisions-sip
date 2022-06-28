@@ -4,7 +4,7 @@ Liečenie Dornovou metódou
 #### Dorn Dieter; Flemming Gerda
 
 Kniha s podnadpisom Praktická kniha jemnej terapie chrbtice a kĺbov nadväzuje na
-knihu [Dornová metóda](/sip/knihy/dornova-metoda/), jemná cesta
+knihu [Dornová metóda](/sip/knihy/dornova-metoda), jemná cesta
 ku stredu od autora Gamala Raslana (2004). V tejto knihe je prvý raz podrobne
 vysvetlená teória a najmä prax jemnej terapie - Dornovej metódy. Krok za krokom
 autori ukazujú, ako je možné jemne ošetriť chrbticu a aj jednotlivé stavce a čo

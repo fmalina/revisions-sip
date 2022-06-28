@@ -31,5 +31,5 @@ na nervozitu a nespavosť dospelým, adolescentom a aj deťom. Okrem toho uvoľ�
 búšenie srdca.
 
 Aplikáciu bylinky nájdete na stránke elixíru [Hypnosan](/elixiry/hypnosan) a
-tinktúry [Valeriána](http://staticfile.net/product/valeriana/).
+tinktúry [Valeriána](http://staticfile.net/product/valeriana).
 

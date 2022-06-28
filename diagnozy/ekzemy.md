@@ -3,8 +3,8 @@ Ekzémy
 
 
 > ### Nepríjemnosť spojená s precitlivenosťou pokožky...
-> 
-> 
+>
+>
 
 **Ekzém** je najčastejšou kožnou chorobou z precitlivenosti. Chorobné zmeny
 nastávajú spravidla tam, kde sa **koža** dostáva do styku s látkou, na ktorú je
@@ -45,9 +45,9 @@ reagenciou.
 Balíček odporučených prípravkov proti ekzému
 --------------------------------------------
 
-* [Čistiaca](/sip/tinktury/cistiaca-zmes/) zmes tinktúra
-* [Ľubovník](/sip/tinktury-jednobylinkove/lubovnik/)  (Třezalka) tinktúra
-* [Dermasan](/sip/elixiry/dermasan-elixir/) elixír
-* [Ľadvinový](/sip/caje/ladviny-%E2%80%93-bylinna-cajova-zmes/) čaj
-* [Psyllium](/sip/caje/psyllium-%E2%80%93-bylinna-cajova-zmes/) vláknina
+* [Čistiaca](/sip/tinktury/zmes-cistiaca) zmes tinktúra
+* [Ľubovník](/sip/tinktury/lubovnik)  (Třezalka) tinktúra
+* [Dermasan](/sip/elixiry/dermasan) elixír
+* [Ľadvinový](/sip/caje/ladviny) čaj
+* [Psyllium](/sip/caje/psyllium) vláknina
 * Olivový olej panenský 1PL - v obchodnej sieti

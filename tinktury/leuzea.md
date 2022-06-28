@@ -8,7 +8,7 @@ Tinktúra **Leuzea** pôsobí tonizujúco a má povzbudzujúce účinky podobné
 Pôsobí antidepresívne, proti nervovému podráždeniu a proti bolesti hlavy. Mierne
 zvyšuje krvný tlak.
 
-[Viac informácií](/sip/bylinky/leuzea-sustiva/) o bylinke…
+[Viac informácií](/sip/bylinky/leuzea-sustiva) o bylinke…
 
 Upozornenie: *Výrobok nie je určený pre deti do 3 rokov. Dávkovanie pre
 dospelých 3 x 15 kvapiek za deň; pre deti od troch rokov 3 x 5 kvapiek za deň

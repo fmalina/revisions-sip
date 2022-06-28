@@ -42,5 +42,5 @@ renesancii (13. storočie až do pol. 16. storočia) symbolizoval večnú lásku
 bola *myrta* spojená s Pannou Máriou.
 
 Aplikácia bylinky je v tintúre [Priedušková
-zmes](/sip/p/prieduskova-zmes/).
+zmes](/sip/#p/prieduskova-zmes).
 

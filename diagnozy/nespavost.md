@@ -31,6 +31,6 @@ Balíček odporučených prípravkov proti nespavosti
 ------------------------------------------------
 
 * [Hypnosan](/sip/elixiry/hypnosan) elixír
-* [Valeriána](/sip/tinktury-jednobylinkove/valeriana) (Kozlík)
-* [Ukľudňujúca zmes](/sip/p/ukludnujuca-zmes/) (Uklidňujíci směs)
+* [Valeriána](/sip/tinktury/valeriana) (Kozlík)
+* [Ukľudňujúca zmes](/sip/#p/ukludnujuca-zmes) (Uklidňujíci směs)
 * [Pozdrav zo Křtin](/sip/caje/pozdrav-z-krtin) čaj

@@ -8,9 +8,9 @@ dielne Gizely Halászovej (Slovenská republika) je látka z ľanu, nasiaknutá
 
 Ušné sviečky dodávame s obsahom silice (záleží na Vašom výbere):
 
-* ***[eukalyptová](/sip/p/eukalyptus/)*** silica (osviežuje),
-* ***[jedľová](/sip/p/jedla/)*** silica (dezinfikuje),
-* ***[medovková](/sip/p/medovka-lekarska/)*** silica (ukludňuje).
+* ***[eukalyptová](/sip/#p/eukalyptus)*** silica (osviežuje),
+* ***[jedľová](/sip/#p/jedla)*** silica (dezinfikuje),
+* ***[medovková](/sip/#p/medovka-lekarska)*** silica (ukludňuje).
 
 Ako všetky produkty v našej ponuke, aj sviečky sú certifikované v zmysle
 slovenskej legislatívy.

@@ -63,8 +63,8 @@ spojivky a sliznice genitálií. Choroba trvá 10 - 14 dní a prognóza je dobr�
 Balíček odporučených prípravkov proti aftám
 -------------------------------------------
 
-* [Echinacea](/sip/tinktury-jednobylinkove/echinacea/) (Třapatka)
-* [Kapucínka](/sip/tinktury-jednobylinkove/kapucinka/) (Lichořeřišnice)
-* [Šalvia](/sip/p/salvia/) (Šalvěj)
+* [Echinacea](/sip/tinktury/echinacea) (Třapatka)
+* [Kapucínka](/sip/tinktury/kapucinka) (Lichořeřišnice)
+* [Šalvia](/sip/#p/salvia) (Šalvěj)
 * [Rooibos](/sip/caje/rooibos) čaj
 * [Psyllium](/sip/caje/psyllium) čaj

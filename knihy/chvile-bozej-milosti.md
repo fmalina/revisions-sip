@@ -4,7 +4,7 @@ Chvíle Božej milosti
 #### Walsh Neale Donald
 
 Autor svojím súborom kníh “*[Hovory s
-Bohem](/sip/knihy-mudrost-pre-vas/hovory-s-bohem-2/)*“,
+Bohem](/sip/knihy-mudrost-pre-vas/hovory-s-bohem-2)*“,
 ”*[Hovory s Bohem pro mladé](/sip/knihy/hovory-s-bohem)*“,
 “*Přátelství s Bohem*” a “*Přijímaní Boha*” vytvoril bestsellery, ktoré boli
 preložené do dvadsiatich siedmych jazykov a predané sú už milióny. Autor žije v

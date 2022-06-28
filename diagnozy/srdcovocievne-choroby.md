@@ -35,8 +35,8 @@ Balíček odporučených prípravkov na prevenciu proti srdcovo – cievnym chor
 -----------------------------------------------------------------------------
 
 * [Cardolen](/sip/caje/pestrec) elixír
-* [Srdcovník](/sip/tinktury-jednobylinkove/srdcovnik) tinktúra
-* [Hloh](/sip/tinktury-jednobylinkove/hloh) tinktúra
+* [Srdcovník](/sip/tinktury/srdcovnik) tinktúra
+* [Hloh](/sip/tinktury/hloh) tinktúra
 * [Ľadvinový](/sip/caje/ladviny) čaj
 * [Psyllium](/sip/caje/psyllium) vláknina
-* [BCAA Liquid](/sip/cvi/bcaa-l-carnitin)
+* [BCAA Liquid](/sip/produkty-CVI/bcaa-l-carnitin)

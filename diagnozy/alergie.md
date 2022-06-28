@@ -101,8 +101,8 @@ minimalzovať toxické metabolity, udržiavať vhodné bakteriálne prostredie v
 Balíček odporučených prípravkov na alergie
 ------------------------------------------
 
-* [Alersan](/sip/elixiry/alersan-elixir) elixír
-* [Disbiosan](/sip/elixiry/disbiosan-elixir) elixír
-* [Ľubovník](/sip/p/lubovnik/) (Třezalka)
+* [Alersan](/sip/elixiry/alersan) elixír
+* [Disbiosan](/sip/elixiry/disbiosan) elixír
+* [Ľubovník](/sip/#p/lubovnik) (Třezalka)
 * [Ľadvinový](/sip/caje/ladviny) čaj
 * [Psyllium](/sip/caje/psyllium) vláknina

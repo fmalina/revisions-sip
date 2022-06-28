@@ -24,5 +24,5 @@ zlepšenia spánku, posilňovanie a normalizácia sexuálnych orgánov, odstraň
 migrén a miernenie bolesti.
 
 Aplikáciu bylinky nájdete na stránke čaju [Lapacho](/sip/caje/lapacho) a v produkte
-[Ocean 21](/sip/p/ocean-21/).
+[Ocean 21](/sip/#p/ocean-21).
 

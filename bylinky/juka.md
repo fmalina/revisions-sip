@@ -61,7 +61,7 @@ drevín, takže je vhodný na zakladanie ohniska.
 *Upozornenie*: Pri aplikácii Juka je nutný dôsledný pitný režim!
 
 Aplikácia rastlinky je v produkte [Pure
-Yucca](/sip/p/pure-yucca/).
+Yucca](/sip/#p/pure-yucca).
 
 ### Photo (c) Texas A&M, University Kingsville
 

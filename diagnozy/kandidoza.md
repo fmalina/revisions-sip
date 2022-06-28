@@ -23,9 +23,9 @@ Balíček odporučených prípravkov proti kandidóze
 -----------------------------------------------
 
 * [Sayonara](/sip/caje/sayonara) čajovina
-* [Rooibos](/sip/p/rooibos/) čaj
+* [Rooibos](/sip/#p/rooibos) čaj
 * [Psyllium](/sip/caje/psyllium) vláknina
-* [Echinacea](/sip/tinktury-jednobylinkove/echinacea) (Echinacea) tinktúra
-* [Kapucínka](/sip/tinktury-jednobylinkove/kapucinka) (Lichořeřišnice) tinktúra
-* [Túžobník](/sip/tinktury-jednobylinkove/tuzobnik) (Tužebník) tinktúra
+* [Echinacea](/sip/tinktury/echinacea) (Echinacea) tinktúra
+* [Kapucínka](/sip/tinktury/kapucinka) (Lichořeřišnice) tinktúra
+* [Túžobník](/sip/tinktury/tuzobnik) (Tužebník) tinktúra
 * Olivový panenský olej, lisovaný za studena, 1 PL *(obchodná sieť)*

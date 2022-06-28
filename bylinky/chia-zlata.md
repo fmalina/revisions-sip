@@ -31,11 +31,10 @@ konzumované a sú známe najmä v Mexiku ako *Chia fresca*. Namočené semená 
 zrôsolovatenej konzistencii sú používané v *gruels*, kaši a pudingoch. *Chia*
 plody sa používajú v pečive, chlebe, koláčoch a sušienkach. *Chia* výhonky sa
 používajú podobným spôsobom ako
-[lucerna](/sip/p/lucerna-siata/), v šalátoch, na sendviče a iné
+[lucerna](/sip/bylinky/lucerna-siata), v šalátoch, na sendviče a iné
 jedlá.
 
 Zaujímavosť: *Chia* - slovo je odvodené z aztéckeho slova *Chiana*, význam
 mastný.
 
-Aplikácia bylinky je v produkte [Gin - Chia](/sip/p/gin-chia/).
-
+Aplikácia bylinky je v produkte [Gin - Chia](/sip/produkty-FLP/gin-chia).
