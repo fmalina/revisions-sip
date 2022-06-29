@@ -8,7 +8,7 @@ má **priaznivý vplyv** na zaspávanie a kvalitný spánok.
 Obsahuje:
 
 * [medovka lekárska](../bylinky/medovka-lekarska)
-* [chmeľ točivý](../bylinky/chmel-obycajny)
+* [chmeľ točivý](../bylinky/chmel-tocivy)
 * [prvosienka jarná](../bylinky/prvosienka-jarna)
 * [levanduľa lekárska](../bylinky/levandula-lekarska)
 * [múčenka](../bylinky/mucenka)

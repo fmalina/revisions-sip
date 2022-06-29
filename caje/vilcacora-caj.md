@@ -11,7 +11,7 @@ kôra dosahuje požadovanú kvalitu. Práve v kôre a aj v koreni je najviac
 liečivých látok.
 
 Preukázateľné účinky sú pri zápalových ochoreniach, opare,
-[astme](../diagnozy/asthma), žalúdočných vredoch, nádorových ochoreniach, znižuje
+[astme](../diagnozy/astma), žalúdočných vredoch, nádorových ochoreniach, znižuje
 riziko mozgovej príhody, infarkt myokardu (IM) a znižovania krvného tlaku. **Je
 vynikajúci preventor**. Rastlina je známa aj pod názvom „mačací pazúr“.
 
@@ -26,4 +26,3 @@ cudzím látkam v organizme, preto je nevyhnutné pred užívaním **poradiť sa
 lekárom** (transplantáty (pred aj po), transfúzie, tehotenstvo, chemoterapia,
 rádioterapia, DM I, pri aplikácii hormonálnych liekov, pri alergických
 rakciách).
-

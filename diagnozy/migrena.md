@@ -3,8 +3,8 @@ Migréna
 
 
 > ### Nepríjemnosť vyrušujúca pri akejkoľvek činnosti...
-> 
-> 
+>
+>
 
 **Bolesť hlavy** je väčšinou mierna a neškodná. Obvykle sa jej zbavíme
 odpočinkom alebo použitím voľne dostupného predajného prostriedku. Niekedy však
@@ -43,6 +43,6 @@ Objednajte si balíček prípravkov proti migréne
 * [Migresan](../elixiry/migresan) elixír
 * [Rimbaba](../tinktury/rimbaba) (Řimbaba)
 * [Valeriána](../tinktury/valeriana) (Kozlík)
-* [Pozdrav zo Křtin](../caje/pozdrav-z-krtin) čaj
+* [Pozdrav zo Křtin](../caje/pozdrav-ze-krtin) čaj
 * [Hannasaki](../caje/hannasaki) (Hannasaki) čaj
 * Olivový panenský olej; lisovaný za studena; 1 PL *(v obchodnej sieti)*

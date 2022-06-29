@@ -3,8 +3,8 @@ Mozog
 
 
 > ### Nepríjemnosť nastane až vtedy, keď je spravidla neskoro…
-> 
-> 
+>
+>
 
 V mozgu sa nachádza viac ako 25 miliárd nervových buniek – neurónov a sú
 pospájané miliónmi nervových vlákien. Výmena informácií sa uskutočňuje pomocou
@@ -26,5 +26,5 @@ Balíček odporučených prípravkov na udržanie mozgu v kondícii
 ------------------------------------------------------------
 
 * [Hypnosan](../elixiry/hypnosan) elixír
-* [Pozdrav zo Křtin](../caje/pozdrav-z-krtin) čaj
+* [Pozdrav ze Křtin](../caje/pozdrav-ze-krtin) čaj
 * [Rooibos](../caje/rooibos) čaj

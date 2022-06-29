@@ -13,7 +13,7 @@ Obsahuje bylinky:
 * [srdcovník obyčajný](../bylinky/srdcovnik-obycajny),
 * [ľubovník bodkovaný](../bylinky/lubovnik-bodkovany),
 * [hluchavka biela](../bylinky/hluchavka-biela)
-* [chmeľ obyčajný](../bylinky/chmel-obycajny).
+* [chmeľ obyčajný](../bylinky/chmel-tocivy).
 
 *Upozornenie: Výrobok nie je vhodný pre deti. Dávkovanie maximálne 3 x 15
 kvapiek za deň; riediť v nemineralizovanej vode 20 ml na jednu dávku. Potom sa

@@ -11,6 +11,6 @@ Obsahuje:
 * vňať [dúšky tymianovej](../bylinky/duska-tymianova)
 * plod [bedrovníka anízového](../bylinky/bedrovnik-anizovy)
 * plod [feniklu obyčajného](../bylinky/fenikel-obycajny),
-* koreň [sladkovky hladkoplodej](../bylinky/sladovka-hladkoploda) (sladké drievko),
+* koreň [sladkovky hladkoplodej](../bylinky/sladkovka-hladkoploda) (sladké drievko),
 * vňať [šalvie lekárskej](../bylinky/salvia-lekarska)
 * list [skorocelu indického](../bylinky/skorocel-indicky)

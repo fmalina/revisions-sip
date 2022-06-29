@@ -1,10 +1,7 @@
 Epilepsia
 =========
 
-
 > ### Nepríjemnosť spojená s chorobnými záchvatmi kŕčov a bezvedomím…
-> 
-> 
 
 **Epilepsia** – *epileptický záchvat* – je syndróm, ktorým mozog odpovedá na
 najrozličnejšie chorobné procesy (stavy po úraze mozgu, zmeny látkovej premeny,
@@ -24,6 +21,6 @@ Balíček odporučených prípravkov proti epilepsii
 * [Ginkgo](../tinktury/ginkgo) biloba tinktúra
 * [Žilná zmes](../tinktury/ginkgo) tinktúra
 * [Valeriána](../tinktury/valeriana) lekárska (Kozlík) tinktúra
-* [Pozdrav z Křtin](../caje/pozdrav-z-krtin) čaj
+* [Pozdrav ze Křtin](../caje/pozdrav-ze-krtin) čaj
 * [Hepatik](../caje/hepatik) čaj
 * [Pestrec mariánsky](../caje/pestrec) (Ostropestřec) s Glukopur 4:1 PL v obchodnej sieti - nevariť!

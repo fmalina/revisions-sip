@@ -30,5 +30,5 @@ Balíček odporučených prípravkov proti depresii
 * [Tonizačná zmes](../tinktury/zmes-tonizacna)
 * [Všehojovec](../tinktury/vsehojovec) (Eleuterokok)
 * [MU](../caje/mu) čaj; aplikovať maximálne dve balenia
-* [Pozdrav z Křtin](../caje/pozdrav-z-krtin) čaj
+* [Pozdrav ze Křtin](../caje/pozdrav-ze-krtin) čaj
 * [Valeriána](../tinktury/valeriana) (Kozlík); *pred spaním*

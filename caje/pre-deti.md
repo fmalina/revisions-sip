@@ -14,4 +14,4 @@ Obsahuje:
 * plod [feniklu obyčajného](../bylinky/fenikel-obycajny)
 * plod [bedrovníka anízového](../bylinky/bedrovnik-anizovy)
 * koreň [ibiša lekárskeho](../bylinky/ibis-lekarsky)
-* [chmeľové šišky](../bylinky/chmel-obycajny)
+* [chmeľové šišky](../bylinky/chmel-tocivy)

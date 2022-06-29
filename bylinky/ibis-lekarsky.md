@@ -9,7 +9,7 @@ Európy, západnej Ázie a severnej Afriky. Hojne sa pestuje vo Francúzsku, v
 Belgicku a Nemecku. U nás rastie v teplých oblastiach na vlhkých a slaných
 pôdach, najmä na južnom Slovensku.
 
-*Kvitne*: 0d júla do septembra.
+*Kvitne*: Od júla do septembra.
 
 *Zber*: Zbierame koreň, listy, prípadne aj kvety a vňať pestovaných rastlín.
 Listy zbierame postupne, teda viac krát, keď rastlina kvitne, okrem roku, keď
@@ -25,8 +25,6 @@ Kvety, listy aj korene sa používajú vonkajškovo na popraskanú kožu, odreni
 zápal hrubého čreva a bežný kašeľ. Koreň pôsobí ako účinné preháňadlo a matky ho
 dávali obhrýzyť deťom, aby sa im prerezali zúbky.
 
-*Upozornenie*: Podzemné časti divokorastúcich rastlín je zakázané vykopávať - sú
-chránené!
+*Upozornenie*: Podzemné časti divokorastúcich rastlín je zakázané vykopávať - sú chránené!
 
 Aplikáciu bylinky nájdete na stránke čaje v [Bronchiol](../caje/bronchiol).
-

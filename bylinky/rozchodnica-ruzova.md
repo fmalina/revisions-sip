@@ -42,6 +42,5 @@ plantáže a boli vyškolení pestovatelia.
 
 Aplikáciu bylinky nájdete na stránke tinktúry
 [Rozchodnica](../tinktury/rozchodnica), na stránke elixíru
-[Vitalit](../elixiry/vitalit-eleixir) a prípravku zdravej výživy
-[Rhodiolin](../zdravie/rhodiolin-120-ks-60-ks).
-
+[Vitalit](../elixiry/vitalit) a prípravku zdravej výživy
+[Rhodiolin](../procvi/rhodiolin).

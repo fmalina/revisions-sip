@@ -17,4 +17,4 @@ Balíček odporučených prípravkov proti impotencii
 * [Vŕbovka](../tinktury/vrbovka) (Vrbovka)
 * [Leuzea](../tinktury/leuzea) (Maralan; maralanový koreň)
 * [Čaj pre pánov](../caje/pre-panov)
-* [Pozdrav zo Křtin](../caje/pozdrav-z-krtin) čaj
+* [Pozdrav ze Křtin](../caje/pozdrav-ze-krtin) čaj

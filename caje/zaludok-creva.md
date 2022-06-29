@@ -11,6 +11,6 @@ Obsahuje:
 * vňať [mäty piepornej](../bylinky/mata-pieporna)
 * vňať [medovky lekárskej](../bylinky/medovka-lekarska)
 * vňať [rumančeka kamilkového](../bylinky/rumancek-kamilkovy)
-* list [slezu lesného](../bylinky/smil-lesny)
+* list [slezu lesného](../bylinky/slez-lesny)
 * kôru [škoricovníka cejlónskeho](../bylinky/skoricovnik-cejlonsky)
-* koreň [sladkovky hladkoplodej](../bylinky/sladovka-hladkoploda).
+* koreň [sladkovky hladkoplodej](../bylinky/sladkovka-hladkoploda).

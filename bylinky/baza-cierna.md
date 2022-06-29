@@ -28,6 +28,5 @@ majú mierne preháňavý účinok.
 svedčí o tom, že už v praveku slúžila ako potrava.
 
 Aplikáciu bylinky nájdete v elixíre [Cardolen](../elixiry/cardolen) a
-čajoch [Chrípka](../caje/chripka), [Pre deti](../caje/pre-deti) a [Veverský
+čajoch [Chrípka](../caje/chripka-caj), [Pre deti](../caje/pre-deti) a [Veverský
 čaj](../caje/veversky).
-

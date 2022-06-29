@@ -16,7 +16,7 @@ Obsahuje bylinky:
 * [pamajorán obyčajný](../bylinky/pamajoran-obycajny),
 * [nechtík lekársky](../bylinky/nechtik-lekarsky),
 * [slivka trnková](../bylinky/slivka-trnkova),
-* [chmeľ obyčajný](../bylinky/chmel-obycajny).
+* [chmeľ obyčajný](../bylinky/chmel-tocivy).
 
 Upozornenie: *Výrobok nie je určený pre deti. Dávkovanie pre dospelých 3 x 15
 kvapiek za deň; riediť v nemineralizovanej vode 20 ml na jednu dávku. Potom sa
@@ -24,4 +24,3 @@ podrží v ústach a po 20 s až 30 s sa prehltne. Pitný režim pokračuje asi 
 hodine.*
 
 *Obsah: 50 ml macerátu*
-

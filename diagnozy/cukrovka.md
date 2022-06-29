@@ -3,8 +3,8 @@ Cukrovka
 
 
 > ### Nepríjemnosť spojená s prvotnou poruchou metabolizmu cukrov z nedostatku inzulínu…
-> 
-> 
+>
+>
 
 **Cukrovka** – *Diabetes mellitus* – DM je choroba látkovej premeny s prvotnou
 poruchou metabolizmu cukrov. DM je masová choroba (na svete je viac ako 30
@@ -51,7 +51,7 @@ Balíček odporučených prípravkov proti cukrovke
 
 * [Schizandra](../tinktury/schizandra) (Klanopraška)
 * [Diasan](../elixiry/diasan) elixír
-* [Pozdrav z Křtin](../caje/pozdrav-z-krtin) čaj
+* [Pozdrav z Křtin](../caje/pozdrav-ze-krtin) čaj
 * [Psyllium](../caje/psyllium) čaj
 * [Hannasaki](../caje/hannasaki) čaj
 * Olivový olej (panenský) 1PL - v obchodnej sieti; lisovaný za studena

@@ -1,10 +1,7 @@
 Nespavosť
 =========
 
-
 > ### Nepríjemnosť spojená s „počítaním ovečiek“…
-> 
-> 
 
 **Nespavosť** (insomnia) môže byť rôzneho charakteru podľa toho, či je porušená
 dĺžka spánku, jeho intezita, rytmus striedania spánku a bdelosti či je porušené
@@ -33,4 +30,4 @@ Balíček odporučených prípravkov proti nespavosti
 * [Hypnosan](../elixiry/hypnosan) elixír
 * [Valeriána](../tinktury/valeriana) (Kozlík)
 * [Ukľudňujúca zmes](../tinktury/zmes-ukludnujuca) (Uklidňujíci směs)
-* [Pozdrav zo Křtin](../caje/pozdrav-z-krtin) čaj
+* [Pozdrav ze Křtin](../caje/pozdrav-ze-krtin) čaj

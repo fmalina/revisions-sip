@@ -29,5 +29,4 @@ dojčiace matky pre obsah jedovatého thujonu. Neodporúča sa aplikovať ani u
 epileptikov, pretože pri užívaní vo vyšších dávkach vyvoláva kŕče podobné
 epileptickým.  Aplikáciu bylinky nájdete na stránke tinktúry
 [Šalvia](../tinktury/salvia), čajoviny [Nekašel](../caje/nekasel) a
-[Telové sviečky](../aplikacia-telovych-cakrovych-sviecok).  ###
-
+[Telové sviečky](../sviecky/telove-sviecky).  ###

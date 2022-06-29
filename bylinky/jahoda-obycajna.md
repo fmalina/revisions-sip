@@ -32,8 +32,7 @@ jahodách dostať žihľavku; tiež neodporúčame jesť pri ľadvinovej kolike.
 
 Aplikáciu bylinky nájdete na stránkeproduktu
 [Zenthonic](../procvi/zenthonic), čajov
-[Hepatik,](../caje/hepatik) [Pozdrav ze Křtin](../caje/pozdrav-z-krtin) a
+[Hepatik,](../caje/hepatik) [Pozdrav ze Křtin](../caje/pozdrav-ze-krtin) a
 [Siesta](../caje/siesta).
 
-### 
-
+###

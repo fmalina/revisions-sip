@@ -26,7 +26,7 @@ Zmes obsahuje:
 * [pomaranč](../bylinky/citronovnik-pomarancovy) (kôra),
 * [cyprus vždyzelený](../bylinky/cyprus-vzdyzeleny),
 * [škoricovník](../bylinky/skoricovnik-cejlonsky),
-* [broskyňa](../procvi/broskyna-obycajna) (jadro),
+* [broskyňa](../bylinky/broskyna-obycajna) (jadro),
 * [ďumbier lekársky](../bylinky/dumbier-lekarsky),
 * [pivonka lekárska](../bylinky/pivonka-lekarska) (koreň),
 * [ženšen pravý](../bylinky/zensen-pravy)
@@ -34,4 +34,3 @@ Zmes obsahuje:
 
 *Upozornenie*: Pri aplikácii tohto druhu čaju odporúčame maximálne ***dve
 balenia za sebou***.
-

@@ -10,7 +10,7 @@ Obsahuje:
 
 * vňať [medovky lekárskej](../bylinky/medovka-lekarska),
 * vňať [alchemilky žltozelenej](../bylinky/alchemilka-zltozelena)
-* vňať [nátržníka husieho](../bylinky/natrznik-husaci)
+* vňať [nátržníka husieho](../bylinky/natrznik-vzpriameny)
 * kvet [hluchavky bielej](../bylinky/hluchavka-biela)
 * kvet a vňať [vresu obyčajného](../bylinky/vres-obycajny)
 * list [rozmarína lekárskeho](../bylinky/rozmarin-lekarsky).

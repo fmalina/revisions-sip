@@ -13,7 +13,7 @@ Obsahuje bylinky:
 * [Medovku](../bylinky/pamajoran-obycajny)
 * [Srdcovník](../bylinky/srdcovnik-obycajny)
 * [Železník](../bylinky/srdcovnik-obycajny)
-* [Chmel](../bylinky/chmel-obycajny)
+* [Chmel](../bylinky/chmel-tocivy)
 * [Valeriána](../bylinky/valeriana-lekarska)
 * [Všehojovec](../bylinky/vsehojovec-stetinaty)
 

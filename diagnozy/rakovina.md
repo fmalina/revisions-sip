@@ -3,8 +3,8 @@ Rakovina
 
 
 > ### Pojem vyvolávajúci hrôzu v populácií…
-> 
-> 
+>
+>
 
 **Rakovina** – ochorenie spôsobené nádorom.
 
@@ -32,4 +32,4 @@ Balíček odporučených prípravkov proti rozvoju rakoviny
 * [Sayonara](../caje/sayonara) čajovina
 * [Psyllium](../caje/psyllium) vláknina
 * [Pečeňový](../caje/pecenovy-u-caj) - U čaj
-* [Vilcacora](../caje/vilcacora) čajovina
+* [Vilcacora](../caje/vilcacora-caj) čajovina
