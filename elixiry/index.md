@@ -30,10 +30,10 @@ každom výrobku; upozornenia sú citované z príslušného *rozhodnutia* Úrad
 verejného zdravotníctva Slovenskej republiky.
 
 *Odporúčanie*: Dúhové elixíry sa podávajú v poradí
-[Fungilen](duhovy-fungilen),
-[Detoxilen](duhovy-detoxilen),
-[Fruktavit](duhovy-fructavit) a
-[Imunex](duhovy-imunex). Pre ženy pred otehotnením je vhodná
+[Fungilen](/altmed/elixiry/duhovy-fungilen),
+[Detoxilen](/altmed/elixiry/duhovy-detoxilen),
+[Fruktavit](/altmed/elixiry/duhovy-fructavit) a
+[Imunex](/altmed/elixiry/duhovy-imunex). Pre ženy pred otehotnením je vhodná
 detoxikácia organizmu. Fungicídna diéta je následne vhodná v priebehu
 tehotenstva (pri výskyte napr. kvasiniek). Počas tehotenstva je rozumné užívať
 Fructavit alebo Imunex (odporučené dve fľašky aj súbežne, potom odporúčame

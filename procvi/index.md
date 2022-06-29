@@ -19,55 +19,55 @@ odskúšanú. Jedným zdrojom je medzinárodná sieť ***CaliVita International
 kategórie. Výber z celkovej ponuky je štruktúrovaný:
 
 * antioxidanty (
-  [Smokerade](smokerade);
-  [Sublingual](sublingual-coq10),
-  [Liquid Chlorophyll](liquid-chlorophyll),
-  [Protect 4Life](protect-4life),
-  [MegaProtect 4Life](megaprotect-4life))
+  [Smokerade](/altmed/procvi/smokerade);
+  [Sublingual](/altmed/procvi/sublingual-coq10),
+  [Liquid Chlorophyll](/altmed/procvi/liquid-chlorophyll),
+  [Protect 4Life](/altmed/procvi/protect-4life),
+  [MegaProtect 4Life](/altmed/procvi/megaprotect-4life))
 * multivitamíny - vitamíny podľa krvnej skupiny (
-  [Vital 0](vital-0);
-  [Vital A](vital-a);
-  [Vital B](vital-a);
-  [Vital AB](vital-ab))
+  [Vital 0](/altmed/procvi/vital-0);
+  [Vital A](/altmed/procvi/vital-a);
+  [Vital B](/altmed/procvi/vital-a);
+  [Vital AB](/altmed/procvi/vital-ab))
 * prípravky na podporu trávenia a úpravu hmotnosti (
-  [AC - Zymes](ac-zymes);
-  [Digestive Enzymes](digestive-enzymes);
-  [Meal Time](meal-time);
-  [Digest Ease](digest-ease);
-  [Slim Formula](slim-formula-90-ks);)
+  [AC - Zymes](/altmed/procvi/ac-zymes);
+  [Digestive Enzymes](/altmed/procvi/digestive-enzymes);
+  [Meal Time](/altmed/procvi/meal-time);
+  [Digest Ease](/altmed/procvi/digest-ease);
+  [Slim Formula](/altmed/procvi/slim-formula-90-ks);)
 * prípravky na ošetrenie pleti (
-  [Hand&Body Lotion](hand-body-lotion-objem-1000-ml);
-  [VeinCare](veincare-objem-75-ml))
+  [Hand&Body Lotion](/altmed/procvi/hand-body-lotion-objem-1000-ml);
+  [VeinCare](/altmed/procvi/veincare-objem-75-ml))
 * vitamíny (
-  [C 1000](c-1000),
-  [C Plus](c-plus),
-  [Lion Kids](lion-kids-d-90-ks),
-  [Stress Management B - Complex](stress-management-b-complex))
+  [C 1000](/altmed/procvi/c-1000),
+  [C Plus](/altmed/procvi/c-plus),
+  [Lion Kids](/altmed/procvi/lion-kids-d-90-ks),
+  [Stress Management B - Complex](/altmed/procvi/stress-management-b-complex))
 * prípravky z liečivých rastlín (
-  [Energy&Memory](energy-memory),
-  [Choleston](choleston-90-ks);
-  [ImmunAid](imunaid-180-ks);
-  [Nopalin](nopalin-200-ks);
-  [Ocean 21](ocean-21-objem-946-ml);
-  [ParaProtex](paraprotex-100-ks);
-  [Noni Liquid](polinesian-noni-liquid-objem-946-ml);
-  [VirAgo](virago-90-ks);
-  [VitalMan](vital-man-60-ks);
-  [VitalWoman](vital-woman-60-ks);
-  [ZenThonic](zenthonic-objem-946-ml))
+  [Energy&Memory](/altmed/procvi/energy-memory),
+  [Choleston](/altmed/procvi/choleston-90-ks);
+  [ImmunAid](/altmed/procvi/imunaid-180-ks);
+  [Nopalin](/altmed/procvi/nopalin-200-ks);
+  [Ocean 21](/altmed/procvi/ocean-21-objem-946-ml);
+  [ParaProtex](/altmed/procvi/paraprotex-100-ks);
+  [Noni Liquid](/altmed/procvi/polinesian-noni-liquid-objem-946-ml);
+  [VirAgo](/altmed/procvi/virago-90-ks);
+  [VitalMan](/altmed/procvi/vital-man-60-ks);
+  [VitalWoman](/altmed/procvi/vital-woman-60-ks);
+  [ZenThonic](/altmed/procvi/zenthonic-objem-946-ml))
 * ďalšie prírodné doplnky (
-  [LiverAid](liver-aid-with-silymarin),
-  [Natural HGH Support](natural-hgh-support),
-  [OxyMax](oxymax-objem-60-ml);
-  [Rhodiolin](rhodiolin-120-ks-60-ks);
-  [Pure Yucca](pure-yucca);
-  [Super Soya Lecithin](super-soya-lecithin);
-  [Strong Bones](strong-bones))
+  [LiverAid](/altmed/procvi/liver-aid-with-silymarin),
+  [Natural HGH Support](/altmed/procvi/natural-hgh-support),
+  [OxyMax](/altmed/procvi/oxymax-objem-60-ml);
+  [Rhodiolin](/altmed/procvi/rhodiolin-120-ks-60-ks);
+  [Pure Yucca](/altmed/procvi/pure-yucca);
+  [Super Soya Lecithin](/altmed/procvi/super-soya-lecithin);
+  [Strong Bones](/altmed/procvi/strong-bones))
 * prístroje a pomôcky od CaliVita Electronics (
-  [BioHarmonex](bioharmonex),
-  [Communiguard](harmonizer-elektromagnetickeho-smogu)).
+  [BioHarmonex](/altmed/procvi/bioharmonex),
+  [Communiguard](/altmed/procvi/harmonizer-elektromagnetickeho-smogu)).
 
-Druhým zdrojom je medzinárodná sieť *[Forever Living Products](../proflp)*.
+Druhým zdrojom je medzinárodná sieť *[Forever Living Products](/altmed/proflp)*.
 Jej prípravkové portfólio má spoločného menovateľa - známu rastlinku - Aloe vera.
 
 Naša spoločnosť nepreferuje v ponuke ani jednu sieť, pretože staviame na Vašom
