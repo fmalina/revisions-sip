@@ -38,6 +38,8 @@ priebehu 10 minút dosiahneme teplotu 37ºC až 44ºC, ktorý sa udrží v tomto
 teplotnom rozpätí ďalších 10 minút. Po aplikácii obkladu sa odporúča postihnuté
 miesto ošetriť jojobovým olejom, ktorý pokožke dodáva jemnosť a vláčnosť.
 
+*Zloženie*: Bavlnená látka a čistý včelí vosk.
+
 Štartovací balík obsahuje:
 
 * *2 ks AURMED voskový obklad (20 cm x 30 cm)*
@@ -45,7 +47,11 @@ miesto ošetriť jojobovým olejom, ktorý pokožke dodáva jemnosť a vláčnos
 * *1 ks šatka (24 cm x 32 cm)*
 * *1 ks silica (10 ml)*
 
-*Odporučenie:* Voskové obklady
-([veľké](../sviecky/voskovy-obklad-velky) aj
-[malé](../sviecky/voskovy-obklad-maly)) a silice si môžete
-doobjednať.
+Dokúpiť sa dajú voskové obklady veľké aj malé a silice.
+
+**Voskový obklad malý** - 12cm x 30cm
+**Voskový obklad veľký** - 20cm x 30cm na opakované použitie ("*náhradný
+dielec*" ku kompletu.
+Je to vlastne obklad z bavlneného materiálu nasiaknutý včelím voskom.
+
+

@@ -34,9 +34,7 @@ Tip:   - zoberte si zo sebou dobrú náladu, nápoje a karimatku
 *Poznámka:   Vyššie uvedená ponuka je výsledkom dotazov záujemcov o túto oblasť
 a dnes už majiteľov tričiek s tématikou anjelov.*
 
-Liečivé a ochranné obrazce
-==========================
-…presnejšie liečivé a ochranné obrazce…
+## Liečivé a ochranné obrazce
 
 *Spracované podľa podkladov Marie Kučerovej (Art – Mehrid,
 Prievidza), ktorej zasielajte Vaše objednávky na realizáciu.*
@@ -126,8 +124,7 @@ Vám, ktorí ste akceptovali obsah a formu obrazcov.
 > pomoci. Kto to presne vie …? To môže posúdiť len Najvyššia moc …“*
 
 
-Trip tašky
-==========
+## Trip tašky
 
 **Tip** odporučenie starostlivosti o tašku:
 
@@ -137,7 +134,7 @@ Trip tašky
 * žehliť z rubovej strany
 * tašku novú a po vypraní dajte nabiť do slnečných lúčov aspoň na pol hodiny.
 
-## Knieža Michael
+### Knieža Michael
 
 Knieža Michael priletel na zlatých perutiach v symbole levice a nesie meč
 Pravdy. Levica je symbolom obrovskej sily a dominancie zároveň. Ale pozor – nie
@@ -145,7 +142,7 @@ pre nedobrých, na nich má vycerené zuby a dokáže trestať bez milosti. Je t
 knieža spravodlivosti a bohatstva… Pre chudobných a čestných prináša z priestoru
 šťastie – staré odstráni a prinesie nové, lepšie.
 
-## Víla Aladiáška
+### Víla Aladiáška
 
 Nesie hravosť a dominanciu fialového lúča s ružovou a zlatou farbou. Symbolizuje
 ametystovú vibráciu a liečivú silu pre boľavé duše. V rytme pohybu a vône ruží
@@ -154,7 +151,7 @@ jemných duchovných tiel. Vibruje na frekvencii „óm mama Šiva húm“, to z
 že vylaďuje frekvenciu mozgových buniek a oživuje ich činnosť. Víla je uznávaná
 ako liečiteľka Reiky lúča…
 
-## Urielita s kľúčom
+### Urielita s kľúčom
 
 Urielita s kľúčom od brán škriatkov a víl. Spája tých ľudí, čo majú radi prírodu
 a ešte niečo viac (čo okom môže zbadať len zasvätené oko, alebo oko s darom
@@ -163,8 +160,7 @@ Je to kľúč ku Svätojánskym pokladom… Kto hľadá, nájde za pomoci kráľ
 škriatkov.
 
 
-Tričká
-======
+## Tričká
 
 **Tip** odporučenie starostlivosti o tričká:
 
@@ -180,7 +176,7 @@ detské veľkosti na požiadanie; trička len v bielej farbe.
 Tričko s obrazom ...
 
 
-## Tancujúca Víla Slnka
+### Tancujúca Víla Slnka
 
 Lieči a posilňuje rytmus srdca, pomáha srdcu nájsť svoju rovnováhu spojením s
 prírodou. Oživuje životnú silu a rozjasňuje myseľ „… vitaj dieťa do života nášho
@@ -189,7 +185,7 @@ zrejmá vyváženosť a harmonizácia farieb. Autorka Mehrid Angel vyberala farb
 veľmi starostlivo tak, aby funkcie tónov farieb vytvárala stupnicu spektra nad
 jemné tóny c – dur stupnice.
 
-## Anjel srdečného chrámu
+### Anjel srdečného chrámu
 
 Tomuto obrazu dominuje ružová farba – farba srdca, „… v tlkote srdca – srdiečka
 zlaté spievajú, láska, zdravie, šťastie, chrám nás samotných …“. Srdce vyrovnáva
@@ -198,7 +194,7 @@ srdci je energia univerzálnej lásky, ktorá podporí rovnováhu a harmóniu vo
 vzťahoch. Nositeľ tohto obrazca na tričku je zároveň spojený so zemou a oceňuje
 jeho otvorenosť ku jemnosti…
 
-## Anjel očisty Gabrielita
+### Anjel očisty Gabrielita
 
 Archanjel Gabrielita je anjelom všetkých vôd. Všetko, čo môže – vyplavuje. Tak
 ako Michael čistí sekaním plamenným mečom, tak Gabrielita všetko vyplavuje
@@ -207,7 +203,7 @@ v strese, nehodách, traumách a iných akútnych stavoch; upokojujúca vyživuj
 podporná energia prináša úľavu v mnohých stresových situáciách. Podklad obrazca
 je biely, oranžový aj purpurový.
 
-## Archanjel Michael
+### Archanjel Michael
 
 V tomto obraze na tričku sa spája revitalizujúca modrá (indigo) s oranžovou a s
 nosnou myšlienkou „… *vitaj bojovník novej doby*…“.
@@ -217,7 +213,7 @@ Oranžová farba je dynamická, osviežujúca a revitalizujúca, je to sila tzv.
 vnímanie a prozreteľnosť v tých éterických rovinách ľudskej bytosti, v ktorých
 je nutná pomoc; v spätnom chode vytvára náš ochranný štít.
 
-## Liečiteľ Rafael
+### Liečiteľ Rafael
 
 V tomto obraze na tričku dominuje zlato – oranžová farba so symbolom „… *vitaj
 zázračný liečiteľ, čo mi dary liečby prinášaš..*.“. Tento obraz treba nosiť tam,
@@ -225,7 +221,7 @@ kde sú vyčerpané ľudské bytosti v depresívnej nálade a hlbokom smútku. O
 zjasňuje myseľ, dodáva vitálnu energiu vám a aj okoliu. Osvedčuje sa v
 rozpadajúcich sa vzťahoch.
 
-## Láska Jednorožca
+### Láska Jednorožca
 
 Podklad trička je zelenkavá, fialová, modrá alebo lososová farba – sú to tak
 jemné farby, že hladia ľudskú dušu. Ten, kto pracuje s meditáciou a ľudskou
@@ -234,7 +230,7 @@ určite uvíta toto jemné, čisté a kúzelné stvorenie – Jednorožca. Kto h
 blízkosti seba vie, že sa mu rozjasní a otvorí duša dokorán. Jednorožec je
 kľúčom ku láske, ktorá splýva s večnosťou……
 
-## Harmónia
+### Harmónia
 
 V tomto obraze sa spája osem farieb dúhy, je to spektrum svetla. Harmónia je
 láskyplnosť na najvyššej vibračnej úrovni pohybu anjelov. Vyvažuje duševné,
