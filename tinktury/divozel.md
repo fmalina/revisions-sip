@@ -4,11 +4,11 @@ Divozel (Divizna)
 #### Divizna, Verbascum
 
 Tinktúra **Divozel** je odporučená ako podporný prostriedok proti
-[astme](../diagnozy/asthma), zápalu pľúc, chronickej
+[astme](../diagnozy/astma), zápalu pľúc, chronickej
 bronchitíde. Podporuje vykašliavanie, tlmí dráždivý kašeľ a kŕče priedušiek.
 Predmetom zberu liečivky je najčastejšie kvet, v homeopatií sa používa celá
 rastlinka. Lieči poruchy činnosti pečene a podžalúdkovej žľazy. Zvyšuje
-[imunitu](../diagnozy/imunita) organizmu pri liečbe infekčných
+[imunitu](../diagnozy/imunitne-problemy) organizmu pri liečbe infekčných
 chorôb a chorôb z prechladnutia.
 
 [Viac informácií](../bylinky/divozel-velkokvety) o bylinke…
@@ -19,4 +19,3 @@ riediť v nemineralizovanej vode 20 ml na jednu dávku. Potom sa podrží v úst
 po 20 s až 30 s sa prehltne. Pitný režim pokračuje asi po pol hodine.*
 
 *Obsah: 30 ml macerátu*
-

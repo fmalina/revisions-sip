@@ -8,7 +8,7 @@ ho za žijúcu fosíliu. Pôvodom je z Číny a vždy bol cenený pre svoje lie�
 účinky. Spracovávajú sa listy a plody, najčastejšie vo forme tinktúry. Tinktúra
 má antibiotické účinky. Používa sa pri
 [alergiách](../diagnozy/alergie), najmä
-[astme](../diagnozy/asthma). Priaznivo ovplyvňuje cievny
+[astme](../diagnozy/astma). Priaznivo ovplyvňuje cievny
 systém, rozširuje cievy a žily. Preventívne pôsobí proti infarktu a mozgovej
 príhode. Pôsobí antiskleroticky, zlepšuje pamäť a užíva sa pri pískaní a šumení
 v ušiach. Je vhodná pre každého a účinné je dlhodobé užívanie.
@@ -21,4 +21,3 @@ riediť v nemineralizovanej vode 30 ml na jednu dávku. Potom sa podrží v úst
 po 20 s až 30 s sa prehltne. Pitný režim pokračuje asi po pol hodine.*
 
 *Obsah: 30 ml macerátu*
-

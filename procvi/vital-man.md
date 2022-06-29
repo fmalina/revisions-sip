@@ -6,10 +6,10 @@ Matka príroda ponúka na tieto neduhy svoje liečivé rastliny. Sú bezpečné,
 prírodné, účinne znižujú následky stresov, umocňujú naše zdravie a radosť zo
 života. Niektoré z kvalitných rastlín v prípravku sú:
 
-* **[Všehojovec](../byliky/vsehojovec-stetinaty)** (nesprávne *sibírsky ženšen*), zlepšuje adaptabilitu organizmu muža na stres, pomáha pri výstavbe buniek jeho tela;
-* **[Catuaba](../byliky/catuaba)** má priaznivý vplyv na činnosť centrálneho nervového systému;
-* **[Damiana](../byliky/damiana)** je afrodiziakum, zlepšuje psychickú pohodu, pôsobí antidepresívne, močopudne a znižuje chronický pocit únavy.
-* **[Sarsaparilla](../byliky/smilax-lekarsky)** koreň z rastliny, má protizápalový, antiseptický a protihorúčkový účinok.
+* **[Všehojovec](../bylinky/vsehojovec-stetinaty)** (nesprávne *sibírsky ženšen*), zlepšuje adaptabilitu organizmu muža na stres, pomáha pri výstavbe buniek jeho tela;
+* **[Catuaba](../bylinky/catuaba)** má priaznivý vplyv na činnosť centrálneho nervového systému;
+* **[Damiana](../bylinky/damiana)** je afrodiziakum, zlepšuje psychickú pohodu, pôsobí antidepresívne, močopudne a znižuje chronický pocit únavy.
+* **[Sarsaparilla](../bylinky/smilax-lekarsky)** koreň z rastliny, má protizápalový, antiseptický a protihorúčkový účinok.
 
 Neutíchajúca vitalita…
 

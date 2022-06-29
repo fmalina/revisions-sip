@@ -11,10 +11,10 @@ protibakteriálnymi a protivírusovými účinnými látkami.
 
 Prípravok obsahuje:
 
-* list **[olivovníka](../byliky/olivovnik-europsky),** má dezinfekčné účinky;
-* **[echinacea](../byliky/echinacea-purpurea),** má stimulujúce protivírusové účinky;
-* **[Pau D´Arco](../byliky/lapacho-matto-grosso)** (Lapacho), stimuluje imunitu, je účinný proti baktériám, plesniam, parazitom, vírusom, má antioxidačné, bolesť tlmiace a protizápalové účinky;
-* [**Unkária**](../byliky/vilcacora)(Vilcacora) patrí k najúčinnejším “posilňovačom imunity”;
+* list **[olivovníka](../bylinky/olivovnik-europsky),** má dezinfekčné účinky;
+* **[echinacea](../bylinky/echinacea-purpurea),** má stimulujúce protivírusové účinky;
+* **[Pau D´Arco](../bylinky/lapacho-matto-grosso)** (Lapacho), stimuluje imunitu, je účinný proti baktériám, plesniam, parazitom, vírusom, má antioxidačné, bolesť tlmiace a protizápalové účinky;
+* [**Unkária**](../bylinky/vilcacora)(Vilcacora) patrí k najúčinnejším “posilňovačom imunity”;
 * **lyzín** (*aminokyselina, organická, uhlíkatá molekula, ktorá obsahuje karboxylovú skupinu (-COOH) a aminokyselinu (-NH2*); zabraňuje rozmnožovaniu vírusu herpesu a vyvíja protivírusové účinky;
 * **zinok** je nenahraditeľný pre správnu funkciu imunitnej sústavy.
 

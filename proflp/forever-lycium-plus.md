@@ -8,14 +8,15 @@ lycia a flavonoidov zo sladkovky (sladkého drievka) tvorí najsilnejší
 **neutralizuje** vedľajšie účinky chemo- a rádioterapie a spolu
 s [Aloe vera gel](aloe-vera-gel) pomáha vylepšovať stav pri
 onkologických ťažkostiach. Dobre poslúži ako prevencia srdcovo - cievnych
-ochorení ([SCCH](../diagnozy/scch)), zlepšuje pružnosť ciev a reguluje [krvný
+ochorení ([SCCH](../diagnozy/srdcovocievne-choroby)),
+zlepšuje pružnosť ciev a reguluje [krvný
 tlak](../diagnozy/vysoky-krvny-tlak). V synergii s [Bee Pollen](forever-bee-pollen)
 alebo [Aloe Vera Gel](aloe-vera-gel) pomáha zlepšovať stav
 pečene. Má pozitívny vplyv na zrak a pľúca. Má silné protizápalové účinky v
 kombinácii s Bee Propolis a [Aleo Vera Gel](aloe-vera-gel).
 
 *Obsahuje*: [Lycium](../bylinky/lycium) (plod kustovnice čínskej) 300 mg,
-flavonoidy z koreňa [sladkovky](../bylinky/sladovka-hladkoploda) 37,5 mg.
+flavonoidy z koreňa [sladkovky](../bylinky/sladkovka-hladkoploda) 37,5 mg.
 
 *Obsah*: 100 tabliet
 
@@ -26,4 +27,3 @@ a čajom [Herbal Blossom Tea](aloe-blossom-herbal-tea); Lycium Plus sa
 neodporúča užívať dva dni pred a dva dni po chemoterapii, iba v prestávkach
 medzi terapiami; Aloe Vera Gel sa môže aplikovať aj počas chemoterapie, ale
 niektorí jedinci ho vyvracajú
-

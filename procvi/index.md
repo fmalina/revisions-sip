@@ -46,11 +46,11 @@ kategórie. Výber z celkovej ponuky je štruktúrovaný:
 * prípravky z liečivých rastlín (
   [Energy&Memory](/altmed/procvi/energy-memory),
   [Choleston](/altmed/procvi/choleston);
-  [ImmunAid](/altmed/procvi/imunaid);
+  [ImmunAid](/altmed/procvi/immunaid);
   [Nopalin](/altmed/procvi/nopalin);
   [Ocean 21](/altmed/procvi/ocean-21);
   [ParaProtex](/altmed/procvi/paraprotex);
-  [Noni Liquid](/altmed/procvi/polinesian-noni-liquid);
+  [Noni Liquid](/altmed/procvi/polinesian-noni);
   [VirAgo](/altmed/procvi/virago);
   [VitalMan](/altmed/procvi/vital-man);
   [VitalWoman](/altmed/procvi/vital-woman);
@@ -81,4 +81,4 @@ obsahujú vitamíny, minerály a ďalšie účinné látky, doplňujú ich defic
 výživovom režime a tým pomáhajú posilňovať prirodzenú schopnosť organizmu
 odolávať chorobám.*
 
-Poskytujeme tu len informácie, ceny neuvádzame a produkty nepredávame, 
+Poskytujeme tu len informácie, ceny neuvádzame a produkty nepredávame.

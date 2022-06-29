@@ -35,4 +35,4 @@ Preč so škodlivým cholesterolom!
 
 *Obsah*: 250 gélových toboliek
 
-Viac na stránke o [Sóji](../byliky/soja-fazulova).
+Viac na stránke o [Sóji](../bylinky/soja-fazulova).

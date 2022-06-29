@@ -20,5 +20,5 @@ hlieny a uľahčuje vykašliavanie.
 *Dávkovanie*:
 
 * v akútnych prípadoch krátkodobo vo vyšších dávkach (tri až štyrikrát denne pri jedle 1 tabletku) v kombinácii s [Aloe Vera Gel](aloe-vera-gel), resp. [Lycium Plus](forever-licium-plus) a dostatočné množstvo vitamínu C, napr. [Abcorbent C](absorbent-c);
-* pri chronických stavoch dlhodobo 2 až 3 tabletky denne pri jedle, pričom je rozumné doplniť antioxidanty ([Lycium Plus](forever-licium-plus), [A-Beta-CarE](a-beta-care));
+* pri chronických stavoch dlhodobo 2 až 3 tabletky denne pri jedle, pričom je rozumné doplniť antioxidanty ([Lycium Plus](forever-lycium-plus), [A-Beta-CarE](a-beta-care));
 * na posilnenie organizmu a podporu vitality u starších ľudí je vhodné tento doplnok stravy kombinovať s [Aloe Vera Gel](aloe-vera-gel), [Gin-Chia](gin-chia), [Ginkgo Plus](forever-ginkgo-plus) alebo s včelími produktmi [Bee Pollen](forever-bee-pollen), [Royal Jelly](forever-bee-pollen).

@@ -8,8 +8,7 @@ očistu organizmu. Hlavné liečebné účinky sa prejavujú pri liečbe prostat
 zväčšenej prostaty a stareckého prostatizmu. Priaznivo pôsobí pri zápale ľadvín,
 močového mechúra a močových ciest. U mužov nad 40 rokov sa odporúča preventívne
 jedenkrát do roka trojdenná užívacia kúra s touto tinktúrou vrbovkou málokvetou
-a synergicky s tinktúrou
-[zlatobyľ](../tinktury/zlatobyl-2) obyčajná,
+a synergicky s tinktúrou [zlatobyľ](zlatobyl) obyčajná,
 proti ochoreniu prostaty.
 
 [Viac informácií](../bylinky/vrbovka-horska) o bylinke…
@@ -20,4 +19,3 @@ riediť v nemineralizovanej vode 20 ml na jednu dávku. Potom sa podrží v úst
 po 20 s až 30 s sa prehltne. Pitný režim pokračuje asi po pol hodine.*
 
 *Obsah: 30 ml macerátu*
-

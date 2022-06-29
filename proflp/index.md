@@ -93,4 +93,4 @@ obsahujú vitamíny, minerály a ďalšie účinné látky, doplňujú ich defic
 výživovom režime a tým pomáhajú posilňovať prirodzenú schopnosť organizmu
 odolávať chorobám.*
 
-Poskytujeme len informácie, ceny neuvádzame a produkty tu nepredávame,
+Poskytujeme len informácie, ceny neuvádzame a produkty tu nepredávame.

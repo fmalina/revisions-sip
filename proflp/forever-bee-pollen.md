@@ -11,7 +11,7 @@ výživných látok na kalóriu, než iné nutričné prípravky a preto sa tent
 prípravok uvádza ako najkomplexnejšia potrava. Tento plne **prírodný produkt**
 **neobsahuje žiadne konzervačné látky** a **je ľahko vstrebateľný**. Je to
 ideálny doplnok stravy (aj počas dojčenia), dodáva energiu, harmonizuje
-[imunitný systém](../diagnozy/imunita), je vynikajúcou podporou pri pooperačných
+[imunitný systém](../diagnozy/imunitne-problemy), je vynikajúcou podporou pri pooperačných
 stavoch, pomáha odstraňovať odpadové látky a toxíny z organizmu, pomáha pri
 regenerácii pečene, pri [depresii](../diagnozy/depresia), poruche pamäte,
 [nespavosti](../diagnozy/nespavost) a môže zmierňovať
@@ -29,4 +29,3 @@ vitamínov, minerálov, enzýmov a koenzýmov, bielkoviny a amínokyseliny
 septembra, októbra; tabletku treba rozdrviť a užívať po zrniečkach, postupne
 zvyšovať až prejdeme na plnú dávku - pol ročná kúra; zvyšovať v päť dňových
 cykloch.
-

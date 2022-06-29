@@ -7,7 +7,7 @@ Karbinec (Karbinec)
 žľazy (hyperthyreóze). Vlastnosti kardiosedatíva ju predurčujú na užívanie pri
 nepravidelnej srdečnej činnosti (dôsledok hyperthyreózy). Má antibiotické
 účinky, najmä na salmonely. Zvyšuje
-[imunitu](../diagnozy/imunita) organizmu. Tinktúra má proti
+[imunitu](../diagnozy/imunitne-problemy) organizmu. Tinktúra má proti
 plesňové účinky.
 
 [Viac informácií](../bylinky/karbinec-europsky) o bylinke…
@@ -18,4 +18,3 @@ riediť v nemineralizovanej vode 20 ml na jednu dávku. Potom sa podrží v úst
 po 20 s až 30 s sa prehltne. Pitný režim pokračuje asi po pol hodine.*
 
 *Obsah: 30 ml macerátu*
-
