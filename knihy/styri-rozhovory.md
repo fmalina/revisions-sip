@@ -10,7 +10,7 @@ genetika, tajné spoločnosti, nová fyzika, kozmológia, mimotemské vplyvy,
 duchovná povaha a účel ľudstva.
 
 Rozhovory pôsobia na čitateľa “psychodelickým” účinkom a odhaľujú šokujúce
-informácie zo zákulisia svetového diania. V našej ponuke uvedená kniha svojím
+informácie zo zákulisia svetového diania. V našom zozname uvedená kniha svojím
 posolstvom predčila všetko, čo bolo doteraz napísané v oblasti *fantasy* a
 *sci-fi* literatúry. Dotýka sa mystických a ezotérnych právd, ktoré boli
 odjakživa súčasťou všeľudského poznania.

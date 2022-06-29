@@ -35,11 +35,10 @@ Tipy
 ----
 
 * počet účastníkov je obmedzený
-* tento druh kurzu bude na Slovensku v roku 2008 jediný.
-* hláste sa čo najskôr na e-mail adrese [holistic\_services@yahoo.com](mailto:holistic_services@yahoo.com?subject=Prihlaska%20z%20unilexicon.com/sip).
-V predmete e-mailu spomeňte unilexicon.com/sip
+* tento druh kurzu bude na Slovensku jediný.
+* hláste sa na e-mail adrese holistic_services@yahoo.com, spomeňte altmed
 
-\_\_\_\_\_\_\_\_\_\_\_
+***
 
 \*) CIMI - certifikovaný inštruktor, absolvent medzinárodnej školy IAIM
 

@@ -1,7 +1,7 @@
 Pozriem sa do tváre a ...
 =========================
 
-### ... spoznám, čo sa v človeku skrýva ...
+## ... spoznám, čo sa v človeku skrýva ...
 
 *Žiadne čarodejstvo, žiadne zázračné liečenie, ale pragmatické konštatovanie
 stavu mysle a organizmu. Nasleduje dobre mienená rada...*
@@ -36,13 +36,9 @@ kompetencie.
 Čo by som ako záujemca mal ešte vedieť?
 =======================================
 
-***Začíname***: 8.11.2009 (nedeľa)
-
-***Budeme pokračovať***: vždy od 9:00 h do 16:00 h
-
 ***Mesto***: Považská Bystrica
 
-***Miesto***: spresníme
+***Miesto a čas***: spresníme
 
 ***Cena***: 27 € za jednu prednášku
 
@@ -57,5 +53,4 @@ kol.: Čítame z tváre, prednášky
 ***Kontakty***: Renata Ripková tel.: +421 908 498 676
 alebo <mailto:silvia.cernochova@seznam.cz>
 
-***Registrácia***: na kontaktoch do 4.11.2009
-
+***Registrácia***: na kontaktoch

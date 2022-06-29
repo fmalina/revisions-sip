@@ -18,7 +18,7 @@ zmeniť. Vo svojom vnútre a hĺbke duše viete, aký by život **mohol** byť."
 
 *N. D. Walsch*
 
-V našej ponuke od tohto autora si pozrite aj [Hovory s Bohom pre
+V našom zozname od tohto autora si pozrite aj [Hovory s Bohom pre
 mladých](../knihy/hovory-s-bohem) a [O ľudských
 vzťahoch](../knihy/o-lidskych-vztazich).
 

@@ -10,6 +10,6 @@ Obsah tejto knihy je schválený ako učebnica na výučbu masérov, pre kurzy
 kozmetičiek, kaderníc, padikérok, sociálnych pracovníkov, ošetrovateľov,
 osobných asistentov pre handykepovaných a ďalších.
 
-V našej ponuke je od autora ďalšia kniha [Dotknite sa
+V našom zozname je od autora ďalšia kniha [Dotknite sa
 seba](../knihy/dotknite-sa-seba).
 

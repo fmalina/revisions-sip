@@ -1,13 +1,7 @@
 Afty
 ====
 
-**Skratka**: [Balíček odporučených prípravkov proti aftám](#balicek) si prosím
-objednajte nižšie kliknutím "Pridaj do košíka".
-
-
 > Nepríjemnosť v ústach a nie len tam…
-> 
-> 
 
 **Afty** sú drobné vriedky. Doteraz je nejasné, prečo niektorí jedinci sú na ne
 náchylní. U väčšiny ľudí nepatrné, zvyčajne málo bolestivé popáleniny a odreniny

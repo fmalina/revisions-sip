@@ -11,7 +11,7 @@ jednotlivých svaloch, utriedené podľa oblasti tela, do ktorých zasahujú.
 Vysvetľuje, ktoré konkrétne aktivity a polohy spôsobujú vznik spúšťačových bodov
 a radí, ako ich uvoľniť ošetrením.
 
-V našej ponuke ja ďalšia kniha v spoluautorstve s názvom [Fundované
+V našom zozname ja ďalšia kniha v spoluautorstve s názvom [Fundované
 dotyky](../knihy/fundovane-doteky).
 
 Donna Finandová, L.Ac., L.M.T. sa venuje akupunktúre a masážam so špeciálnym

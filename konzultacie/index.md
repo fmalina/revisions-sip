@@ -6,7 +6,7 @@ stavom, spravidla - keď “*je zle*“. Je skoro pravidlom, že “vyštartujem
 lekárovi a vymenujeme rad sprievodných javov, ktoré nám znepríjemňujú život
 práve v tomto okamihu.
 
-Málo kto však (a žiaľ, týka sa to niekedy aj lekárov) skúma príčinu a hneď sa
+Málokto však (a žiaľ, týka sa to niekedy aj lekárov) skúma príčinu a hneď sa
 orientuje na vyriešenie dôsledku. Na Vašom “jedálnom stole” sa objaví fronta
 liekov - a skutočne po nejakom čase vyhlásite “je mi dobre!” Vráťme sa však na
 začiatok tohto odstavca a pozrime sa na vyrieknuté slovo - ***príčina***. Určite
@@ -21,22 +21,10 @@ dôsledok takejto formy a kvality konzultácie o svojom zdravotnom stave (teraz 
 nie len fyzickom, ale i psychickom). Rozhodnete sa sami, nikto Vám nebude nútiť
 terapiu - “*liečiť*” sa budete sami (ak sa tak skutočne rozhodnete)!
 
-**Miesto konzultácii je v Považskej Bystrici** v priestoroch spoločnosti
-**EDUCATIS na ulici M. R. Štefánika, 157/45, 017 01 Považská Bystrica** (pri
-Orlovskom moste, oproti “pamätníku” na štvrtom poschodí). Konzultácie sa konajú
-v termínoch:
-
-* október - 16., 17. a 18.
-* november - 13., 14. a 15.
-* december - 11., 12. a 13.
-
-Pretože ide o individuálne konzultácie, ktoré vedie *Marcel* ***Černoch*** (ČR)
-- autor knihy [Diagnostika v
-praxi](../knihy/diagnostika-v-praxi) a spoluautor brožúry
-[Čítame z tváre](../knihy/citame-z-tvare), je rozumné, keď si
+Pretože ide o individuálne konzultácie, ktoré vedie **Marcel Černoch** (ČR)
+- autor knihy [Diagnostika v praxi](/altmed/knihy/diagnostika-v-praxi) a spoluautor brožúry
+[Čítame z tváre](/altmed/knihy/citame-z-tvare), je rozumné, keď si
 svoj čas dohodnete a tiež sa spýtate na všetko, čo Vás zaujíma pred samotnou
 konzultáciou:
-
-Kontakt: [hi@unilexicon.com](mailto:hi@unilexicon.com)
 
 Vitajte na prahu Vašej novej kvality života…!

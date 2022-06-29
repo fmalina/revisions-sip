@@ -3,7 +3,7 @@
 
 … cesta ku zdraviu a dlhovekosti
 
-V našej ponuke už známi autori v poslednom vydaní (2008) pokračujú v publikovaní
+V našom zozname už známi autori v poslednom vydaní (2008) pokračujú v publikovaní
 svojej širokej skúsenostnej škále východnej medicíny. Čchi Kung sú tradičné
 čínske cvičenia pre zdravie a dlhovekosť. V súlade s čínskou medicínou môže
 človek s jej pomocou ovplyvňovať svoje fyzické aj duševné zdravie. Cvičenia Čchi

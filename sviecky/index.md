@@ -6,8 +6,7 @@ pravom slova zmysle, skôr v tvarovom); ide o pôvodnú ľudovo - liečiteľskú
 metódu, ktorá je známa na celom svete s veľmi dobrými výsledkami. Taktiež aj
 voskové obklady majú svoj základ u našich predkov.
 
-**Telové a ušné sviečky** ponúkame pre zvýšenie kvality Vášho života. Ich cieľom
-je nielen vyriešiť zdravotné ťažkosti, ale aj pôsobiť preventívne. Ak ste tak
+Cieľom je nielen vyriešiť zdravotné ťažkosti, ale aj pôsobiť preventívne. Ak ste tak
 ešte neurobili, prejdite si ponuku našich sviečok a nájdite riešenie zdravotných
 problémov pre seba a svojich blízkych.
 

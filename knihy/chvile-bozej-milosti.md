@@ -3,9 +3,8 @@ Chvíle Božej milosti
 
 #### Walsh Neale Donald
 
-Autor svojím súborom kníh “*[Hovory s
-Bohem](../knihy-mudrost-pre-vas/hovory-s-bohem-2)*“,
-”*[Hovory s Bohem pro mladé](../knihy/hovory-s-bohem)*“,
+Autor svojím súborom kníh “*[Hovory s Bohem](../knihy/hovory-s-bohom)*“,
+”*[Hovory s Bohem pro mladé](../knihy/hovory-s-bohom-pre-mladych)*“,
 “*Přátelství s Bohem*” a “*Přijímaní Boha*” vytvoril bestsellery, ktoré boli
 preložené do dvadsiatich siedmych jazykov a predané sú už milióny. Autor žije v
 južnom Oregone so svojou ženou Nancy. Spoločnými silami založili neziskovú
@@ -21,4 +20,3 @@ okoliu naučiť sa veci, ktoré dávno vedia… Myslím, že tí, ktorí to robi
 pomáhajú zlepšovať svet!…”*
 
 *N. D. W.*
-

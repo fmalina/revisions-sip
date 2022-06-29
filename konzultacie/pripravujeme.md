@@ -28,4 +28,3 @@ kliatby, prekliatia, zloby, atd..."*
 telefonicky objednať***:
 
 MT +421 904 471 900; resp. na adrese <mailto:marie.kolibrik@gmail.com>
-

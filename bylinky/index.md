@@ -9,20 +9,20 @@ ponuke.
 Liečivé bylinky, plody a huby si u nás môžete kúpiť hneď teraz v **nasledovných
 formách,** ako:
 
-* [čaje](../caje),
-* [jedno - bylinkové tinktúry a zmesi](../tinktury),
-* [elixíry](../elixiry),
-* [dúhové elixíry](../elixiry),
-* [prípravky CVI](../procvi),
-* [prípravky FLP](../proflp).
+* [čaje](/altmed/caje),
+* [jedno - bylinkové tinktúry a zmesi](/altmed/tinktury),
+* [elixíry](/altmed/elixiry),
+* [dúhové elixíry](/altmed/elixiry),
+* [prípravky CVI](/altmed/procvi),
+* [prípravky FLP](/altmed/proflp).
 
 Informácie o liečivkách v našich produktoch dôsledne spracovávame. Ak však
 potrebujete hlbšie štúdium byliniek sú tu aj užitočné
-odkazy, alebo zaujímavá [kniha](../knihy/byliny) z našej ponuky.
+odkazy, alebo zaujímavá [kniha](/altmed/knihy/byliny) z našej ponuky.
 
-Všetky ponúkané produkty (okrem [ušných a telových sviečok](../sviecky),
-[dúhových elixírov](../elixiry) a
-[tričiek](../potlac/tricka)) sú dovážané z Česko-moravskej vysočiny,
+Všetky ponúkané produkty (okrem [ušných a telových sviečok](/altmed/sviecky),
+[dúhových elixírov](/altmed/elixiry) a
+[tričiek](/altmed/potlac/tricka)) sú dovážané z Česko-moravskej vysočiny,
 resp. knihy sú z českých vydavateľstiev (knihy sú v ***českom*** originále).
 
 Názvy liečiviek sú uvedené v slovenčine, češtine a latinčine. Poskytujeme aj

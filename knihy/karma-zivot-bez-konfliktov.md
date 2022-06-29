@@ -17,6 +17,6 @@ môžeme naučiť žiť v kľude a s radosťou, bez zbytočných emócii? Pokia�
 myšlienkach vynorili takéto a podobné otázky - je táto múdra kniha určená práve
 Vám.
 
-V našej ponuke od tohto autora si pozrite aj knihu [Čo nám
+V našom zozname od tohto autora si pozrite aj knihu [Čo nám
 prekáža…](../knihy/co-nam-stoji-na-ceste)
 

@@ -22,9 +22,8 @@ vyriešiť zdravotné ťažkosti, ale aj pôsobiť preventívne. Ak ste tak ešt
 neurobili, prejdite si ponuku *Dúhových elixírov* a nájdite riešenie zdravotných
 problémov pre seba a svojich blízkych. Dúhové elixíry sú vyrábané z ekologicky
 čistého prostredia Českej republiky (*výrobca Herba Vitalis, výrobca
-[tinktúr](../tinktury) a
-[elixírov](../elixiry) v našej ponuke*) podľa receptúr Bc.
-Martina *Kolára* viz [lexikón zdravia](../knihy/lexikon-zdravia)
+[tinktúr](/altmed/tinktury) a elixírov v našej ponuke*) podľa receptúr Bc.
+Martina *Kolára* viz [lexikón zdravia](/altmed/knihy/lexikon-zdravia)
 a ich komponenty sú preložné do slovenského jazyka (názvy
 komponentov aj do češtiny a latinčiny). Pozorne si prečítajte upozornenia pri
 každom výrobku; upozornenia sú citované z príslušného *rozhodnutia* Úradu

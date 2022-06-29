@@ -17,7 +17,7 @@ radosti.
 
 *D. M. R.*
 
-V našej ponuke od tohto autora si pozrite aj [Štyri
+V našom zozname od tohto autora si pozrite aj [Štyri
 dohody](../knihy/ctyri-dohody),
 [Modlitby](../knihy/modlitby) a [Láska,
 vzťahy…](../knihy/laska)

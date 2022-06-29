@@ -18,7 +18,7 @@ sliznice dýchacích ciest a tráviaceho ústrojenstva. Používajú sa pri ocho
 žalúdka, čriev a pľúc, akútnej a chronickej gastritíde, kolikách, žalúdočných a
 a dvanástnikových vredoch, chronickej zápche, bronchitíde, čiernom kašli,
 záduchu a tuberkulóze. Horká kyslina vzbudzuje chuť do jedla, tonizuje žalúdok a
-zvyšuje odolnosť organizmu. V našej ponuke čaj odporúčame pripravovať ako zápar
+zvyšuje odolnosť organizmu. V našom zozname čaj odporúčame pripravovať ako zápar
 alebo odvar.
 
 Aplikáciu bylinky nájdete v čajovine [Lišajník

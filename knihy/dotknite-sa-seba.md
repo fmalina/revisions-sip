@@ -14,6 +14,6 @@ knihe)
 Obsah tejto knihy je riešený veľmi zaujímavo, logicky členený do “očakávaných”
 tématických celkov a skutočne čaká len na vás…
 
-V našej ponuke je ďalšia kniha od autora [Psychológia a dotykové
+V našom zozname je ďalšia kniha od autora [Psychológia a dotykové
 povolania](../knihy/psychologie-a-dotekova-povolani).
 
