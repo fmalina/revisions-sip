@@ -10,9 +10,9 @@ energiu a vitalitu v organizme, preventívne pôsobí proti civilizačným choro
 
 Obsahuje bylinky:
 
-* [schizandra čínska](/sip/bylinky/schizandra-cinska)
-* [rakytník rešetliakový](/sip/bylinky/rakytnik-resetliakovy)
-* [ríbezľa čierna](/sip/bylinky/ribezla-cierna)
+* [schizandra čínska](../bylinky/schizandra-cinska)
+* [rakytník rešetliakový](../bylinky/rakytnik-resetliakovy)
+* [ríbezľa čierna](../bylinky/ribezla-cierna)
 
 Upozornenie*: Výrobok nie je vhodný pre deti. Dávkovanie maximálne 3 x 15
 kvapiek za deň; riediť v nemineralizovanej vode 20 ml na jednu dávku. Potom sa

@@ -16,7 +16,7 @@ postihnutá aj pečeň. Vzácny prípad je postihnutie iných orgánov (slezina)
 Balíček odporučených prípravkov proti mononukleóze
 --------------------------------------------------
 
-* [Pečeňový](/sip/caje/pecenovy-u-caj) - U čaj
-* [Sayonara](/sip/caje/sayonara) čaj
-* [Pestrec mariánsky](/sip/caje/pestrec) mletý *(aplikovať v pomere 4:1 s Glukopur 1PL)*
-* [BCAA](/sip/produkty-CVI/bcaa-l-carnitin)
+* [Pečeňový](../caje/pecenovy-u-caj) - U čaj
+* [Sayonara](../caje/sayonara) čaj
+* [Pestrec mariánsky](../caje/pestrec) mletý *(aplikovať v pomere 4:1 s Glukopur 1PL)*
+* [BCAA](../procvi/bcaa-l-carnitin)

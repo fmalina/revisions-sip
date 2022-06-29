@@ -14,9 +14,9 @@ Materiál je náchylný na zaparenie; suší sa na dobre vetraných miestach a v
 v tenkých vrstvách pri teplote 25 až 30 stupňov.
 
 Aplikáciu bylinky nájdete na stránkach čaje v [Žalúdok,
-črevá](/sip/#p/zaludok-creva),
-[Brnenský](/sip/#p/brnensky) čaj, [Pečeňový
-U](/sip/#p/pecenovy-u-caj) čaj,
-[Veverskom](/sip/#p/veversky) čaji a [Pre
-deti](/sip/#p/pre-deti).
+črevá](../caje/zaludok-creva),
+[Brnenský](../caje/brnensky) čaj, [Pečeňový
+U](../caje/pecenovy-u-caj) čaj,
+[Veverskom](../caje/veversky) čaji a [Pre
+deti](../caje/pre-deti).
 

@@ -18,6 +18,6 @@ medicíny. V našich podmienkach tieto princípy presadzoval už od konca 50. ro
 minulého storočia (predovšetkým akupunktúru a akupresúru) a významne sa zaslúžil
 o etabláciu týchto metód v československej a aj experimentálnej medicíne. V
 našej ponuke je od tohto autora (spoluautora) veľmi zaujímavá a poučná kniha
-[Tradičná čínska medicína](/sip/knihy/tradicni-cinska-medicina)
-a novinka [Čchi Kung](/sip/knihy/cchi-kung).
+[Tradičná čínska medicína](../knihy/tradicni-cinska-medicina)
+a novinka [Čchi Kung](../knihy/cchi-kung).
 

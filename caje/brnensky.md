@@ -9,7 +9,7 @@ jedle. Odporúča sa ako **prvá pomoc** pri miernejších formách ochorenia ž
 
 Obsahuje:
 
-* vňať [mäty piepornej](/sip/bylinky/mata-pieporna), [medovky lekárskej](/sip/bylinky/medovka-lekarska)
-* kvet [rumančeka kamilkového](/sip/bylinky/rumancek-kamilkovy)
-* plod [feniklu obyčajného](/sip/bylinky/fenikel-obycajny) a [rasce lúčnej](/sip/bylinky/rasca-lucna)
-* koreň [ihlice tŕnitej](/sip/bylinky/ihlica-trnita)
+* vňať [mäty piepornej](../bylinky/mata-pieporna), [medovky lekárskej](../bylinky/medovka-lekarska)
+* kvet [rumančeka kamilkového](../bylinky/rumancek-kamilkovy)
+* plod [feniklu obyčajného](../bylinky/fenikel-obycajny) a [rasce lúčnej](../bylinky/rasca-lucna)
+* koreň [ihlice tŕnitej](../bylinky/ihlica-trnita)

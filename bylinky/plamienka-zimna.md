@@ -22,4 +22,4 @@ už iné druhy sotva nájdu. Kedykoľvek sa v zime na niekoľko dní oteplí, op
 zájsť tam, kde sú staré ovocné stromy, či gaštany alebo iné listnaté stromy a na
 miestach po spílených konároch, čí starých poraneniach hľadať trsy plamienok.
 
-Aplikácia huby je v produkte [Fungilen](/sip/elixiry/duhovy-fungilen).
+Aplikácia huby je v produkte [Fungilen](../elixiry/duhovy-fungilen).

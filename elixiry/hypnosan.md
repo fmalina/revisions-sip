@@ -9,13 +9,13 @@ predpokladu, že nejde o niektorú z patologických príčin.
 
 Obsahuje bylinky:
 
-* [Pamajorán](/sip/bylinky/pamajoran-obycajny)
-* [Medovku](/sip/bylinky/pamajoran-obycajny)
-* [Srdcovník](/sip/bylinky/srdcovnik-obycajny)
-* [Železník](/sip/bylinky/srdcovnik-obycajny)
-* [Chmel](/sip/bylinky/chmel-obycajny)
-* [Valeriána](/sip/bylinky/valeriana-lekarska)
-* [Všehojovec](/sip/bylinky/vsehojovec-stetinaty)
+* [Pamajorán](../bylinky/pamajoran-obycajny)
+* [Medovku](../bylinky/pamajoran-obycajny)
+* [Srdcovník](../bylinky/srdcovnik-obycajny)
+* [Železník](../bylinky/srdcovnik-obycajny)
+* [Chmel](../bylinky/chmel-obycajny)
+* [Valeriána](../bylinky/valeriana-lekarska)
+* [Všehojovec](../bylinky/vsehojovec-stetinaty)
 
 Upozornenie: *Výrobok nie je určený pre deti. Dávkovanie pre dospelých 3 x 15
 kvapiek za deň; riediť v nemineralizovanej vode 20 ml na jednu dávku. Potom sa

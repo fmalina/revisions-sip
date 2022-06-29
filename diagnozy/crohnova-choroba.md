@@ -37,7 +37,7 @@ prípravky na posilnenie IS, v niektorých prípadoch až chirurgická liečba.
 Balíček odporučených prípravkov proti Crohnovej chorobe
 -------------------------------------------------------
 
-* [Disbiosan](/sip/elixiry/disbiosan) elixír
-* [Žalúdok a črevá](/sip/caje/zaludok-creva) čaj
-* [Brnenský](/sip/caje/brnensky) čaj (najmä pri nadúvaní)
-* [BCAA Liquid](/sip/produkty-CVI/bcaa-l-carnitin)
+* [Disbiosan](../elixiry/disbiosan) elixír
+* [Žalúdok a črevá](../caje/zaludok-creva) čaj
+* [Brnenský](../caje/brnensky) čaj (najmä pri nadúvaní)
+* [BCAA Liquid](../procvi/bcaa-l-carnitin)

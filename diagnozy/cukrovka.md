@@ -49,9 +49,9 @@ ostatných životu dôležitých orgánov.
 Balíček odporučených prípravkov proti cukrovke
 ----------------------------------------------
 
-* [Schizandra](/sip/tinktury/schizandra) (Klanopraška)
-* [Diasan](/sip/elixiry/diasan) elixír
-* [Pozdrav z Křtin](/sip/caje/pozdrav-z-krtin) čaj
-* [Psyllium](/sip/caje/psyllium) čaj
-* [Hannasaki](/sip/caje/hannasaki) čaj
+* [Schizandra](../tinktury/schizandra) (Klanopraška)
+* [Diasan](../elixiry/diasan) elixír
+* [Pozdrav z Křtin](../caje/pozdrav-z-krtin) čaj
+* [Psyllium](../caje/psyllium) čaj
+* [Hannasaki](../caje/hannasaki) čaj
 * Olivový olej (panenský) 1PL - v obchodnej sieti; lisovaný za studena

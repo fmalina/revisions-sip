@@ -7,8 +7,8 @@ dodržiavaní pitného režimu, ktorý je pri migrénach pomerne dôležitý.
 
 Obsahuje:
 
-* [medovka lekárska](/sip/bylinky/medovka-lekarska) vňať
-* [fialka roľná](/sip/bylinky/fialka-rolna-trojfarebna) vňať
-* [mučenka](/sip/bylinky/mucenka) vňať
-* [lipkavec](/sip/bylinky/lipkavec-syridlovy) vňať
-* [zemežlč menšia](/sip/bylinky/zemezlc-mensia) vňať.
+* [medovka lekárska](../bylinky/medovka-lekarska) vňať
+* [fialka roľná](../bylinky/fialka-rolna-trojfarebna) vňať
+* [mučenka](../bylinky/mucenka) vňať
+* [lipkavec](../bylinky/lipkavec-syridlovy) vňať
+* [zemežlč menšia](../bylinky/zemezlc-mensia) vňať.

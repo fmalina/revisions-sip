@@ -5,9 +5,9 @@ Nechtík lekársky
 
 *Výskyt*: Nechtík lekársky pochádza zo Stredomoria a Blízkeho východu. Už v
 stredoveku bol obľúbený ako okrasná kvetinka a v súčasnosti sa znova dostali do
-popredia jeho liečivé účinky. Je pestovaná najmä v Sírii a v Egypte.
+popredia jeho liečivé účinky. Je pestovaná najmä v Sírii a v Egypte.
 
-*Kvitne*: Od júna do augusta.
+*Kvitne*: Od júna do augusta.
 
 *Zber*: Zbierame celé plnokveté úbory, alebo len lupienky kvetov. Pri umelom
 sušení teplota nesmie presiahnuť 60 stupňov. Sušené starostlivo uchovávame na
@@ -33,6 +33,6 @@ otvorených rán.
 spôsobiť nežiadúce vedľajšie účinky, ktoré vyvolávajú estrogénne látky.
 
 Aplikáciu bylinky nájdete na stránke tinktúry
-[Nechtík](/tinktury/nechtik) a stránke čaj
-[Cholestin](/sip/caje/cholestin-zlcnikovy).
+[Nechtík](../tinktury/nechtik) a stránke čaj
+[Cholestin](../caje/cholestin-zlcnikovy).
 

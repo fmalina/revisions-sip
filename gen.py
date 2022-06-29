@@ -2,14 +2,15 @@
 from page.gen import generate_site
 
 ROOT = '/Users/f/SITES/'
-SOURCE = f'{ROOT}unilex-sip'
-TARGET = f'{ROOT}unilex/static/sip'
-TPL = f'{ROOT}unilex-sip/_tpl'
+SOURCE = f'{ROOT}unilex-altmed'
+TARGET = f'{ROOT}unilex/static/altmed'
+TPL = f'{ROOT}unilex-altmed/_tpl'
 EXT = ''  # can be '.htm'/'.html'
 CTX = dict(
-    site_name='Sip sip',
-    site_url='https://unilexicon.com/sip',
+    site_name='Alt med',
+    site_url='https://unilexicon.com/altmed',
     repo_url='https://github.com/fmalina/unilex-sip/blob/main/',  # for edit links
+    site_root='/altmed',
     dev=True  # show/hide editing links
 )
 

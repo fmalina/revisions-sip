@@ -51,8 +51,8 @@ pitný režim, minimálne 1,5 l denne na 50 kg živej váhy.
 
 *Zloženie*:
 
-* [pečiarka záhradná (šampiňón záhradný)](/sip/#p/sampinon-zahradny) extrakt z plodníc,
-* [húževnatec jedlý](/sip/#p/huzevnatec-jedly-shiitake) (shiitake),
+* [pečiarka záhradná (šampiňón záhradný)](../bylinky/sampinon-zahradny) extrakt z plodníc,
+* [húževnatec jedlý](../bylinky/huzevnatec-jedly-shiitake) (shiitake),
 * alkohol 43 %.
 
 *Upozornenie*: Nevhodné pre deti do 6 rokov.

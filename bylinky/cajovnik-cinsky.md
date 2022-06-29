@@ -1,9 +1,9 @@
 Čajovník čínsky
 ===============
 
-#### Čaj zelený, Camellia sinensis (L.) Kuntze (staršie názvy Thea bohea, Thea sinensis, Thea viridis) , Zelený čaj
+#### Čaj zelený, Camellia sinensis (L.) Kuntze (staršie názvy Thea bohea, Thea sinensis, Thea viridis) , Zelený čaj
 
-*Výskyt*: **Čajovník čínsky** je vždyzelený ker z rodu čajovník. Jeho listy a
+*Výskyt*: **Čajovník čínsky** je vždyzelený ker z rodu čajovník. Jeho listy a
 púčiky poskytujú čaj, ktorý obsahuje až 2,5 % kofeínu. Je to prastará kultúrna
 rastlina, ktorá pochádza z južnej a juhovýchodnej Číny a priľahlých oblastí
 Indie, Barmy, Vietnamu a Laosu, kde sa pestuje už celé tisícročia. Hoci sa
@@ -65,8 +65,8 @@ Filipínach a v Číne. Bol známy zanietením pre botaniku, prírodovedu a samo
 šírením kresťanstva.
 
 Aplikácia výťažku z bylinky je na stránkach produktov
-[Chlesterol čaj](/sip/caje/cholesterol),
-[Telové sviečky](/sip/sviecky/telove-sviecky),
-[Slim Formula](/sip/produkty-CVI/slim-formula),
-[Smokerade](/sip/produkty-CVI/smokerade) a
-[MegaProtect 4Life](/sip/produkty-CVI/megaprotect-4life).
+[Chlesterol čaj](../caje/cholesterol),
+[Telové sviečky](../sviecky/telove-sviecky),
+[Slim Formula](../procvi/slim-formula),
+[Smokerade](../procvi/smokerade) a
+[MegaProtect 4Life](../procvi/megaprotect-4life).

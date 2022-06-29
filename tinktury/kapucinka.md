@@ -7,7 +7,7 @@ Tinktúra **Kapucínka** má významné antibiotické a antibakteriálne účink
 v oblasti urogenitálnej a v oblasti dýchacích ciest. Užíva sa tiež na podporu
 rastu vlasov, proti ich vypadávaniu a proti lupinám.
 
-[Viac informácií](/sip/bylinky/kapucinka-vacsia) o bylinke…
+[Viac informácií](../bylinky/kapucinka-vacsia) o bylinke…
 
 Upozornenie: *Výrobok nie je určený pre deti do 3 rokov. Dávkovanie pre
 dospelých 3 x 15 kvapiek za deň; pre deti od troch rokov 3 x 5 kvapiek za deň

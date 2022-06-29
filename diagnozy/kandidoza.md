@@ -22,10 +22,10 @@ kandidóza pľúc.
 Balíček odporučených prípravkov proti kandidóze
 -----------------------------------------------
 
-* [Sayonara](/sip/caje/sayonara) čajovina
-* [Rooibos](/sip/#p/rooibos) čaj
-* [Psyllium](/sip/caje/psyllium) vláknina
-* [Echinacea](/sip/tinktury/echinacea) (Echinacea) tinktúra
-* [Kapucínka](/sip/tinktury/kapucinka) (Lichořeřišnice) tinktúra
-* [Túžobník](/sip/tinktury/tuzobnik) (Tužebník) tinktúra
-* Olivový panenský olej, lisovaný za studena, 1 PL *(obchodná sieť)*
+* [Sayonara](../caje/sayonara) čajovina
+* [Rooibos](../caje/rooibos) čaj
+* [Psyllium](../caje/psyllium) vláknina
+* [Echinacea](../tinktury/echinacea) (Echinacea) tinktúra
+* [Kapucínka](../tinktury/kapucinka) (Lichořeřišnice) tinktúra
+* [Túžobník](../tinktury/tuzobnik) (Tužebník) tinktúra
+* Olivový panenský olej, lisovaný za studena, 1 PL *(obchodná sieť)*

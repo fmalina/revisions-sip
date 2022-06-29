@@ -23,6 +23,4 @@ medicíne sa ľanový olej osvedčil v liečbe črevných vredov a impetiga (inf
 kožná choroba). Ľanová voda sa používala na dvore Ľudovíte XIV, lebo pôsobila
 močopudne, zároveň upokojujúco a zabraňovala tvorbe obličkových kameňov.
 
-Aplikácia bylinky je na stránke produktu
-[Choleston](/sip/#p/choleston).
-
+Aplikácia bylinky je na stránke produktu [Choleston](../procvi/choleston).

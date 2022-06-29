@@ -7,7 +7,7 @@ Tinktúra **Púpava** podporuje látkovú výmenu a zažívaciu činnosť. Priaz
 pôsobí na pečeň, podžalúdkovú žľazu a žlčník. Pomáha k znižovaniu hladiny cukru
 v krvi. Má priaznivý vplyv na zníženie cholesterolu.
 
-[Viac informácií](/sip/bylinky/pupava-lekarska) o bylinke…
+[Viac informácií](../bylinky/pupava-lekarska) o bylinke…
 
 Upozornenie: *Výrobok nie je určený pre deti do 3 rokov. Dávkovanie pre
 dospelých 3 x 15 kvapiek za deň; pre deti od troch rokov 3 x 5 kvapiek za deň

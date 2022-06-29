@@ -27,7 +27,7 @@ arómu. Nakoniec sa pasterizuje a suší. Je to unikátny Juhoafrický čaj bez
 kofeinu.
 
 *Uplatnenie*: Rooibos neobsahuje kofeín, napriek tomu má povzbudivé účinky. V
-tejto súvislosti je vhodné porovnanie, ktoré zvýhodňujú čaj-nečaj pred inými
+tejto súvislosti je vhodné porovnanie, ktoré zvýhodňujú čaj-nečaj pred inými
 povzbudzujúcimi nápojmi: obsah kofeínu v čiernom čaji sa pohybuje podľa druhu od
 20 - 110 mg na malú (1,5 dcl) šálku nápoja, v zelenom čaji 8 - 36 mg, v
 prekvapkávanej káve 60 - 180 mg, v káve z kávovaru iba 40-70 mg a v instantnej
@@ -41,7 +41,7 @@ kyslíkové radikály, majú teda protirakovinové účinky a pôsobia proti
 srdcovo-cievnym chorobám a starnutiu organizmu. Čaj-nečaj blahodarne vplýva na
 pečeň, znižuje hladinu cukru v krvi a pomáha pri zápche.
 
-Aplikáciu bylinky nájdete na stránke čajov [Siesta](/sip/caje/siesta),
-[Rooibos](/sip/caje/rooibos) a [Rooibos s citrónovou
-trávou](/sip/caje/rooibos-s-citronovou-travou).
+Aplikáciu bylinky nájdete na stránke čajov [Siesta](../caje/siesta),
+[Rooibos](../caje/rooibos) a [Rooibos s citrónovou
+trávou](../caje/rooibos-s-citronovou-travou).
 

@@ -2,7 +2,7 @@ Voskový obklad malý
 ===================
 
 **Voskový obklad malý** - 12cm x 30cm na opakované použitie ("náhradný dielec"
-ku [kompletu](/sip/sviecky/voskove-obklady)). Je to vlastne obklad z
+ku [kompletu](../sviecky/voskove-obklady)). Je to vlastne obklad z
 bavlneného materiálu nasiaknutý včelím voskom.
 
 *Zloženie*: Bavlnená látka a čistý včelí vosk.

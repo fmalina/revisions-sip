@@ -9,7 +9,7 @@ vonkajšej aplikácií zvyšuje miestne prekrvenie a zlepšuje výživu tkaniva 
 splodín. Priaznivo pôsobí pri astme, na srdcový sval pri angíne pectoris a pri
 ateroskleróze.
 
-[Viac informácií](/sip/bylinky/arnika-horska) o bylinke…
+[Viac informácií](../bylinky/arnika-horska) o bylinke…
 
 Upozornenie: *Výrobok nie je určený pre deti do 6 rokov. Dávkovanie pre
 dospelých 3 x 15 kvapiek za deň; pre deti od 6 rokov 3 x 5 kvapiek za deň riediť

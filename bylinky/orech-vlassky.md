@@ -30,7 +30,7 @@ prostiredok v liečbe niektorých druhov cukrovky. Čerstvé listy sú ľudovo z
 ako insekticídum (napr. proti blchám).
 
 *Zaujímavosť*: Pri pravidelnej konzumácii niekoľkých orechov šesťkrát týždne
-klesá riziko IM (infarkt myokardu) až o 50%.
+klesá riziko IM (infarkt myokardu) až o 50%.
 
 *Upozornenie*: (Bodlák, J.) Európska nadácia pre fytoterapiu (EFP) a Európske
 vedecke fytoterapeutické spoločenstvo (ESCOP) uvádzajú, že oplodie orecha
@@ -38,5 +38,5 @@ obsahuje juglon s mutagennými a karcinogennými účinkami (tvrdenie nie je
 overené).
 
 Aplikáciu rastlinky nájdete na stránke elixíru
-[Disbiosan](/elixiry/disbiosan).
+[Disbiosan](../elixiry/disbiosan).
 

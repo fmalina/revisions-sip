@@ -24,6 +24,6 @@ aj na zmiernenie krvácania a na odvodnenie.
 červienke a cholere.
 
 Aplikáciu bylinky nájdete na stránke tinktúry
-[Čistiaca zmes](/sip/tinktury/zmes-cistiaca),
-[Obličková zmes](/sip/tinktury/zmes-oblickova-ledvinova)
-a v čaji [Pre pánov](/sip/caje/pre-panov).
+[Čistiaca zmes](../tinktury/zmes-cistiaca),
+[Obličková zmes](../tinktury/zmes-oblickova-ledvinova)
+a v čaji [Pre pánov](../caje/pre-panov).

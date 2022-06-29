@@ -18,12 +18,12 @@ kyseliny listovej - vitamín B a základných minerálov, mangán). Černice maj
 pomerne vysokú hodnotu ORAC (*Oxygen radical absorbance capacity - kapacita
 absorbcie kyslíkových radikálov*).
 
-*Zaujímavosť*: Vo Veľkej Británii je povera, že černice by nemali byť zberané po
-Michalovi (29. september), lebo diabol na listoch zanecháva značku - a to
-privolá na zberatela močenie. Na pozadí tejto legendy je vedecké zdôvodnenie a
-to že po tomto dátume je už vlhkejšie a chladnejšie počasie, kedy sa často
-ovocie infikuje napríklad hubami ako je Botryotinia (nepríjemný vzhľad a môže
+*Zaujímavosť*: Vo Veľkej Británii je povera, že černice by nemali byť zberané po
+Michalovi (29. september), lebo diabol na listoch zanecháva značku - a to
+privolá na zberatela močenie. Na pozadí tejto legendy je vedecké zdôvodnenie a
+to že po tomto dátume je už vlhkejšie a chladnejšie počasie, kedy sa často
+ovocie infikuje napríklad hubami ako je Botryotinia (nepríjemný vzhľad a môže
 byť aj toxická).
 
-Aplikácia bylinky je v produkte [Fructavit](/sip/elixiry/duhovy-fructavit) a
-čaji [Aloe Blossom Herbal](/sip/produkty-FLP/aloe-blossom-herbal-tea).
+Aplikácia bylinky je v produkte [Fructavit](../elixiry/duhovy-fructavit) a
+čaji [Aloe Blossom Herbal](../proflp/aloe-blossom-herbal-tea).

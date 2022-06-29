@@ -25,6 +25,6 @@ alebo intelektových.
 Balíček odporučených prípravkov na udržanie mozgu v kondícii
 ------------------------------------------------------------
 
-* [Hypnosan](/sip/elixiry/hypnosan) elixír
-* [Pozdrav zo Křtin](/sip/caje/pozdrav-z-krtin) čaj
-* [Rooibos](/sip/caje/rooibos) čaj
+* [Hypnosan](../elixiry/hypnosan) elixír
+* [Pozdrav zo Křtin](../caje/pozdrav-z-krtin) čaj
+* [Rooibos](../caje/rooibos) čaj

@@ -27,5 +27,5 @@ zrelé (čierne) *olivy* sa nakladajú.
 zmierenia.
 
 Aplikácia rastliny je na stránke produktu
-[VirAgo](/sip/#p/virago).
+[VirAgo](../procvi/virago).
 

@@ -6,9 +6,9 @@ prostriedok pri DM (cukrovke), regeneruje podžalúdkovú žľazu.
 
 Zloženie tinktúry:
 
-* výťažok [brusnice čučoriedkovej](/sip/bylinky/brusnica-cucoriedkova)
-* plod [schizandry čínskej](/sip/bylinky/schizandra-cinska)
-* semena [pestreca mariánskeho](/sip/bylinky/pestrec-mariansky).
+* výťažok [brusnice čučoriedkovej](../bylinky/brusnica-cucoriedkova)
+* plod [schizandry čínskej](../bylinky/schizandra-cinska)
+* semena [pestreca mariánskeho](../bylinky/pestrec-mariansky).
 
 Upozornenie: *Výrobok nie je určený pre deti do 3 rokov. Dávkovanie pre
 dospelých 3 x 15 kvapiek za deň; pre deti od troch rokov 3 x 5 kvapiek za deň

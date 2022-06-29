@@ -6,7 +6,7 @@ Pestrec mariánsky
 *Výskyt*: Druh pochádza zo Stredomoria; pestujú ho v záhradách v teplejších
 oblastiach. Splanené formy rastú i vo voľnej prírode. Latinský názov upozorňuje
 na podobnosť s bodliakmi; veľmi pripomína aj [benedikt
-lekársky](/sip/bylinky/benedikt-lekarsky).
+lekársky](../bylinky/benedikt-lekarsky).
 
 *Zber*: Predmetom zberu sú plody. Zber sa robí zvyčajne odrezávaním celých
 úborov i so zákrovom krátko pred dozretím plodov (september až október); plody
@@ -29,10 +29,10 @@ keď so synom utekala pred Herodesom. Nemci používajú pestrec ako protijed na
 muchotrávku zelenú, ktorá vyvoláva nekrózu (odumieranie) pečeňového tkaniva.
 
 Aplikáciu bylinky nájdete na stránkach tinktúry
-[Pestrec](/tinktury/pestrec), čajoviny [Pestrec
-mariánsky](/sip/caje/pestrec) a [Pečeňový](/sip/caje/pecenovy-u-caj) - U čaj, tiež
-elixíru [Diasan](/elixiry/diasan) a produkte
-[LiverAid](/sip/#p/liver-aid-with-silymarin).
+[Pestrec](../tinktury/pestrec), čajoviny [Pestrec
+mariánsky](../caje/pestrec) a [Pečeňový](../caje/pecenovy-u-caj) - U čaj, tiež
+elixíru [Diasan](../elixiry/diasan) a produkte
+[LiverAid](../procvi/liver-aid-with-silymarin).
 
 ### 
 

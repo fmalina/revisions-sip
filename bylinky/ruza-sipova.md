@@ -3,11 +3,11 @@ Ruža šípová
 
 ### Šípka, Rosa Canina L., Psie bobule (šípka, šípkový ker)
 
-*Výskyt*: Ruža šípová je známa v celej Európe, svernej Afrike a na Strednom
+*Výskyt*: Ruža šípová je známa v celej Európe, svernej Afrike a na Strednom
 východe. Rastie v nížinách i vo výšších polohách a vyhľadáva lesné podrasty a
 okraje ciest. Ružu šípovú poznali už stredovekí Gréci ako prostriedok so
 sťahujúcimi účinkami a proti hnačke. Šípky (plody) údajne pôsobili aj proti
-besnote a tak im je daný ľudový názov psie bobule. Arabi zasa využívali hálku -
+besnote a tak im je daný ľudový názov psie bobule. Arabi zasa využívali hálku -
 guľovitú hrčku na listoch ruže spôsobenú škodlivým hmyzom - pripisovali jej
 adstringentné a povzbudzujúce účinky.
 
@@ -22,4 +22,4 @@ veľmi účinný glykozid a vanilín v nažkách. Šípky sú aj zdrojom provita
 *Upozornenie*: Vzhľadom na stratu vitamínu C počas tepelnej úpravy by sa šípky
 mali konzumovať v čerstvom stave a nevariť dlhšie ako päť minút.
 
-Aplikácia rastlinky je v čaji [Šípkový](/sip/caje/sipkovy-caj).
+Aplikácia rastlinky je v čaji [Šípkový](../caje/sipkovy-caj).

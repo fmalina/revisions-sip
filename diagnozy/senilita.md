@@ -22,10 +22,10 @@ vírusmi, postupujúca po nervovom systéme.
 Balíček odporučených prípravkov proti rozvoju senility
 ------------------------------------------------------
 
-* [Psyllium](/sip/caje/psyllium) vláknina
-* [Neuren](/sip/elixiry/neuren) elixír
-* [Ginkgo](/sip/tinktury/ginkgo) tinktúra
-* [Veronika](/sip/tinktury/veronika) tinktúra
-* [Pečeňový](/sip/caje/pecenovy-u-caj) - U čaj
-* [BCAA Liquid](/sip/produkty-CVI/bcaa-l-carnitin)
-* Olivový panenský olej; lisovaný za studena 1PL denne *(v obchodnej sieti)*
+* [Psyllium](../caje/psyllium) vláknina
+* [Neuren](../elixiry/neuren) elixír
+* [Ginkgo](../tinktury/ginkgo) tinktúra
+* [Veronika](../tinktury/veronika) tinktúra
+* [Pečeňový](../caje/pecenovy-u-caj) - U čaj
+* [BCAA Liquid](../procvi/bcaa-l-carnitin)
+* Olivový panenský olej; lisovaný za studena 1PL denne *(v obchodnej sieti)*

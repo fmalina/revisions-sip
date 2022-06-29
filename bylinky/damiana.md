@@ -36,9 +36,9 @@ slabosti, kŕčov a útlmu dýchania.
 
 *Zaujímavosť*: Napriek tomu, že sa *damiana* v našich herbároch bežne neuvádza,
 bola použítá v priemyselne vyrábaných čajovinách v ČSSR, napr. v prípravku
-Fidesan; v návode na použitie bolo uvedené: *"aplikovať pri všeobecnej slabosti,
+Fidesan; v návode na použitie bolo uvedené: *"aplikovať pri všeobecnej slabosti,
 prepracovaní, rekonvalescencii, ..."*
 
 Aplikácia bylinky je v produktoch
-[VitalWoman](/sip/produkty-CVI/vital-woman) a
-[VitalMan](/sip/produkty-CVI/vital-man).
+[VitalWoman](../procvi/vital-woman) a
+[VitalMan](../procvi/vital-man).

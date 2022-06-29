@@ -31,8 +31,8 @@ starogréckych rituáloch a tiež Arabi využívali jeho liečivé účinky. Če
 rozmarínové prúty sú od pradávna slávnostnou ozdobou svadobčanov.
 
 Aplikácia bylinky je v produkte [Telové
-sviečky](/sip/#p/telove-sviecky), čaj [Pre
-ženy](/sip/#p/pre-zeny) a produktoch [Gentleman´s
-Pride](/sip/#p/gentlemans-pride) a [Rehydrating
-Toner](/sip/#p/rehydrating-toner).
+sviečky](../sviecky/telove-sviecky), čaj [Pre
+ženy](../caje/pre-zeny) a produktoch [Gentleman´s
+Pride](../proflp/gentlemans-pride) a [Rehydrating
+Toner](../proflp/rehydrating-toner).
 

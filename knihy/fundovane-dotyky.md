@@ -14,7 +14,7 @@ syndrómov. Hľadajú príčiny vzniku a faktory podieľajúce sa na trvaní bol
 Venujú sa povahe a procesu palpácie (pohmatu), ktorý je ústredným faktorom
 zhodnotenia stavu pacienta a je nevyhnutný na nápravu. Vysvetľujú mechanizmus
 spúšťových bodov (triggerpoints) - viac v knihe [Spúšťové
-body](/sip/knihy/spustacove-body) od autorky Donny Finandovej,
+body](../knihy/spustacove-body) od autorky Donny Finandovej,
 súčasne s ich umiestnením na svale. Ponúkajú preťahovacie a posilňovacie
 cvičenia, ktoré vyhovujú jednotlivým fázam procesu liečby.
 

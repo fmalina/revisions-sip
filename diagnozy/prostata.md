@@ -22,8 +22,8 @@ bedrovej časti chrbta.
 Balíček odporučených prípravkov na prostatu
 -------------------------------------------
 
-* [Prostaten](/sip/elixiry/prostaten) elixír
-* [Vŕbovka](/sip/tinktury/vrbovka) (Vrbovka)
-* [Zlatobyľ](/sip/#p/zlatobyl) (Celík)
-* [Pre pánov](/sip/caje/pre-panov) čaj
-* [Rooibos](/sip/#p/rooibos) čaj
+* [Prostaten](../elixiry/prostaten) elixír
+* [Vŕbovka](../tinktury/vrbovka) (Vrbovka)
+* [Zlatobyľ](../tinktury/zlatobyl) (Celík)
+* [Pre pánov](../caje/pre-panov) čaj
+* [Rooibos](../caje/rooibos) čaj

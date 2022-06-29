@@ -5,10 +5,10 @@ Levanduľa (Levandule)
 
 Tinktúra **Levanduľa** priaznivo ovplyvňuje funkciu podžalúdkovej žľazy. Pôsobí
 proti nadúvaniu a žalúdočným problémom. Tlmí
-[migrenózne](/sip/diagnozy/migrena) bolesti a upravuje psychické
+[migrenózne](../diagnozy/migrena) bolesti a upravuje psychické
 problémy a nespavosť.
 
-[Viac informácií](/sip/bylinky/levandula-lekarska) o bylinke…
+[Viac informácií](../bylinky/levandula-lekarska) o bylinke…
 
 Upozornenie: *Výrobok nie je určený pre deti do 3 rokov. Dávkovanie pre
 dospelých 3 x 15 kvapiek za deň; pre deti od troch rokov 3 x 5 kvapiek za deň

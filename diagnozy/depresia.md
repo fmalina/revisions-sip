@@ -26,9 +26,9 @@ hormonálne zmeny, bolesti hlavy, strata hmotnosti).
 Balíček odporučených prípravkov proti depresii
 ----------------------------------------------
 
-* [Neuren](/sip/elixiry/neuren) elixír
-* [Tonizačná zmes](/sip/tinktury/zmes-tonizacna)
-* [Všehojovec](/sip/tinktury/vsehojovec) (Eleuterokok)
-* [MU](/sip/caje/mu) čaj; aplikovať maximálne dve balenia
-* [Pozdrav z Křtin](/sip/caje/pozdrav-z-krtin) čaj
-* [Valeriána](/sip/tinktury/valeriana) (Kozlík); *pred spaním*
+* [Neuren](../elixiry/neuren) elixír
+* [Tonizačná zmes](../tinktury/zmes-tonizacna)
+* [Všehojovec](../tinktury/vsehojovec) (Eleuterokok)
+* [MU](../caje/mu) čaj; aplikovať maximálne dve balenia
+* [Pozdrav z Křtin](../caje/pozdrav-z-krtin) čaj
+* [Valeriána](../tinktury/valeriana) (Kozlík); *pred spaním*

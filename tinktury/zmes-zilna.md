@@ -7,10 +7,10 @@ sietnice a očného pozadia. Znižuje únavu dolných končatín.
 
 Zloženie tinktúry:
 
-* čerstvý plod [pagaštanu konského](/sip/bylinky/pagastan-konsky)
-* vňať [pohanky jedlej](/sip/bylinky/pohanka-jedla)
-* vňať [komonice lekárskej](/sip/bylinky/komonica-lekarska)
-* vňať [ruty voňavej](/sip/bylinky/ruta-vonava).
+* čerstvý plod [pagaštanu konského](../bylinky/pagastan-konsky)
+* vňať [pohanky jedlej](../bylinky/pohanka-jedla)
+* vňať [komonice lekárskej](../bylinky/komonica-lekarska)
+* vňať [ruty voňavej](../bylinky/ruta-vonava).
 
 Upozornenie: *Výrobok nie je určený pre deti. Dávkovanie pre dospelých 3 x 15
 kvapiek za deň; riediť v nemineralizovanej vode 20 ml na jednu dávku. Potom sa

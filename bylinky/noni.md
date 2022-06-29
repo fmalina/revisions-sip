@@ -22,7 +22,7 @@ charakteristickú chuť, ktorú určujú vysoké koncentrácie účinných láto
 v malých dávkach a odporúčame riediť iným džúsom alebo vodou. Polynézania
 používali *Noni* na dezinfekciu, pri liečbe črevných ťažkostí a proti parazitom,
 liečili s ním infekcie a zápaly. Neuveriteľne široké použitie *Noni* dnes
-vysvetľujú vedecké výskumy. Výsledkom je mimoriadne dlhý zoznam rôznych
+vysvetľujú vedecké výskumy. Výsledkom je mimoriadne dlhý zoznam rôznych
 zlúčenín, ktoré majú priaznivý vplyv na ľudské zdravie. *Noni* obsahuje látky,
 ktoré ničia kvasinky v črevách, látky, ktoré pôsobia antibakteriálne a dokonca
 aj proti nádorom a vredom. Vďaka látke zvanej *xeronin* môže *Noni* pozitívne
@@ -34,7 +34,7 @@ systému. T-lymfocyty zabíja antigény, teda látky, ktoré sú telu cudzie.
 *Uplatnenie*: Šťava z plodov *Noni* je skrátka nesmierne bohatá na účinné látky,
 pričom mnohé z nich súčasná medicína ani dokonale nepozná. Je zrejmé, že
 účinnosť šťavy je daná práve komplexnosťou týchto látok, ktoré sa svojím
-pôsobením v tele vzájomne dopĺňajú. Šťava z plodov *Noni* pôsobí podporne najmä
+pôsobením v tele vzájomne dopĺňajú. Šťava z plodov *Noni* pôsobí podporne najmä
 na:
 
 * depresívne stavy, výkyvy nálad, migrény
@@ -109,5 +109,5 @@ stanovená jednak odporúčaná denná alebo terapeutická dávka.
 dojčiacim ženám a pacientom pri ochorení pečene.
 
 Aplikácia Noni je v prípravku [Polinesian
-Noni](/sip/#p/polinesian-noni).
+Noni](../procvi/polinesian-noni).
 

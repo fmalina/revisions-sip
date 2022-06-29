@@ -37,9 +37,9 @@ pretože v 30. rokoch 19. storočia práve z tužobníka boli izolované protiz�
 chemické zlúčeniny salicyláty a v roku 1980 sa objavil prvý patent na liek
 nazvaný "aspirin", ktorého meno bolo odvodené zo pôvodného latinského názvu
 (*a-spirea* - Spiraea ulmaria). Ďalej bylinke sú pripisované aj *magické* účinky
-na vlastnosti, pozitívne správanie sa jedinca, ako sú brať a dávať, pripustiť
-blízkosť iného človeka, veľkodušnosť, otvorenosť voči novému a
-rozdielnemu, vnútornú dobrotu a tolerantnosť a schopnosť vyjadrovať pocity.
+na vlastnosti, pozitívne správanie sa jedinca, ako sú brať a dávať, pripustiť
+blízkosť iného človeka, veľkodušnosť, otvorenosť voči novému a
+rozdielnemu, vnútornú dobrotu a tolerantnosť a schopnosť vyjadrovať pocity.
 Túžobník brestový patril vždy medzi menej známe byliny až do doby, čo ho objavil
 Dr. Priessnitz a použil ho ako liek proti besnote. Po dôkladnom preskúmaní tejto
 rastliny sa zistilo, že skutočne dokáže do určitej miery ničiť pôvodcu besnoty.
@@ -49,6 +49,6 @@ malé deti. Pri dlhodobom používaní môže viesť k problémom so žalúdkom 
 črevami.
 
 Aplikáciu bylinky nájdete na stránkach tiknktúr
-[Túžobník](/tinktury/tuzobnik) a čaju
-[Bronchiol](/sip/caje/bronchiol).
+[Túžobník](../tinktury/tuzobnik) a čaju
+[Bronchiol](../caje/bronchiol).
 

@@ -19,5 +19,5 @@ priaznivo pôsobí na imunitný systém organizmu. Nezanedbateľná je aj skuto�
 že má priaznivé protiplesňové účinky
 
 Aplikáciu bylinky nájdete na stránke tinktúry
-[Karbinec](/tinktury/karbinec).
+[Karbinec](../tinktury/karbinec).
 

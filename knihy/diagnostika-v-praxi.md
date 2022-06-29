@@ -16,7 +16,7 @@ bohato ilustrovaná obrázkami a fotografiami.
 
 Autor knihy je partnerom našej spoločnosti a skutočná “diagnostika v praxi” je
 Vám k dispozícii podľa harmonogramu [konzultácii o zdravotnom
-stave](/sip/konzultacie).
+stave](../konzultacie).
 
 V roku 2007 vyšlo druhé prepracované a rozšírené (o nové skúsenosti a fotografie
 reálu) vydanie tejto knihy.

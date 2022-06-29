@@ -8,7 +8,7 @@ Upokojuje búšenie srdca, bolesti hlavy a zlepšuje spánok. Je vhodná proti
 žalúdočnej neuróze, črevným problémom, proti nadúvaniu a kŕčom. Priaznivo
 ovplyvňuje štítnu žľazu.
 
-[Viac onformácií](/sip/bylinky/valeriana-lekarska) o bylinke…
+[Viac onformácií](../bylinky/valeriana-lekarska) o bylinke…
 
 Upozornenie: *Výrobok nie je určený pre deti. Dávkovanie pre dospelých 3 x 15
 kvapiek za deň; riediť v nemineralizovanej vode 20 ml na jednu dávku. Potom sa

@@ -45,9 +45,9 @@ reagenciou.
 Balíček odporučených prípravkov proti ekzému
 --------------------------------------------
 
-* [Čistiaca](/sip/tinktury/zmes-cistiaca) zmes tinktúra
-* [Ľubovník](/sip/tinktury/lubovnik)  (Třezalka) tinktúra
-* [Dermasan](/sip/elixiry/dermasan) elixír
-* [Ľadvinový](/sip/caje/ladviny) čaj
-* [Psyllium](/sip/caje/psyllium) vláknina
+* [Čistiaca](../tinktury/zmes-cistiaca) zmes tinktúra
+* [Ľubovník](../tinktury/lubovnik)  (Třezalka) tinktúra
+* [Dermasan](../elixiry/dermasan) elixír
+* [Ľadvinový](../caje/ladviny) čaj
+* [Psyllium](../caje/psyllium) vláknina
 * Olivový olej panenský 1PL - v obchodnej sieti

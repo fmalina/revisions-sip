@@ -11,11 +11,11 @@ prostriedok pri liečbe dermatóz a alergií.
 
 Obsahuje bylinky:
 
-* [jablčník obyčajný](/sip/bylinky/jablcnik-obycajny),
-* [dúška materina](/sip/bylinky/duska-materina),
-* [lipkavec syridlový](/sip/bylinky/lipkavec-syridlovy),
-* [pestrec mariánsky](/sip/bylinky/pestrec-mariansky),
-* [benedikt lekársky](/sip/bylinky/benedikt-lekarsky).
+* [jablčník obyčajný](../bylinky/jablcnik-obycajny),
+* [dúška materina](../bylinky/duska-materina),
+* [lipkavec syridlový](../bylinky/lipkavec-syridlovy),
+* [pestrec mariánsky](../bylinky/pestrec-mariansky),
+* [benedikt lekársky](../bylinky/benedikt-lekarsky).
 
 Upozornenie: *Výrobok nie je určený pre deti. Dávkovanie pre dospelých 3 x 15
 kvapiek za deň; riediť v nemineralizovanej vode 20 ml na jednu dávku. Potom sa

@@ -40,5 +40,5 @@ ambrózii, rastlina svojou vôňou pripomína ambróziu).
 jedovatá vo veľkých dávkach, používa sa sólovo len zriedkavo.
 
 Aplikáciu bylinky nájdete v protiparazitickom produkte
-[ParaProteX](/sip/#p/paraprotex).
+[ParaProteX](../procvi/paraprotex).
 

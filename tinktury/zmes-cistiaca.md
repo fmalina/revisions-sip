@@ -6,12 +6,12 @@ výmenu.
 
 Tinktúra je macerovaná z nasledovných byliniek:
 
-* [stavikrvu vtáčieho](/sip/bylinky/stavikrv-vtaci)
-* [ľubovníka bodkovaného](/sip/bylinky/lubovnik-bodkovany)
-* [zlatobyle obyčajnej](/sip/bylinky/zlatobyl-obycajna)
-* [túžobníka brestového](/sip/bylinky/tuzobnik-brestovy)
-* [púpavy lekárskej](/sip/bylinky/pupava-lekarska)
-* [brezy previsnutej](/sip/bylinky/breza-previsnuta).
+* [stavikrvu vtáčieho](../bylinky/stavikrv-vtaci)
+* [ľubovníka bodkovaného](../bylinky/lubovnik-bodkovany)
+* [zlatobyle obyčajnej](../bylinky/zlatobyl-obycajna)
+* [túžobníka brestového](../bylinky/tuzobnik-brestovy)
+* [púpavy lekárskej](../bylinky/pupava-lekarska)
+* [brezy previsnutej](../bylinky/breza-previsnuta).
 
 Upozornenie: *Výrobok nie je určený pre deti do 3 rokov. Dávkovanie pre
 dospelých 3 x 15 kvapiek za deň; pre deti od troch rokov 3 x 5 kvapiek za deň

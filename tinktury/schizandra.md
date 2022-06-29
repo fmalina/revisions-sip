@@ -9,7 +9,7 @@ vhodná pri DM, znižuje cukor v krvi. Zlepšuje kvalitu videnia a zrakovú
 adaptáciu na tmu. Chráni pečeň, zlepšuje činnosť žalúdka a čriev. Zlepšuje
 psychickú a fyzickú odolnosť organizmu.
 
-[Viac informácií](/sip/bylinky/schizandra-cinska) o bylinke…
+[Viac informácií](../bylinky/schizandra-cinska) o bylinke…
 
 Upozornenie: *Výrobok nie je určený pre deti do 3 rokov. Dávkovanie pre
 dospelých 3 x 15 kvapiek za deň; pre deti od troch rokov 3 x 5 kvapiek za deň

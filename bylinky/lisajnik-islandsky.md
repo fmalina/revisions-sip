@@ -22,5 +22,5 @@ zvyšuje odolnosť organizmu. V našej ponuke čaj odporúčame pripravovať ako
 alebo odvar.
 
 Aplikáciu bylinky nájdete v čajovine [Lišajník
-islandský](/sip/caje/lisajnik-islandsky).
+islandský](../caje/lisajnik-islandsky).
 

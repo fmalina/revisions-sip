@@ -11,5 +11,5 @@ kozmetičiek, kaderníc, padikérok, sociálnych pracovníkov, ošetrovateľov,
 osobných asistentov pre handykepovaných a ďalších.
 
 V našej ponuke je od autora ďalšia kniha [Dotknite sa
-seba](/sip/knihy/dotknite-sa-seba).
+seba](../knihy/dotknite-sa-seba).
 

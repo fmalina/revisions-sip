@@ -7,12 +7,12 @@ Tinktúra **Zlatobyľ** je veľmi účinné diuretikum (odvodňovanie organizmu)
 sa pri všetkých chorobách ľadvín a močových ciest, pri zápaloch a zväčšení
 prostaty. Podporuje látkovú výmenu a preto sa používa i pri liečbe kožných
 ochorení. Má dezinfekčné a protizápalové účinky. Má synergický účinok s
-tinktúrami [vrbovka](/sip/tinktury/vrbovka)
-málokvetá, [lipkavec](/sip/tinktury/lipkavec)
-syridlový a [tužobník](/sip/tinktury/tuzobnik)
+tinktúrami [vrbovka](../tinktury/vrbovka)
+málokvetá, [lipkavec](../tinktury/lipkavec)
+syridlový a [tužobník](../tinktury/tuzobnik)
 brestový.
 
-[Viac informácií](/sip/bylinky/zlatobyl-obycajna) o bylinke…
+[Viac informácií](../bylinky/zlatobyl-obycajna) o bylinke…
 
 Upozornenie: *Výrobok nie je určený pre deti do 3 rokov. Dávkovanie pre
 dospelých 3 x 15 kvapiek za deň; pre deti od troch rokov 3 x 5 kvapiek za deň

@@ -1,20 +1,20 @@
 Telové sviečky
 ==============
 
-Aplikácia **telových [čakrových](/sip/cakry/ "čakry viac info") sviečok**
+Aplikácia **telových [čakrových](../cakry/ "čakry viac info") sviečok**
 je starodávna alternatívna liečebná (*preventívna*) metóda.
-**Telové sviečky** (tiež z dielne firmy Gizely Halászovej) sú väčšie ako ušné sviečky, sa
+**Telové sviečky** (tiež z dielne firmy Gizely Halászovej) sú väčšie ako ušné sviečky, sa
 skladajú z bavlnenej látky, ktorá je zmotaná do kuželového tvaru a je nasiaknutá
 čistým včelím voskom a 100% éterickým olejom.
 
 *Oblasťou použitia podľa prídavnej silice v telovej sviečke sú:*
 
-* **[citrónová](/sip/bylinky/citronovnik)** silica - na tráviace ťažkosti, protikŕčové účinky,
-* **[čajovníková](/sip/bylinky/cajovnik-cinsky)** silica - prírodné antibiotikum, proti mykózam,
-* **[eukalyptová](/sip/bylinky/eukalyptus)** silica - na zápalové ochorenia dýchacích ciest, nádchu, kašeľ a astmu,
-* **[levandulová](/sip/bylinky/levandula-lekarska)** silica - na migrény a reumatizmus,
-* **[muškátová](/sip/bylinky/muskat)** silica - na menštruačné problémy,
-* **[rozmarínová](/sip/bylinky/rozmarin-lekarsky)** silica - na reumatizmus a svalové bolesti,
+* **[citrónová](../bylinky/citronovnik)** silica - na tráviace ťažkosti, protikŕčové účinky,
+* **[čajovníková](../bylinky/cajovnik-cinsky)** silica - prírodné antibiotikum, proti mykózam,
+* **[eukalyptová](../bylinky/eukalyptus)** silica - na zápalové ochorenia dýchacích ciest, nádchu, kašeľ a astmu,
+* **[levandulová](../bylinky/levandula-lekarska)** silica - na migrény a reumatizmus,
+* **[muškátová](../bylinky/muskat)** silica - na menštruačné problémy,
+* **[rozmarínová](../bylinky/rozmarin-lekarsky)** silica - na reumatizmus a svalové bolesti,
 * **bez silíc** - na všeobecné použitie preventívne a pre alergikov na silice.
 
 *Príklady použitia telovej sviečky:*
@@ -47,7 +47,7 @@ liečené miesto sa uzdravuje a regeneruje do stavu zdravia.
 Terapeutické použitie odporúčame 5 až 7 dní za sebou a po 2 až 3 dňoch proces
 zopakovať. Aplikácia nespôsobuje žiadnu bolesť ani nepríjemné pocity výrazného
 tepla od horiacej sviečky. Pri ušných problémoch používajte [ušné
-sviečky](/sip/aplikacia-usnych-sviecok). Vždy si prečítajte
+sviečky](../aplikacia-usnych-sviecok). Vždy si prečítajte
 pozorne návod na aplikáciu.
 
 *Upozornenie!* Neodporúčame aplikovať pri pooperačných stavoch, pri krvácavosti,
@@ -63,32 +63,32 @@ klinike), Bytča*
 ### Eukalyptová silica
 
 Proti zápalom dýchacích ciest, nádche, proti astme a kašľu je vhodná telová
-sviečka s [eukalyptovou](/sip/bylinky/eukalyptus) silicou.
+sviečka s [eukalyptovou](../bylinky/eukalyptus) silicou.
 
 ### Levanduľová silica
 
-Telové sviečky s [levanduľovou](/sip/bylinky/levandula-lekarska)
+Telové sviečky s [levanduľovou](../bylinky/levandula-lekarska)
 silicou sú určené proti migrénam a reumatickým bolestiam.
 
 ### Čajovníková silica
 
 Súprava telových sviečok s
-[čajovníkovou](/sip/bylinky/cajovnik-cinsky) silicou je určená proti
+[čajovníkovou](../bylinky/cajovnik-cinsky) silicou je určená proti
 mykózam a pôsobí ako prírodné antibiotikum.
 
 ### Citrónová silica
 
-Súprava telových sviečok s [citrónovou](/sip/bylinky/citronovnik)
+Súprava telových sviečok s [citrónovou](../bylinky/citronovnik)
 silicou je určená na odstránenie tráviacich problémov a proti kŕčom.
 
 ### Muškátová silica
 
-Telové sviečky s [muškátovou](/sip/bylinky/muskat) silicou sú určené
+Telové sviečky s [muškátovou](../bylinky/muskat) silicou sú určené
 proti predmenštruačným bolestiam PMS.
 
 ### Rozmarínová silica
 
-Telové sviečky s [rozmarínovou](/sip/bylinky/rozmarin-lekarsky)
+Telové sviečky s [rozmarínovou](../bylinky/rozmarin-lekarsky)
 silicou sú určené proti reumatickým a svalovým bolestiam.
 
 ### Bez silíc

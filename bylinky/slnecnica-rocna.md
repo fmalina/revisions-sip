@@ -32,7 +32,7 @@ jav, ktorý sa o *slnečnici* traduje. V skutočnosti sa vyskytuje len u pukov
 (nerozvinuté kvetenstvo). Pri východe slnka sa všetky *slnečnice* v tejto
 životnej fáze natáčajú na východ a postupne "*putujú*" po oblohe na západ. V
 noci sa opäť vracajú na východiskové pozície. Predpokladáme, že
-pripomínať *slnečnice* ako inšpiračný materiál pre obraz Van Gogha je liatie
+pripomínať *slnečnice* ako inšpiračný materiál pre obraz Van Gogha je liatie
 vody do mora.
 
 Aplikácia rastlinky je na stránke Slniečkový čaj.

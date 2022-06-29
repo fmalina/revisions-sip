@@ -15,21 +15,21 @@ síra, horčík, sodík, či železo. Povzbudzujúce účinky na centrálny nerv
 schizandry čínskej využívali už starí Číňania. Táto rastlina má celý rad
 pozitívnych účinkov.
 
-*Uplatnenie*: Má vplyv na centrálny nervový systém, rozomleté semená znižovali
+*Uplatnenie*: Má vplyv na centrálny nervový systém, rozomleté semená znižovali
 experimentálne navodenú neurózu, schyzandrín u experimantálnych myší výrazne
 predlžoval dobu spánku. Ďalej má vplyv na kardiovaskulárny systém - stimuluje
 krvný obeh a súčasne zlepšuje vlastnosti krvi a má vplyv na dýchací systém.
 Zistil sa antitusický účinok, ktorý bol známy už v dávnej japonskej klasickej
-medicíne - vplyv na tráviaci systém (potláča žaludočné ulcerácie, spôsobené
+medicíne - vplyv na tráviaci systém (potláča žaludočné ulcerácie, spôsobené
 stresom, inhibuje žaludočnú sekréciu), pôsobí antiulcerózne   a má vplyv na
-pečeň. Má vplyv na metabolizmus, stimuluje rezorpciu fosforu, zvyšuje jeho obsah
+pečeň. Má vplyv na metabolizmus, stimuluje rezorpciu fosforu, zvyšuje jeho obsah
 v krvi a kumuláciu v mozgu a niektorých vnútorných orgánoch. Pozitívne sú účinky
 na oxidačné procesy v mozgu, pečeni a svaloch, urýchľuje metabolizmus lipidov,
 má anticholesterolemický efekt, čím brzdí rozvoj arteriosklerózy.
 
 Aplikáciu bylinky nájdete na stránke tinktúry
-[Schizandra](/tinktury/schizandra), na stránkach elixírov
-[Venavit](/elixiry/venavit), [Stimulen](/elixiry/stimulen) a
-[Cardolen](/elixiry/cardolen), v produkte [Forever Ginkgo
-Plus](/sip/#p/forever-ginkgo-plus).
+[Schizandra](../tinktury/schizandra), na stránkach elixírov
+[Venavit](../elixiry/venavit), [Stimulen](../elixiry/stimulen) a
+[Cardolen](../elixiry/cardolen), v produkte [Forever Ginkgo
+Plus](../proflp/forever-ginkgo-plus).
 

@@ -4,7 +4,7 @@
 #### Spořýš lékařský, Verbena officinalis L., Holubia zelinka (verbina, bosorkina zelina)
 
 *Výskyt*: Vyskytuje sa vedľa ciest okolo priekop, na hrádzach a kamenisto
-- štrkovitých brehoch potokov, rastie na úhoroch aj ako burina v záhradách a
+- štrkovitých brehoch potokov, rastie na úhoroch aj ako burina v záhradách a
 dvoroch. Rastie na čerstvo vlhkých piesčito hlinitých až hlinitých pôdach,
 bohatých na živiny.
 
@@ -27,5 +27,5 @@ rastlinu.
 
 *Upozornenie:* Nebezpečný pre tehotné ženy!
 
-Aplikáciu bylinky nájdete na stránke elixíru [Hypnosan](/elixiry/hypnosan).
+Aplikáciu bylinky nájdete na stránke elixíru [Hypnosan](../elixiry/hypnosan).
 

@@ -22,14 +22,14 @@ ak poškodenia vznikli konzumáciou chemikálií.
 
 Zmes obsahuje:
 
-* [japonský petržlen](/sip/#p/petrzlen-japonsky),
-* [pomaranč](/sip/#p/citronovnik-pomarancovy) (kôra),
-* [cyprus vždyzelený](/sip/bylinky/cyprus-vzdyzeleny),
-* [škoricovník](/sip/#p/skoricovnik-cejlonsky),
-* [broskyňa](/sip/#p/broskyna-obycajna) (jadro),
-* [ďumbier lekársky](/sip/bylinky/dumbier-lekarsky),
-* [pivonka lekárska](/sip/#p/pivonka-lekarska) (koreň),
-* [ženšen pravý](/sip/#p/zensen-pravy)
+* [japonský petržlen](../bylinky/petrzlen-japonsky),
+* [pomaranč](../bylinky/citronovnik-pomarancovy) (kôra),
+* [cyprus vždyzelený](../bylinky/cyprus-vzdyzeleny),
+* [škoricovník](../bylinky/skoricovnik-cejlonsky),
+* [broskyňa](../procvi/broskyna-obycajna) (jadro),
+* [ďumbier lekársky](../bylinky/dumbier-lekarsky),
+* [pivonka lekárska](../bylinky/pivonka-lekarska) (koreň),
+* [ženšen pravý](../bylinky/zensen-pravy)
 * a japonské byliny.
 
 *Upozornenie*: Pri aplikácii tohto druhu čaju odporúčame maximálne ***dve

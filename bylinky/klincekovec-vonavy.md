@@ -13,7 +13,7 @@ Plod je vajcovitá bobuľa obsahujúca jedno alebo dve semená.
 *Uplatnenie*: Klinčeky sa považovali za všeliek po celé stáročia. V Číne sa
 používali v období dynastie Han na vyplachovanie úst, čo miernilo bolesti zubov.
 Klinčeky majú výraznú vôňu osobitného charakteru, korenistú a štipľavú chuť. Sú
-koreninou aj liečivom. V zubnom lekárstve sa klinčekový olej používa ako
+koreninou aj liečivom. V zubnom lekárstve sa klinčekový olej používa ako
 významné antiseptikum. Používajú sa na prípravu horkých žalúdočných likérov,
 vareného vína, známeho slovenského hriateho, punčov, ovocných štiav a kompótov.
 Aromatizuje sa ním zavárané ovocie. Používajú sa aj do červenej kapusty, pri
@@ -29,5 +29,5 @@ pred ohováraním. Náhrdelník z klinčekov, navlečených na čiernej niti, sa
 na kolísku dieťaťa, aby bolo v bezpečí.
 
 Aplikácia bylinky je v protiparazitickom produkte
-[ParaProteX](/sip/produkty-CVI/paraprotex) a čaji
-[Aloe Blossom Herbal](/sip/produkty-FLP/aloe-blossom-herbal-tea).
+[ParaProteX](../procvi/paraprotex) a čaji
+[Aloe Blossom Herbal](../proflp/aloe-blossom-herbal-tea).

@@ -26,10 +26,10 @@ kratšej pauze aj dlhodobo.
 
 *Zloženie*:
 
-* [čučoriedka obyčajná](/sip/bylinky/brusnica-cucoriedkova) (brusnica čučoriedková) extrakt z čerstvých plodov,
-* [ostružina černicová](/sip/bylinky/ostruzina-cernicova),
-* [ríbezľa čierna](/sip/bylinky/ribezla-cierna),
-* [arónia čierna](/sip/bylinky/aronia-cierna) (temnoplodec čierny),
+* [čučoriedka obyčajná](../bylinky/brusnica-cucoriedkova) (brusnica čučoriedková) extrakt z čerstvých plodov,
+* [ostružina černicová](../bylinky/ostruzina-cernicova),
+* [ríbezľa čierna](../bylinky/ribezla-cierna),
+* [arónia čierna](../bylinky/aronia-cierna) (temnoplodec čierny),
 * a ďalej vitamíny A, B, C, E, P, PP, organické kyseliny, enzýmy, flavonoidy (isoquercitín, rutín), draslík, jód, beta karotén, cukry a ďalšie dôležité látky,
 * alkohol 43 %.
 

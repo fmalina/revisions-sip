@@ -17,7 +17,7 @@ Garcinia sú známe pre gumové živice. Nahnedlé až žlté xantony (ako je ma
 sa používa ako preháňadlo pre svoj očistný účinok, ale najčastejšie - aspoň v
 minulosti - ako pigment. Môžu obsahovať značné množstvo hydroxycitronovej
 kyseliny (*HCA - pôsobí ako sepervízor enzýmu malonyl-CoA; utlmuje chuť do
-jedla, redukuje príjem potravy, inhibuje tvorbu tuku a cholesterolu*). HCA je
+jedla, redukuje príjem potravy, inhibuje tvorbu tuku a cholesterolu*). HCA je
 mierne jedovatá a dokonca môže zničiť pri dlhšom používaní semenníky. Výťažok
 bol vyhlasovaný ako účinný prostriedok na zastavenie vírusu Ebola. Semená
 rastliny sa používajú v ľudovom liečiteľstve. V západnej Afrike sa aplikuje na
@@ -26,5 +26,5 @@ predpisovaný na opuchy, meškanie menštruácie, zápchy a črevné parazity. B
 tiež používané na reumatizmus a črevné sťažností.
 
 Aplikácia rastliny je v produkte [Slim
-Formula](/sip/#p/slim-formula).
+Formula](../procvi/slim-formula).
 

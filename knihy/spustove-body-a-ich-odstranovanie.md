@@ -12,7 +12,7 @@ Vysvetľuje, ktoré konkrétne aktivity a polohy spôsobujú vznik spúšťačov
 a radí, ako ich uvoľniť ošetrením.
 
 V našej ponuke ja ďalšia kniha v spoluautorstve s názvom [Fundované
-dotyky](/sip/knihy/fundovane-doteky).
+dotyky](../knihy/fundovane-doteky).
 
 Donna Finandová, L.Ac., L.M.T. sa venuje akupunktúre a masážam so špeciálnym
 zameraním na myofasciálnu meridiánovú terapiu a uvoľňovacie technológie. Žije v

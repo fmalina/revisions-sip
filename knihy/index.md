@@ -8,6 +8,3 @@ pomôcť sa ďalej vzdelávať, ale aj pomôcť hľadať odpovede na otázky nep
 Ponuku kníh z českých vydavateľstiev neustále **obnovujeme** o najpútavejšie a
 aj ťažko dostupné novinky v obore. Sme radi, že sa Vám knihy páčia, i keď sú v
 cudzom jazyku (***češtine***).
-
-Vyberte si svoju knihu a vložte ju do košíka. Knihy a ostatné produkty Vám
-dodáme poštou na dobierku.

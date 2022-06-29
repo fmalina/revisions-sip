@@ -42,7 +42,7 @@ ročne, najlepšie na jar a jeseň počas štyridsiatich dní, užívanie tejto 
 musia byť pravidelné, bez ďalších prestávok. *Ženšen* nie je vhodné užívať počas
 tehotenstva a dojčenia. Nie je tiež vhodný pre deti.
 
-Aplikácia bylinky je na stránke čaju [MU](/sip/#p/mu).
+Aplikácia bylinky je na stránke čaju [MU](../caje/mu).
 
 Photo (c) adaptogeny.cz
 

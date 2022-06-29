@@ -18,7 +18,7 @@ poruchy obličiek, nervové a svalové bolesti, artérioskleróza, tráviace ťa
 Balíček odporučených prípravkov proti dne
 -----------------------------------------
 
-* [Reumel](/sip/elixiry/reumel) elixír
-* [Túžobník](/sip/tinktury/tuzobnik) (Tužebník)
-* [Rooibos](/sip/caje/rooibos) čaj
-* [Ľadvinový](/sip/caje/ladviny) čaj
+* [Reumel](../elixiry/reumel) elixír
+* [Túžobník](../tinktury/tuzobnik) (Tužebník)
+* [Rooibos](../caje/rooibos) čaj
+* [Ľadvinový](../caje/ladviny) čaj

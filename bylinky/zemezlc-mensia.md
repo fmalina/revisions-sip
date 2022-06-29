@@ -28,5 +28,5 @@ kvalitnej spodnej vody.
 *Upozornenie*: Prekročenie odporučenej dávky môže najmä u detí vyvolať
 nevoľnosť, kŕče a vracanie!
 
-Aplikáciu bylinky nájdete na stránke čaje [Hlavabol](/sip/caje/hlavabol).
+Aplikáciu bylinky nájdete na stránke čaje [Hlavabol](../caje/hlavabol).
 

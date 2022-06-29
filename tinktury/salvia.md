@@ -8,7 +8,7 @@ nadmernému poteniu. Používa sa aj ako kloktadlo pri bolestiach v krku. Priazn
 pôsobí na látkovú výmenu. Napomáha znižovaniu hladiny cukru a pôsobí proti
 reumatizmu.
 
-[Viac informácií](/sip/bylinky/salvia-lekarska) o bylinke…
+[Viac informácií](../bylinky/salvia-lekarska) o bylinke…
 
 Upozornenie: *Výrobok nie je určený pre deti. Dávkovanie pre dospelých 3 x 15
 kvapiek za deň, riediť v nemineralizovanej vode 20 ml na jednu dávku. Potom sa

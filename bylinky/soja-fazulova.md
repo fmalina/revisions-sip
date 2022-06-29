@@ -49,9 +49,7 @@ znížiť fermentáciou), vzhľadom na vysoký obsah fytoestrogénov nie je konz
 s ochoreniami štítnej žľazy (*sójové* bôby obsahujú látku znižujúcu tvorbu
 tyroxínu).
 
-Aplikácia bylinky je na stránke [Super Soya
-Lecithin](/sip/#p/super-soya-lecithin),
-[Energy&Memory](/sip/#p/energy-memory), [Natural HGH
-Support](/sip/#p/natural-hgh-support) a
-[Choleston](/sip/#p/choleston).
+Aplikácia bylinky je na stránke [Super Soya Lecithin](../procvi/super-soya-lecithin),
+[Energy&Memory](../procvi/energy-memory), [Natural HGH Support](../procvi/natural-hgh-support) a
+[Choleston](../procvi/choleston).
 

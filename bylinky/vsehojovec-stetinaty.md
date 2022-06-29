@@ -40,7 +40,7 @@ nepocíti únavu ani vyčerpanie. Výhodou je, že nie sú zakázané ako doping
 látka. Kvapky sú vhodné aj pre vodičov, ktorých čaká náročná a dlhá cesta.
 *Upozornenie:* Neodporúčame užívať vo večerných hodinách (nespavosť), taktiež
 nevhodné pre tehotné ženy a pre ľudí s vysokým krvným tlakom.  Aplikáciu bylinky
-nájdete v elixíre [Hypnosan](/elixiry/hypnosan), tinktúre
-[Všehojovec](/tinktury/vsehojovec) a produkte
-[VitalMan](/sip/#p/vital-man).  ###
+nájdete v elixíre [Hypnosan](../elixiry/hypnosan), tinktúre
+[Všehojovec](../tinktury/vsehojovec) a produkte
+[VitalMan](../procvi/vital-man).  ###
 

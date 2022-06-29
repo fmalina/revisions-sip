@@ -30,5 +30,5 @@ Kolumbovej výpravy do západnej Indie. Lekár výpravy Dr. Chanca písal o stra
 domorodcov a o korení na ryby a vtákov pod názvom Agi alebo Aji. Meno má od
 prístavného mesta Cayenne.
 
-Aplikácia bylinky je v produkte [Smokerade](/sip/#p/smokerade).
+Aplikácia bylinky je v produkte [Smokerade](../procvi/smokerade).
 

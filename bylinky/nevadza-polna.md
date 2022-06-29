@@ -23,7 +23,7 @@ choroby, ale aj na podráždené a zapálené oči.
 Cheiróna, ktorý vychoval kráľovských synov, medzi nimi aj Achilla. Bol
 vychýreným znalcom liečivých bylín.
 
-Aplikáciu bylinky nijdete na stránkach čajov v [Sieste](/sip/caje/siesta).
+Aplikáciu bylinky nijdete na stránkach čajov v [Sieste](../caje/siesta).
 
 ### 
 

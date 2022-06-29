@@ -42,7 +42,7 @@ Hlavné smery pôsobenia *Aloe vera*
 
 A teraz nech sa páči, pozrite si a vyberte si z [produktov a doplnkov zdravej
 výživy s obsahom Aloe
-vera](/sip/produkty-FLP).
+vera](../proflp).
 
 Obsah živín v Aloe vera
 -----------------------

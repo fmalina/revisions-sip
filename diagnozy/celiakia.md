@@ -38,7 +38,7 @@ pľúc, reumatoidné ochorenia, niektoré ochorenia štítnej žľazy, Downov sy
 Balíček odporučených prípravkov proti celiakii
 ----------------------------------------------
 
-* [Psyllium](/sip/caje/psyllium) vláknina (aplikáciu preštudujte na tejto linke)
-* [Disbiosan](/sip/elixiry/disbiosan) elixír
-* [Žalúdok a črevá](/sip/caje/zaludok-creva) čaj
-* [BCAA](/sip/produkty-CVI/bcaa-l-carnitin) Liquid
+* [Psyllium](../caje/psyllium) vláknina (aplikáciu preštudujte na tejto linke)
+* [Disbiosan](../elixiry/disbiosan) elixír
+* [Žalúdok a črevá](../caje/zaludok-creva) čaj
+* [BCAA](../procvi/bcaa-l-carnitin) Liquid

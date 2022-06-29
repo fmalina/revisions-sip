@@ -15,5 +15,5 @@ Obsah tejto knihy je riešený veľmi zaujímavo, logicky členený do “očak�
 tématických celkov a skutočne čaká len na vás…
 
 V našej ponuke je ďalšia kniha od autora [Psychológia a dotykové
-povolania](/sip/knihy/psychologie-a-dotekova-povolani).
+povolania](../knihy/psychologie-a-dotekova-povolani).
 

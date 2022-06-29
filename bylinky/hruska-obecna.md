@@ -38,5 +38,5 @@ ako *hrušky* ušľachtilé. *Hrušky* majú malý obsah salicylátov a benzoano
 preto odporúčané do stravy pre lezúňov a alergikov.
 
 Aplikáciu extraktu nájdete na stránke produktu
-[Zenthonic](/sip/#p/zenthonic).
+[Zenthonic](../procvi/zenthonic).
 

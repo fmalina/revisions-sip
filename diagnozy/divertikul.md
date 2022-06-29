@@ -28,10 +28,10 @@ Patogenické rozdelenie divertikulov
 Balíček odporučených prípravkov proti divertikulu
 -------------------------------------------------
 
-* [Echinacea](/sip/tinktury/echinacea) (Třapatka) tinktúra
-* [Kapucínka](/sip/tinktury/kapucinka) (Lichořeřišnice) tinktúra
-* [Žalúdočná zmes](/sip/tinktury/zmes-zaludocna) tinktúra
-* [BCAA Liquid](/sip/produkty-CVI/bcaa-l-carnitin)
-* [Rooibos](/sip/caje/rooibos) čaj
-* [Psyllium](/sip/caje/psyllium) vláknina
-* [Sayonara](/sip/caje/sayonara) čaj
+* [Echinacea](../tinktury/echinacea) (Třapatka) tinktúra
+* [Kapucínka](../tinktury/kapucinka) (Lichořeřišnice) tinktúra
+* [Žalúdočná zmes](../tinktury/zmes-zaludocna) tinktúra
+* [BCAA Liquid](../procvi/bcaa-l-carnitin)
+* [Rooibos](../caje/rooibos) čaj
+* [Psyllium](../caje/psyllium) vláknina
+* [Sayonara](../caje/sayonara) čaj

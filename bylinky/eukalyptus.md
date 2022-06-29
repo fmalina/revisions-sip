@@ -21,7 +21,7 @@ listy stromu toxické, ale aj koaly radšej jedia listy staré, lebo koncentrác
 toxínov je v mladých výhonkoch a listoch. Je to veľmi aromatická, mentolovo
 voňajúca rastlina, ktorá prekrvuje, lokálne sťahuje a zlepšuje priedušnosť
 pokožky. Používa sa na liečbu plesní. U niekoho môže dôjsť k alergickým reakciám
-s následnými ekzémami. Blahovičníková silica je vhodná aj na lámavé a veľmi
+s následnými ekzémami. Blahovičníková silica je vhodná aj na lámavé a veľmi
 jemné vlasy, ktoré spevní a zväčší ich objem. Unaveným vlasom dodá lesk.
 Vyživuje, prekrvuje a regeneruje vlasovú pokožku. Blahovičník zbavuje organizmus
 precitlivenosti. Je dobrý pri melanchóliách, stavoch vyčerpanosti a duševných
@@ -40,7 +40,7 @@ podobnosti uzavretého kalicha, ktorý „skrýva“ semená a z gréčtiny sa u
 preklad *ευκάλυπτος*: *ευ* – krásne a *κάλυπτος* - dobré, skryté.
 
 Aplikácia rastliny je na stránke
-[Telové sviečky](/sip/sviecky/telove-sviecky) a
-[Ušné sviečky](/sip/sviecky/usne-sviecky) a v produktoch
-[Aloe First](/sip/produkty-FLP/aloe-first) a
-[Aloe Heat Lotion](/sip/produkty-FLP/aloe-heat-lotion).
+[Telové sviečky](../sviecky/telove-sviecky) a
+[Ušné sviečky](../sviecky/usne-sviecky) a v produktoch
+[Aloe First](../proflp/aloe-first) a
+[Aloe Heat Lotion](../proflp/aloe-heat-lotion).

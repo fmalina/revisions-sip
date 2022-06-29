@@ -1,7 +1,7 @@
 Púpava lekárska
 ===============
 
-#### Smetanka lékařská (Pampeliška lékařská), Taraxacum officinale WEB. et Wiggers., Mlieč (leví zubec, pampeliška, smotánka)
+#### Smetanka lékařská (Pampeliška lékařská), Taraxacum officinale WEB. et Wiggers., Mlieč (leví zubec, pampeliška, smotánka)
 
 *Výskyt*: Rastie ako najznámejšia burina sveta v záhradách, na dvoroch, poliach
 a pod. V Európe a krajinách mierneho podnebného pásma sa vyskytuje okolo tridsať
@@ -10,7 +10,7 @@ druhov.
 *Kvitne*: Od apríla.
 
 *Zber*: Zbierame celú rastlinu, teda koreň (august až október, resp. marec a
-apríl), vňať, listy (máj až október) a kvety. Suší sa na chladnom a tmavom
+apríl), vňať, listy (máj až október) a kvety. Suší sa na chladnom a tmavom
 mieste. Biele mlieko (latex) sa dnes už z rastlín neextrahuje.
 
 *Uplatnenie*: Farmakologické zložky púpavy nie sú ešte dostatočne vedecky
@@ -29,6 +29,6 @@ prsníkov.
 *Upozornenie*: Je nevhodná pre dojčiace matky (prienik horčiny do mlieka).
 
 Aplikáciu bylinky nájdete na stránke tinktúry
-[Púpava](/tinktury/pupava) a čaju
-[Cholestin](/sip/caje/cholestin-zlcnikovy).
+[Púpava](../tinktury/pupava) a čaju
+[Cholestin](../caje/cholestin-zlcnikovy).
 

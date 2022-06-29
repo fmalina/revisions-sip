@@ -20,14 +20,14 @@ hodín až tri dni). Odporúčame očkovanie (napríklad Tamiflu alebo po rade l
 a posilnenie imunitného systému doplnkami zdravej výživy.
 
 Proti chrípke neodporúčame liečbu antibiotikami, je bez efektu. Odporúča sa kľud
-na lôžku, tekutiny ([čaj](/#p/chripka-caj)), teplo, vitamíny a antipyretiká
+na lôžku, tekutiny ([čaj](../caje/chripka-caj)), teplo, vitamíny a antipyretiká
 (znižovanie horúčky – nie vždy nutné).
 
 Balíček odporučených prípravkov proti chrípke
 ---------------------------------------------
 
-* [čaj chrípka](/#p/chripka-caj)
-* [C 1000](/#p/c-1000) vitamín
-* [Forever Echinacea Supreme](/#p/forever-echinacea-supreme)
-* [Všehojovec](/#p/vsehojovec) (Eleuterokok) tinktúra
-* [Tužobník](/#p/tuzobnik) (Tužebník) tinktúra
+* [čaj chrípka](../caje/chripka-caj)
+* [C 1000](../procvi/c-1000) vitamín
+* [Forever Echinacea Supreme](../proflp/forever-echinacea-supreme)
+* [Všehojovec](../tinktury/vsehojovec) (Eleuterokok) tinktúra
+* [Tužobník](../tinktury/tuzobnik) (Tužebník) tinktúra

@@ -20,12 +20,12 @@ odhlieňovanie a odkašliavanie riedeným prieduškových sekrétov. Keďže maj
 antibiotické, protipliesňové a hemolytické účinky, sú vhodné na lokálnu
 aplikáciu. Silica sčasti pôsobí protireumaticky, nepochybne vďaka salicylovým
 derivátom. Rôzne prípravky z prvosienky jarnej majú mierne laxatívne účinky.
-Saponíny však zároveň zvyšujú krvný tlak a vyvolávajú kŕče. Perorálne sa užíva
+Saponíny však zároveň zvyšujú krvný tlak a vyvolávajú kŕče. Perorálne sa užíva
 proti akútnemu i pretrvávajúcemu kašľu. Aplikuje sa lokálne na kožné choroby a
 aj ako dezinfekčná ústna voda.
 
 *Upozornenie*: Vonkajšie použitie ojedinele vyvoláva kožnú alergiu.
 
-Aplikáciu bylinky nájdete na stránke čaje v [Bronchiol](/sip/caje/bronchiol) a
-[Nervus](/sip/caje/nervus).
+Aplikáciu bylinky nájdete na stránke čaje v [Bronchiol](../caje/bronchiol) a
+[Nervus](../caje/nervus).
 

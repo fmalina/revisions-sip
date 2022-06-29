@@ -34,9 +34,9 @@ trombóza, embólia a vrodené aj získané poruchy ciev (výdute – aneuryzmy)
 Balíček odporučených prípravkov na prevenciu proti srdcovo – cievnym chorobám
 -----------------------------------------------------------------------------
 
-* [Cardolen](/sip/caje/pestrec) elixír
-* [Srdcovník](/sip/tinktury/srdcovnik) tinktúra
-* [Hloh](/sip/tinktury/hloh) tinktúra
-* [Ľadvinový](/sip/caje/ladviny) čaj
-* [Psyllium](/sip/caje/psyllium) vláknina
-* [BCAA Liquid](/sip/produkty-CVI/bcaa-l-carnitin)
+* [Cardolen](../caje/pestrec) elixír
+* [Srdcovník](../tinktury/srdcovnik) tinktúra
+* [Hloh](../tinktury/hloh) tinktúra
+* [Ľadvinový](../caje/ladviny) čaj
+* [Psyllium](../caje/psyllium) vláknina
+* [BCAA Liquid](../procvi/bcaa-l-carnitin)

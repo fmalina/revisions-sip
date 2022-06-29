@@ -32,8 +32,8 @@ v termínoch:
 
 Pretože ide o individuálne konzultácie, ktoré vedie *Marcel* ***Černoch*** (ČR)
 - autor knihy [Diagnostika v
-praxi](/sip/knihy/diagnostika-v-praxi) a spoluautor brožúry
-[Čítame z tváre](/sip/#p/citame-z-tvare), je rozumné, keď si
+praxi](../knihy/diagnostika-v-praxi) a spoluautor brožúry
+[Čítame z tváre](../knihy/citame-z-tvare), je rozumné, keď si
 svoj čas dohodnete a tiež sa spýtate na všetko, čo Vás zaujíma pred samotnou
 konzultáciou:
 

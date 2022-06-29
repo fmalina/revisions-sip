@@ -22,7 +22,7 @@ svrbiacu, prípadne sčervenenú pokožku (praskliny, odreniny, štípance). Vn�
 aplikácia zmierňuje príznaky neurovegetatívnej dystónie, resp. poruchy napätia
 svalstva, má protizápalové, protikŕčové a antidepresívne účinky.
 
-*Zaujímavosť*: Ľubovník je spájaný s *energiou svätojánskej noci* a s *ochranou
+*Zaujímavosť*: Ľubovník je spájaný s *energiou svätojánskej noci* a s *ochranou
 pred ohňom, bleskom a zlom.* a
 
 *Upozornenie*: Počas liečby sa neodporúča vystavovať sa slnečnému žiareniu, lebo
@@ -31,5 +31,5 @@ kŕče a podráždenie. Dôležité je, aby sme si ľubovník bodkovaný nepopli
 príbuznými druhmi, ktoré sa nezbierajú a ani sa nesmú v droge nachádzať.
 
 Aplikáciu bylinky nájdete na stránke tinktúry
-[Ľubovník](/tinktury/lubovnik) a čaji [Nervus](/sip/caje/nervus).
+[Ľubovník](../tinktury/lubovnik) a čaji [Nervus](../caje/nervus).
 

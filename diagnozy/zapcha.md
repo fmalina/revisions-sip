@@ -1,10 +1,7 @@
 Zápcha
 ======
 
-
 > ### Problém spojený s obtiažnym alebo nedostatočným vylučovaním stolice…
-> 
-> 
 
 Skupina porúch trávenia
 
@@ -23,10 +20,10 @@ potláčaním nutkania na stolicu, náhlení, únave, strachu a pod.
 Balíček odporučených prípravkov proti zápche
 --------------------------------------------
 
-* [Disbiosan](/sip/elixiry/disbiosan) elixír
-* [Benedikt](/sip/#p/benedikt) (Benedikt)
-* [Rimbaba](/sip/#p/rimbaba) (Řimbaba)
-* [Psyllium](/sip/caje/psyllium) vláknina
-* [Rooibos](/sip/caje/rooibos) čaj
-* [Žalúdok a črevá](/sip/caje/zaludok-creva) čaj
+* [Disbiosan](../elixiry/disbiosan) elixír
+* [Benedikt](../tinktury/benedikt) (Benedikt)
+* [Rimbaba](../tinktury/rimbaba) (Řimbaba)
+* [Psyllium](../caje/psyllium) vláknina
+* [Rooibos](../caje/rooibos) čaj
+* [Žalúdok a črevá](../caje/zaludok-creva) čaj
 * Olivový olej panenský, lisovaný za studena *(v obchodnej sieti)* 1 PL denne

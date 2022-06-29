@@ -30,5 +30,5 @@ zdroje potvrdzujú medziročný nárast vyše 50 nových produktov s L.) a tým 
 získalo nové pomenovanie “funkčná potravina” alebo “superovocie”.
 
 Aplikáciu bylinky nájdete v prípravku [Forever Lycium
-Plus](/produkty-FLP/forever-licium-plus).
+Plus](../proflp/forever-licium-plus).
 

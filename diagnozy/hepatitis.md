@@ -31,10 +31,10 @@ non B) sa prenáša krvou a krvnými prípravkami, krv a sérum sú vysoko infek
 Balíček odporučených prípravkov proti hepatitis
 -----------------------------------------------
 
-* [Hepaven](/sip/elixiry/hepaven) elixír
-* [Benedikt](/sip/tinktury/benedikt) (Benedikt)
-* [Schizandra](/sip/tinktury/schizandra) (Klanopraška)
-* [Hepatik](/sip/caje/hepatik) čaj
-* [Ľadvinový](/sip/caje/ladviny) čaj
-* [Pestrec mariánsky](/sip/caje/pestrec) mletý *(aplikovať s Glukopur 1PL v pomere 4:1; nevariť!)*
+* [Hepaven](../elixiry/hepaven) elixír
+* [Benedikt](../tinktury/benedikt) (Benedikt)
+* [Schizandra](../tinktury/schizandra) (Klanopraška)
+* [Hepatik](../caje/hepatik) čaj
+* [Ľadvinový](../caje/ladviny) čaj
+* [Pestrec mariánsky](../caje/pestrec) mletý *(aplikovať s Glukopur 1PL v pomere 4:1; nevariť!)*
 * Olivový olej (v obchodnej sieti; lisovaný za studena) 1PL denne

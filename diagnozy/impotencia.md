@@ -12,9 +12,9 @@ upraví veľmi ťažko. Pokles potencie po 50. roku veku muža je prirodzený ja
 Balíček odporučených prípravkov proti impotencii
 ------------------------------------------------
 
-* [Vitalit](/sip/elixiry/vitalit) elixír
-* [Prostaten](/sip/elixiry/prostaten) elixír
-* [Vŕbovka](/sip/tinktury/vrbovka) (Vrbovka)
-* [Leuzea](/sip/tinktury/leuzea) (Maralan; maralanový koreň)
-* [Čaj pre pánov](/sip/caje/pre-panov)
-* [Pozdrav zo Křtin](/sip/caje/pozdrav-z-krtin) čaj
+* [Vitalit](../elixiry/vitalit) elixír
+* [Prostaten](../elixiry/prostaten) elixír
+* [Vŕbovka](../tinktury/vrbovka) (Vrbovka)
+* [Leuzea](../tinktury/leuzea) (Maralan; maralanový koreň)
+* [Čaj pre pánov](../caje/pre-panov)
+* [Pozdrav zo Křtin](../caje/pozdrav-z-krtin) čaj

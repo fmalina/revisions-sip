@@ -7,10 +7,10 @@ kašľa, ktorý je sprievodným javom ťažkostí s dýchacími cestami.
 
 Obsahuje:
 
-* vňať [dúšky materinej](/sip/bylinky/duska-materina)
-* vňať [dúšky tymianovej](/sip/bylinky/duska-tymianova)
-* plod [bedrovníka anízového](/sip/bylinky/bedrovnik-anizovy)
-* plod [feniklu obyčajného](/sip/bylinky/fenikel-obycajny),
-* koreň [sladkovky hladkoplodej](/sip/bylinky/sladovka-hladkoploda) (sladké drievko),
-* vňať [šalvie lekárskej](/sip/bylinky/salvia-lekarska)
-* list [skorocelu indického](/sip/bylinky/skorocel-indicky)
+* vňať [dúšky materinej](../bylinky/duska-materina)
+* vňať [dúšky tymianovej](../bylinky/duska-tymianova)
+* plod [bedrovníka anízového](../bylinky/bedrovnik-anizovy)
+* plod [feniklu obyčajného](../bylinky/fenikel-obycajny),
+* koreň [sladkovky hladkoplodej](../bylinky/sladovka-hladkoploda) (sladké drievko),
+* vňať [šalvie lekárskej](../bylinky/salvia-lekarska)
+* list [skorocelu indického](../bylinky/skorocel-indicky)

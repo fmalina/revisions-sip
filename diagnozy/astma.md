@@ -19,9 +19,9 @@ otužovanie a autogénne tréningy.
 Balíček prípravkov proti astme
 ------------------------------
 
-* [Ginkgo](/sip/tinktury/ginkgo) (Ginkgo)
-* [Divozel](/sip/tinktury/divozel) (Divizna)
-* [Priedušková](/sip/tinktury/zmes-prieduskova) zmes
-* [Hannasaki](/sip/caje/hannasaki) čaj
-* [Respiran](/sip/elixiry/respiran) elixír
-* [Rooibos](/sip/caje/rooibos) čaj
+* [Ginkgo](../tinktury/ginkgo) (Ginkgo)
+* [Divozel](../tinktury/divozel) (Divizna)
+* [Priedušková](../tinktury/zmes-prieduskova) zmes
+* [Hannasaki](../caje/hannasaki) čaj
+* [Respiran](../elixiry/respiran) elixír
+* [Rooibos](../caje/rooibos) čaj

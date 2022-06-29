@@ -35,5 +35,5 @@ Kréte a v Turecku, ktoré poznáme ako Phrygian Ida z antiky. Obidve sú spojen
 bohyňou (niekedy nazvaný Mother Idaea).
 
 Aplikácia rastlinky je na stránke
-[Zenthonic](/sip/#p/zenthonic).
+[Zenthonic](../procvi/zenthonic).
 

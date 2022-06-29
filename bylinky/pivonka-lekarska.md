@@ -11,7 +11,7 @@ mieste, prinajhoršom v polotieni. Staršie rastliny neznášajú presadzovanie.
 náročná na živiny v pôde, pôda má býť ľahká, neutrálna.
 
 *Uplatnenie*: Pivonka lekárska je trváca okrasná bylina, dnes výnimočne použitá
-aj na liečebné účely.  Mnoho kultivarov tohto druhu, ktorý pôvodne pochádza z
+aj na liečebné účely.  Mnoho kultivarov tohto druhu, ktorý pôvodne pochádza z
 juhovýchodnej Európy, sa pestuje v záhradách ako okrasná rastlina.
 Najobľúbenejšie sú plné, tmavočerveno zafarbené formy. Najbežnejšie kultivary
 pivonky lekárskej sú: *Alba Plena* - plno biela, v púčiku mierne ružová;
@@ -21,5 +21,5 @@ veľké, červené plné kvety.
 
 *Upozornenie*: Táto rastlina je mierne jedovatá.
 
-Aplikácia rastlinky je v čaji [MU](/sip/#p/mu).
+Aplikácia rastlinky je v čaji [MU](../caje/mu).
 

@@ -6,10 +6,10 @@ Echinacea (Echinacea)
 Tinktúra **Echinacea** výrazne zvyšuje obranyschopnosť a odolnosť organizmu.
 Posilňuje biologickú imunitu, najmä pri zápaloch, infekciách a hnisavých
 procesoch. Je to výborný preventívny a liečebný prostriedok v období
-[chrípkových epidémii](/sip/diagnozy/chripka) a vírusových
+[chrípkových epidémii](../diagnozy/chripka) a vírusových
 ochorení. Podporuje látkovú výmenu. Tinktúra z bylinky má proti stresové účinky.
 
-[Viac informácií](/sip/bylinky/echinacea-purpurea) o bylinke…
+[Viac informácií](../bylinky/echinacea-purpurea) o bylinke…
 
 Upozornenie: *Výrobok nie je určený pre deti do 3 rokov. Dávkovanie pre
 dospelých 3 x 15 kvapiek za deň; pre deti od troch rokov 3 x 5 kvapiek za deň

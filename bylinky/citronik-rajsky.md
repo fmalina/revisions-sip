@@ -34,7 +34,7 @@ vďaka modernému spôsobu života pribúda. Významné sú aj jadierka plodu.
 karibskom ostrove Barbados tmavo zelený strom názvom *Citrus paradisi*
 (citrónovník z raja), ešte netušili, koľko dobrôt ponúka vo svojich plodoch. A
 nesnívalo sa im ani o fakte, že vo svojom jadierku ukrýva obrovskú liečivú silu,
-ktorá pomôže ľudstvu v obrane proti najmenšom parazitom - *vírusom, baktériám* a
+ktorá pomôže ľudstvu v obrane proti najmenšom parazitom - *vírusom, baktériám* a
 *plesniam*. Základom úspechu výťažku z jadierok *grapefruitu*, je vysoký obsah
 bioflavonoidov spolu so základnou látkou, ktorá vykazuje silné účinky
 zabraňujúce množeniu baktérií, vírusov a plesní.    Účinky extraktu z
@@ -47,4 +47,4 @@ grapefruitových jadierok:
 * je to čistý prírodný produkt.
 
 Aplikáciu účinkov jadierok nájdete v prípravku proti parazitom
-[ParaProteX](/sip/produkty-CVI/paraprotex).
+[ParaProteX](../procvi/paraprotex).

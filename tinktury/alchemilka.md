@@ -14,7 +14,7 @@ očiach. Pri vonkajšom použití hojí rany. Pri extrakcií zubov je vhodná na
 hojenie ďasien. Preventívne použitie je odporučené proti DM, obezite a
 gynekologickým problémom.
 
-[Viac informácií](/sip/bylinky/alchemilka-zltozelena) o bylinke…
+[Viac informácií](../bylinky/alchemilka-zltozelena) o bylinke…
 
 Upozornenie: *Výrobok nie je určený pre deti do 3 rokov. Dávkovanie pre
 dospelých 3 x 15 kvapiek za deň; pre deti od troch rokov 3 x 5 kvapiek za deň

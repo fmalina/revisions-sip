@@ -28,9 +28,9 @@ tinktúra, alebo nálev z kvetov.
 Pre deti sú jedovaté.
 
 Aplikáciu bylinky nájdete na stránke tinktúry
-[Pagaštan](/tinktury/pagastan), [Žilná
-zmes](/sip/#p/zilna-zmes) a [Ukľudňujúca
-zmes](/sip/#p/ukludnujuca-zmes).
+[Pagaštan](../tinktury/pagastan), [Žilná
+zmes](../tinktury/zmes-zilna) a [Ukľudňujúca
+zmes](../tinktury/zmes-ukludnujuca).
 
 ### 
 

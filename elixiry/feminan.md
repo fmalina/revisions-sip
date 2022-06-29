@@ -11,9 +11,9 @@ preventívne na doladenie činnosti žliaz s vnútornou sekréciou.
 
 Obsahuje bylinky:
 
-* [jarabina vtáčia](/sip/bylinky/jarabina-vtacia),
-* [nechtík lekársky](/sip/bylinky/nechtik-lekarsky),
-* [alchemilka žltozelená](/sip/bylinky/alchemilka-zltozelena).
+* [jarabina vtáčia](../bylinky/jarabina-vtacia),
+* [nechtík lekársky](../bylinky/nechtik-lekarsky),
+* [alchemilka žltozelená](../bylinky/alchemilka-zltozelena).
 
 *Upozornenie: Výrobok nie je vhodný pre deti. Dávkovanie maximálne 3 x 15
 kvapiek za deň; riediť v nemineralizovanej vode 20 ml na jednu dávku. Potom sa

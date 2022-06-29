@@ -11,7 +11,7 @@ Odvodňuje organizmus, odstraňuje opuchy. Vhodné užívať ako diuretikum pri
 srdečných poruchách, pri chorobe ľadvín a močových ciest. Tinktúra je tiež
 vhodným podporným prostriedkom pri klimakterických problémoch.
 
-[Viac informácií](/sip/bylinky/srdcovnik-obycajny) o bylinke…
+[Viac informácií](../bylinky/srdcovnik-obycajny) o bylinke…
 
 Upozornenie: *Výrobok nie je určený pre deti do 3 rokov. Dávkovanie pre
 dospelých 3 x 15 kvapiek za deň; pre deti od troch rokov 3 x 5 kvapiek za deň

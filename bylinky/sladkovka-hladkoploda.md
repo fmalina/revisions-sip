@@ -28,6 +28,6 @@ Denná dávka je odporučená 5 g prášku, alebo 8 g vylúhovaného preparátu.
 nápočtu gramáže treba započítať aj iné formy jej spracovania (čaje, maceráty a
 pod.)
 
-Aplikácia bylinky je na stránke čajoviny [Bronchiol](/sip/caje/bronchiol),
-[Nekašel](/sip/caje/nekasel) a [Žalúdok a črevá](/sip/caje/zaludok-creva).
+Aplikácia bylinky je na stránke čajoviny [Bronchiol](../caje/bronchiol),
+[Nekašel](../caje/nekasel) a [Žalúdok a črevá](../caje/zaludok-creva).
 

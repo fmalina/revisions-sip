@@ -5,7 +5,4 @@
 zdravotné ťažkosti, ale aj pôsobiť preventívne. Ak ste tak ešte neurobili,
 prejdite si ponuku našich čajov a **nájdite riešenie zdravotných problémov** pre
 seba a svojich blízkych. Čaje sú vyrábané z českých zdrojov (Rosa Canina,
-Phoenix) a japonských zdrojov a ich názvy sú preložné do slovenského jazyka. 
-
-Vyberte si svoj čaj a vložte ho do košíka. Čaje a ostatné produkty Vám dodáme
-poštou na dobierku. Cena poštovného a balného je *1,50 €* (*45,19 Sk)*
+Phoenix) a japonských zdrojov a ich názvy sú preložné do slovenského jazyka.

@@ -7,7 +7,7 @@ lymfatické cievky, ktoré odvádzajú lymfu do zberných lymfatických uzlín.
 
 Čo to je lymfa? **Lymfa** je belavá tekutina, ktorá prúdi v tele v lymfatických
 cievach a kapilárach tvoriacich lymfatický obeh. **[Lymfatický
-systém](/knihy/lymfa)** sa podobá krvnému obehu, nemá však srdce - pumpu, ktorá
+systém](../knihy/lymfa)** sa podobá krvnému obehu, nemá však srdce - pumpu, ktorá
 by obeh poháňala. Nakoľko lymfatické cievky sú oveľa užšie ako cievy krvné,
 pohyb lymfy niekedy viazne. Pohyb lymfy má význam pri množstve telesných
 funkcií, preto je dôležité, aby lymfa v tele dobre kolovala. Lymfatický systém

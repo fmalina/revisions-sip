@@ -28,12 +28,12 @@ pomáha pri drobných kožných defektoch (akné, popáleniny, popraskaná koža
 zapareniny, slabé nechty a jazvy).
 
 Aplikácia bylinky je na stránkach
-[voskové obklady](/sip/sviecky/voskove-obklady) (malé a veľké),
-[Aloe Lips](/sip/produkty-FLP/aloe-lips),
-[Aloe Moisturizing Lotion](/sip/produkty-FLP/aloe-moisturizing-lotion),
-[Exfloating Cleanser](/sip/produkty-FLP/exfoliating-cleanser),
-[Aloe Jojoba Shampoo](/sip/produkty-FLP/aloe-jojoba-shampoo),
-[Aloe Jojoba Conditioning Rinse](/sip/produkty-FLP/aloe-jojoba-conditioning-rinse),
-[Aloe Deep - Cleansing Creme](/sip/produkty-FLP/aloe-deep-cleansing-exfoliator),
-[Recovering Night Creme](/sip/produkty-FLP/recovering-night-creme) a
-[Sonya Skin Care](/sip/produkty-FLP/sonya-skin-care).
+[voskové obklady](../sviecky/voskove-obklady) (malé a veľké),
+[Aloe Lips](../proflp/aloe-lips),
+[Aloe Moisturizing Lotion](../proflp/aloe-moisturizing-lotion),
+[Exfloating Cleanser](../proflp/exfoliating-cleanser),
+[Aloe Jojoba Shampoo](../proflp/aloe-jojoba-shampoo),
+[Aloe Jojoba Conditioning Rinse](../proflp/aloe-jojoba-conditioning-rinse),
+[Aloe Deep - Cleansing Creme](../proflp/aloe-deep-cleansing-exfoliator),
+[Recovering Night Creme](../proflp/recovering-night-creme) a
+[Sonya Skin Care](../proflp/sonya-skin-care).

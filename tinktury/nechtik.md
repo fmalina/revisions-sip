@@ -10,12 +10,12 @@ poranení, preležanín a zároveň pôsobí protizápalovo. Pri vnútornom už�
 priaznivo ovplyvňuje činnosť pečene a žlčníka a zlepšuje zažívaciu sústavu.
 Pôsobí na nervový systém a má mierne sedatívne účinky. Zlepšuje činnosť srdca,
 používa sa v gynekológii buď samostatne, alebo v synergii s tinktúrou
-[rebríčkom](/sip/tinktury/rebricek) obyčajným
-alebo [alchemilkou](/sip/tinktury/alchemilka)
+[rebríčkom](../tinktury/rebricek) obyčajným
+alebo [alchemilkou](../tinktury/alchemilka)
 obyčajnou. Tinktúru je vhodné použiť aj pri liečbe vredových chorôb, urýchľuje
 granuláciu tkaniva, hojí a prečisťuje.
 
-[Viac informácií](/sip/bylinky/nechtik-lekarsky) o bylinke…
+[Viac informácií](../bylinky/nechtik-lekarsky) o bylinke…
 
 Upozornenie: *Výrobok nie je určený pre deti do 3 rokov. Dávkovanie pre
 dospelých 3 x 15 kvapiek za deň; pre deti od troch rokov 3 x 5 kvapiek za deň

@@ -21,11 +21,11 @@ listov v močopudných a prečisťovacích vlastnostiach ich predurčuje na potl
 dôsledkov dny, reumy a opuchov.
 
 *Upozornenie*: Získavanie brezovej šťavy navŕtavaním kôry stromov poškodzuje
-stromy - u nás zakázané!
+stromy - u nás zakázané!
 
-Aplikáciu bylinky nájdete v elixíre [Reumel](/elixiry/reumel),
-tinktúre [Čistiaca zmes](/tinktury/zmes-cistiaca)
+Aplikáciu bylinky nájdete v elixíre [Reumel](../elixiry/reumel),
+tinktúre [Čistiaca zmes](../tinktury/zmes-cistiaca)
 a čajoch
-[Pre pánov](/sip/caje/pre-panov),
-[Čaj na ľadviny](/sip/caje/ladviny) a
-[Cholestin](/sip/caje/cholestin-zlcnikovy).
+[Pre pánov](../caje/pre-panov),
+[Čaj na ľadviny](../caje/ladviny) a
+[Cholestin](../caje/cholestin-zlcnikovy).

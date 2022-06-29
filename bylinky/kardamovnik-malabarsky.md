@@ -49,4 +49,4 @@ aromatický dym zaplnil celý priestor a mletie sa muselo prerušovať, aby sa
 miestnosť vyvetrala...“*
 
 Aplikácia bylinky je v čajovej zmesi
-[Aloe Blossom Herbal](/sip/produkty-FLP/aloe-blossom-herbal-tea).
+[Aloe Blossom Herbal](../proflp/aloe-blossom-herbal-tea).

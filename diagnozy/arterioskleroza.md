@@ -85,8 +85,8 @@ prejavov, niekedy aj pokročilé zmeny ochorenia ostávajú dlho utajené!
 Balíček odporučených prípravkov proti AS
 ----------------------------------------
 
-* [Tužobník](/sip/tinktury/tuzobnik) (Tužebník)
-* [Veronika](/sip/tinktury/veronika) (Rozrazil)
-* [Hloh](/sip/tinktury/hloh) (Hloch)
-* [Hepatik](/sip/caje/hepatik) čaj
-* [Ľadvinový](/sip/caje/ladviny) čaj
+* [Tužobník](../tinktury/tuzobnik) (Tužebník)
+* [Veronika](../tinktury/veronika) (Rozrazil)
+* [Hloh](../tinktury/hloh) (Hloch)
+* [Hepatik](../caje/hepatik) čaj
+* [Ľadvinový](../caje/ladviny) čaj

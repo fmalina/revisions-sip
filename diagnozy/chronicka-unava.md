@@ -34,8 +34,8 @@ výnimočný stav, vyžaduje nie len odpočinok, ale aj starostlivosť lekára.
 Balíček odporučených prípravkov proti chronickej únave
 ------------------------------------------------------
 
-* [Echinacea](/sip/tinktury/echinacea) tinktúra
-* [Stimulen](/sip/elixiry/stimulen) eixír
-* [Disbiosan](/sip/elixiry/disbiosan) elixír
-* [Sayonara](/sip/caje/sayonara) čajovina
-* [BCAA Liquid](/sip/produkty-CVI/bcaa-l-carnitin)
+* [Echinacea](../tinktury/echinacea) tinktúra
+* [Stimulen](../elixiry/stimulen) eixír
+* [Disbiosan](../elixiry/disbiosan) elixír
+* [Sayonara](../caje/sayonara) čajovina
+* [BCAA Liquid](../procvi/bcaa-l-carnitin)

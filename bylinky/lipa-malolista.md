@@ -7,7 +7,7 @@ Lipa malolistá
 bohatú históriu a je opradená mnohými povesťami. Starovekí Rimania ju zasvätili
 bohyni lásky a krásy - Venuši. Stala sa symbolom Slovanstva. Rastie v lesoch a
 hájoch, pri domoch a v alejach. Okrem uvedenej rastliny sú rozšírené aj lipa
-veľkolistá  (T. platyphyllos SCOP.) a lipa obyčajná (T. x vulgaris HAYNE)
+veľkolistá  (T. platyphyllos SCOP.) a lipa obyčajná (T. x vulgaris HAYNE)
 
 *Kvitne*: Od júna do júla.
 
@@ -28,6 +28,6 @@ zápar, zápar do kúpeľa a odvary.
 alebo lesklými listami. Denné (ani dlhodobé) pitie lipového čaju sa neodporúča
 (Bodlák, J.)
 
-Aplikáciu bylinky nájdete na stránke čajov [Chrípka](/sip/caje/chripka) a [Veverský
-čaj](/sip/caje/veversky).
+Aplikáciu bylinky nájdete na stránke čajov [Chrípka](../caje/chripka) a [Veverský
+čaj](../caje/veversky).
 

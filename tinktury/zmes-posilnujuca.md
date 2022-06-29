@@ -6,8 +6,8 @@ počas infekcií a pri iných ochoreniach a aktivuje imunitný systém.
 
 Zloženie tinktúry:
 
-* čerstvá rastlina [benediktu lekárskeho](/sip/bylinky/benedikt-lekarsky)
-* [echinacei purpurea](/sip/bylinky/echinacea-purpurea)
+* čerstvá rastlina [benediktu lekárskeho](../bylinky/benedikt-lekarsky)
+* [echinacei purpurea](../bylinky/echinacea-purpurea)
 
 Upozornenie: *Výrobok nie je určený pre deti do 3 rokov. Dávkovanie pre
 dospelých 3 x 15 kvapiek za deň; pre deti od troch rokov 3 x 5 kvapiek za deň

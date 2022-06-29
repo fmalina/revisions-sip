@@ -45,8 +45,8 @@ tkaniva DK. Vredy sú zasa dôsledkom ľahkej zraniteľnosti tkaniva DK.
 Balíček odporučených prípravkov proti žilovým chorobám
 ------------------------------------------------------
 
-* [Psyllium](/sip/caje/psyllium) vláknina
-* [Sayonara](/sip/caje/sayonara) čaj
-* [Nechtík](/sip/#p/nechtik) (Měsíček)
-* [Veronika](/sip/#p/veronika) (Rozrazil)
-* [VeinCare](/sip/#p/veincare) s hirudinovým extraktom (masť)
+* [Psyllium](../caje/psyllium) vláknina
+* [Sayonara](../caje/sayonara) čaj
+* [Nechtík](../tinktury/nechtik) (Měsíček)
+* [Veronika](../tinktury/veronika) (Rozrazil)
+* [VeinCare](../procvi/veincare) s hirudinovým extraktom (masť)

@@ -4,9 +4,9 @@ Karma, riešenie problémov
 ### Svijaš Alexander
 
 Kniha je záverečnou časťou trilógie “*[Karma, náprava
-chýb](/sip/knihy-mudrost-pre-vas/karma-naprava-chyb)*” a
+chýb](../knihy-mudrost-pre-vas/karma-naprava-chyb)*” a
 “*[Karma, život bez
-konfliktov](/sip/knihy-mudrost-pre-vas/karma-zivot)*” ruského
+konfliktov](../knihy-mudrost-pre-vas/karma-zivot)*” ruského
 autora.
 
 Prečo by sme mali zbytočne trpieť a sami si znepríjemňovať život? Následne, čo

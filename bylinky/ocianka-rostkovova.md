@@ -20,7 +20,7 @@ Môžeme sušiť aj "*dole hlavou*" v malých zväzkoch na povale za neustálej
 kontroly, lebo veľmi ľahko začne plesnivieť.
 
 *Uplatnenie*: Priaznivo pôsobí pri únave očí a pôsobí preventívne proti očným
-chorobám. Aplikáciu uplatňujeme pri zhoršovaní sa zraku. Ďalšie je účinky patria
+chorobám. Aplikáciu uplatňujeme pri zhoršovaní sa zraku. Ďalšie je účinky patria
 do kategórie priaznivo pôsobiace pri tráviacich problémoch a má priaznivé
 protialergické účinky, napr. pri sennej nádche. Bylinka sa spracováva v
 macerátoch ako aj v sušine vo forme čajoviny. Je možné ju podávať aj tehotným
@@ -32,5 +32,5 @@ očianka nosila na posilnenie duševných síl a dokonca *predurčovala* vyvolan
 jasnovidectva.
 
 Aplikáciu bylinky nájdete na stránke tinktúry
-[Očianka](/tinktury/ocianka).
+[Očianka](../tinktury/ocianka).
 

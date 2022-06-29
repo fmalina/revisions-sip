@@ -2,7 +2,7 @@ Voskový obklad veľký
 ====================
 
 **Voskový obklad veľký** - 20cm x 30cm na opakované použitie ("*náhradný
-dielec*" ku [kompletu](/sip/sviecky/voskove-obklady)). Je to vlastne
+dielec*" ku [kompletu](../sviecky/voskove-obklady)). Je to vlastne
 obklad z bavlneného materiálu nasiaknutý včelím voskom.
 
 *Zloženie*: Bavlnená látka a čistý včelí vosk.

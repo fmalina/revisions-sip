@@ -29,5 +29,5 @@ symptomaticj´kej liečbe kašľa.
 *Upozornenie*: Je možnosť prípadnej kožnej alergie na laktóny.
 
 Aplikáciu bylinky nájdete na stránke elixíru
-[Respiran](/elixiry/respiran).
+[Respiran](../elixiry/respiran).
 

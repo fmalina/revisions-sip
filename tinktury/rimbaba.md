@@ -8,7 +8,7 @@ po nadmernej psychickej námahe a menštruačných bolestiach. Stimuluje žalúd
 aktivitu a lieči črevné zápaly. Má silné antibakteriálne a protizápalové účinky.
 Účinný prostriedok proti reumatizmu.
 
-[Viac informácií](/sip/bylinky/rimbaba-obycajna) o bylinke…
+[Viac informácií](../bylinky/rimbaba-obycajna) o bylinke…
 
 Upozornenie: *Výrobok nie je určený pre deti do 3 rokov. Dávkovanie pre
 dospelých 3 x 15 kvapiek za deň; pre deti od troch rokov 3 x 5 kvapiek za deň

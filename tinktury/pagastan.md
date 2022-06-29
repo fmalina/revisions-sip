@@ -10,7 +10,7 @@ ovplyvňuje poruchy periférneho prekrvenia a poruchy prekrvenia koronárnych ci
 Pôsobí pri poruchách očnej sietnice a jej prekrvovania, pri degenerácii očného
 pozadia. Vhodné antisklerotikum, tiež ako preventor náhlej mozgovej príhody.
 
-[Viac informácií](/sip/bylinky/pagastan-konsky) o bylinke…
+[Viac informácií](../bylinky/pagastan-konsky) o bylinke…
 
 Upozornenie: *Výrobok nie je určený pre deti do 3 rokov. Dávkovanie pre
 dospelých 3 x 15 kvapiek za deň; pre deti od troch rokov 3 x 5 kvapiek za deň

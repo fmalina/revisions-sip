@@ -19,8 +19,8 @@ sa im vráti prirodzená farba.
 Balíček odporučených prípravkov proti syndrómu Raynaudovej choroby
 ------------------------------------------------------------------
 
-* [Aloe Heat Lotion](/sip/produkty-FLP/aloe-heat-lotion) (červený) krém
-* [Leuzea](/sip/tinktury/leuzea) (Maralan) tinktúra
-* [Venavit](/sip/elixiry/venavit) elixír
-* [Arnika](/sip/tinktury/arnika) (Arnika) tinktúra
-* [Ginkgo](/sip/tinktury/ginkgo) (Ginkgo) tinktúra
+* [Aloe Heat Lotion](../proflp/aloe-heat-lotion) (červený) krém
+* [Leuzea](../tinktury/leuzea) (Maralan) tinktúra
+* [Venavit](../elixiry/venavit) elixír
+* [Arnika](../tinktury/arnika) (Arnika) tinktúra
+* [Ginkgo](../tinktury/ginkgo) (Ginkgo) tinktúra

@@ -20,6 +20,6 @@ Pripravuje sa tak, že 1PL Psyllia sa rozmieša v studenej vode (cca 0,25 l)
 absorbuje vodu a zrôsolovatie – nedá sa vypiť. Počas tejto kúry je rozumné
 **dodržovať pitný režim**.
 
-Obsahuje: Psyllium flavum testa ([skorocel indický](/sip/bylinky/skorocel-indicky)
+Obsahuje: Psyllium flavum testa ([skorocel indický](../bylinky/skorocel-indicky)
 - Jitrocel indický).
 

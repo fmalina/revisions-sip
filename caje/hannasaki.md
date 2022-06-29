@@ -5,12 +5,12 @@ Zmes japonských čajov **Hannasaki** má lahodnú chuť. Je sypaný a dávkovan
 sáčkoch po 50 g, z ktorých pripravíte až 400 šálok čaju. Spaľuje tuky. Je známy
 ako „*kráľovský čajovník*“, jeho najstaršie exempláre sú známe vyše 1700 rokov.
 Je bohatý na minerály, odbúrava tukové tkanivo, znižuje hladinu
-[cholesterolu](/sip/diagnozy/cholesterol), prečisťuje krv a
-posilňuje [imunitný systém](/sip/diagnozy/imunita). Ďalšie
+[cholesterolu](../diagnozy/cholesterol), prečisťuje krv a
+posilňuje [imunitný systém](../diagnozy/imunita). Ďalšie
 liečivé účinky sú na kožné problémy,
-[DM](/sip/diagnozy/cukrovka),
-[astma](/sip/diagnozy/asthma), sennú nádchu, poruchy
+[DM](../diagnozy/cukrovka),
+[astma](../diagnozy/asthma), sennú nádchu, poruchy
 menštruácie, nedostatok materského mlieka a problémy v
-[menopauze](/sip/diagnozy/menopauza). Pred prípravou nápoja
+[menopauze](../diagnozy/menopauza). Pred prípravou nápoja
 odporúčame dokonale preštudovať prebal výrobku a podľa neho presne postupovať.
 

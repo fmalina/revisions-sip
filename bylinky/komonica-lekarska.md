@@ -13,10 +13,10 @@ chválili už hippokratovskí lekári. Najcennejšie na rastline sú kvety.
 mieste.
 
 *Uplatnenie*: Pokusy potvrdili protizápalové účinky, ktorý zároveň pôsobí na
-cievy; zvyšuje v nich prietok krvi a znižuje ich priepustnosť. Taktiež z pokusov
+cievy; zvyšuje v nich prietok krvi a znižuje ich priepustnosť. Taktiež z pokusov
 vyplynulo aj zvýšenie lymfatickej cirkulácie, ktoré urýchľuje vstrebávanie
 opuchov. Klinické porovnania zasa ukazujú, že rastlinka vďaka flavonoidom
-zmierňuje príznaky cievnej nedostatočnosti.  Komonici sa dodnes priznávajú
+zmierňuje príznaky cievnej nedostatočnosti.  Komonici sa dodnes priznávajú
 upokojujúce, uspávacie, močopudné a mierne protizrážavé účinky. Hoci chráni
 cievy, odporúča sa výhradne na nezávažné obehové poruchy a praskajúce podkožné
 vlásočnice. Pri vonkajšej aplikácii sa prejavuje odkrvovacia schopnosť, čo sa
@@ -24,7 +24,7 @@ využíva najmä pri podráždených očiach. Kedysi sa používala na upokojeni
 agresívnych pijanov a stala sa pomocníkom očných lekárov. Keď sa vloží do
 skrine, odpudzuje hmyz a bielizeň nasiakne jej vôňou.
 
-*Zaujímavosť*: Jej názov je odvodený z gréckeho výrazu - *medený lotos*.
+*Zaujímavosť*: Jej názov je odvodený z gréckeho výrazu - *medený lotos*.
 Komonica je pridávaná do švajčiarskeho "*zeleného*" syra typu Schabzieger a
 Gruyére.
 
@@ -34,4 +34,4 @@ prerušiť jej užívanie. Komonicu by nemali užívať pacienti, ktorí majú l
 proti tvorbe krvných zrazenín *Pelentan* a *Heparin*.
 
 Aplikáciu bylinky nájdete na stránke tinktúry
-[Žilná zmes](/sip/tinktury/zmes-zilna).
+[Žilná zmes](../tinktury/zmes-zilna).

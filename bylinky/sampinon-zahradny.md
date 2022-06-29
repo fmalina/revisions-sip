@@ -5,8 +5,8 @@ Pečiarka záhradná (Šampiňón)
 
 *Výskyt*: **Pečiarok** je celý rad, avšak medzi liečivé radíme hlavne dva druhy
 a to pečiarku dvojvýtrusnú (*Agaricus bisporus*) a pečiarku záhradnú (*Agaricus
-hortensis*). Pečiarka dvojvýtrusná je v staršej literatúre uvedená pod názvom
-pečiarka (šampiňón) poľná (*Agaricus campester*). Pre účely liečebné je
+hortensis*). Pečiarka dvojvýtrusná je v staršej literatúre uvedená pod názvom
+pečiarka (šampiňón) poľná (*Agaricus campester*). Pre účely liečebné je
 popisovaná huba pestovaná v špeciálne pripravenom substráte, príprava prebieha v
 etapách. Kultivačné médium je pôvodne pripravené zo zmesi, ktorá obsahuje najmä
 pšeničnú slamu a konský hnoj, bravčový alebo hydinový trus na zvýšenie obsahu
@@ -38,4 +38,4 @@ vlastnosti, ale v takých malých množstvách, že to ľudské zdravie neohrozu
 jednej údenej klobáse je určite viac karcinogénnych látok, ako v rovnakom
 množstve šampiňónov.
 
-Aplikácia húb je v produkte [Imunex](/sip/elixiry/duhovy-imunex).
+Aplikácia húb je v produkte [Imunex](../elixiry/duhovy-imunex).

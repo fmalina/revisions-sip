@@ -41,6 +41,6 @@ Aztékov), Aztékovia predpovedali, že ich nový domov bude umiestnený tam, kd
 ostrove rastie z kameňa kaktus *Nopál* a na jeho špičke sedí orol.
 
 Aplikácia bylinky je na stránke prípravku
-[Nopalin](/sip/#p/nopalin) a produkte [Slim
-Formula](/sip/#p/slim-formula).
+[Nopalin](../procvi/nopalin) a produkte [Slim
+Formula](../procvi/slim-formula).
 

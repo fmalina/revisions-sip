@@ -106,8 +106,8 @@ pri práci s dechtom.
 Balíček odporučených prípravkov proti akné
 ------------------------------------------
 
-* [Dermasan](/sip/elixiry/dermasan) elixír
-* [Disbiosan](/sip/elixiry/disbiosan) elixír
-* [Ľubovník](/sip/#p/lubovnik) (Třezalka)
-* [Psyllium](/sip/caje/psyllium) vláknina
-* [Ľadvinový](/sip/caje/ladviny) čaj
+* [Dermasan](../elixiry/dermasan) elixír
+* [Disbiosan](../elixiry/disbiosan) elixír
+* [Ľubovník](../tinktury/lubovnik) (Třezalka)
+* [Psyllium](../caje/psyllium) vláknina
+* [Ľadvinový](../caje/ladviny) čaj

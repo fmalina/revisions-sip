@@ -7,9 +7,9 @@ stimuluje tvorbu žlče a čistí pečeňové bunky.
 
 Obsahuje:
 
-* [benedikt lekársky](/sip/bylinky/benedikt-lekarsky)
-* [mätu piepornú](/sip/bylinky/mata-pieporna)
-* [pestrec mariánsky](/sip/bylinky/pestrec-mariansky)
-* [púpavu lekársku](/sip/bylinky/pupava-lekarska)
-* [rebríček obyčajný](/sip/bylinky/rebricek-obycajny)
-* [repík lekársky](/sip/bylinky/repik-lekarsky).
+* [benedikt lekársky](../bylinky/benedikt-lekarsky)
+* [mätu piepornú](../bylinky/mata-pieporna)
+* [pestrec mariánsky](../bylinky/pestrec-mariansky)
+* [púpavu lekársku](../bylinky/pupava-lekarska)
+* [rebríček obyčajný](../bylinky/rebricek-obycajny)
+* [repík lekársky](../bylinky/repik-lekarsky).

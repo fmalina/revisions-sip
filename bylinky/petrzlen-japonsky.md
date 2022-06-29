@@ -18,5 +18,5 @@ a semien.
 kvetín a stopky sú viazané do uzla na výzdobu slávnostných stolov na japonských
 svadbách, lebo údajne prinášajú šťastie.
 
-Aplikáciu bylinky nájdete na stránke [čaju MU](/sip/#p/mu).
+Aplikáciu bylinky nájdete na stránke [čaju MU](../caje/mu).
 

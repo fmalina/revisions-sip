@@ -9,7 +9,7 @@ cestách, ako aj pri *tuberkulóznych stavoch*. *Zlepšuje trávenie* a napomáh
 **pri liečbe** črevných katarov a pri liečbe a prevencii žalúdočných a črevných
 vredov. Celkovo pôsobí ako **posilňujúci** prostriedok.
 
-Čaj vykazuje dobrý synergický účinok s čajom [Bronchiol](/sip/caje/bronchiol).
+Čaj vykazuje dobrý synergický účinok s čajom [Bronchiol](../caje/bronchiol).
 
-Viac o bylinke na [tejto stránke](/sip/bylinky/lisajnik-islandsky).
+Viac o bylinke na [tejto stránke](../bylinky/lisajnik-islandsky).
 

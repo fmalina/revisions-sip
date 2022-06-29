@@ -6,7 +6,7 @@ Pozriem sa do tváre a ...
 *Žiadne čarodejstvo, žiadne zázračné liečenie, ale pragmatické konštatovanie
 stavu mysle a organizmu. Nasleduje dobre mienená rada...*
 
-To je jednoduchý prológ ku cyklu prednášok *Marcela **Černocha***, ktorý otvára
+To je jednoduchý prológ ku cyklu prednášok *Marcela **Černocha***, ktorý otvára
 na Slovensku prvý ročník ***Školy diagnostiky***.
 
 Diagnostika v praxi v sebe skrýva diagnostické umenie a liečebné systémy
@@ -44,9 +44,9 @@ kompetencie.
 
 ***Miesto***: spresníme
 
-***Cena***: 27 € za jednu prednášku
+***Cena***: 27 € za jednu prednášku
 
-***Zvýhodnenie***: pri platbe za celý cyklus ôsmych prednášok cena  190 €
+***Zvýhodnenie***: pri platbe za celý cyklus ôsmych prednášok cena  190 €
 
 ***V cene zahrnuté***: náklady na prednášky, elektronické skriptum, malé
 občerstvenie, pitný režim, pomôcky a testy
@@ -55,7 +55,7 @@ občerstvenie, pitný režim, pomôcky a testy
 kol.: Čítame z tváre, prednášky
 
 ***Kontakty***: Renata Ripková tel.: +421 908 498 676
-alebo <mailto:silvia.cernochova@seznam.cz>
+alebo <mailto:silvia.cernochova@seznam.cz>
 
 ***Registrácia***: na kontaktoch do 4.11.2009
 

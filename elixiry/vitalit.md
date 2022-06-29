@@ -8,9 +8,9 @@ pre starších ľudí, regeneruje a posilňuje organizmus, vyrovnáva psychiku.
 
 Obsahuje bylinky:
 
-* [leuzea šuštivá](/sip/bylinky/leuzea-sustiva)
-* [všehojovec štetinatý](/sip/bylinky/vsehojovec-stetinaty)
-* [rozchodnica ružová](/sip/bylinky/rozchodnica-ruzova)
+* [leuzea šuštivá](../bylinky/leuzea-sustiva)
+* [všehojovec štetinatý](../bylinky/vsehojovec-stetinaty)
+* [rozchodnica ružová](../bylinky/rozchodnica-ruzova)
 
 Upozornenie*: Výrobok nie je vhodný pre deti. Dávkovanie maximálne 3 x 15
 kvapiek za deň; riediť v nemineralizovanej vode 20 ml na jednu dávku. Potom sa

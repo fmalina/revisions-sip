@@ -22,8 +22,8 @@ angioneurotický edém.
 Balíček odporučených prípravkov proti lymfoedému
 ------------------------------------------------
 
-* [Lymfavit](/sip/elixiry/lymfavit) elixír
-* [Lipkavec](/sip/#p/lipkavec) (Svízel)
-* [Túžobník](/sip/#p/tuzobnik) (Tužebník)
-* [Veverský](/sip/caje/veversky) čaj
-* [Ľadvinový](/sip/caje/ladviny) čaj
+* [Lymfavit](../elixiry/lymfavit) elixír
+* [Lipkavec](../tinktury/lipkavec) (Svízel)
+* [Túžobník](../tinktury/tuzobnik) (Tužebník)
+* [Veverský](../caje/veversky) čaj
+* [Ľadvinový](../caje/ladviny) čaj

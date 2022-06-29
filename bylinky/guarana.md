@@ -40,5 +40,5 @@ z *guarany* (samostatne alebo v kombinácii s kofeínom a taurínom) môže nast
 niektorých ľudí telesná slabosť až záchvat.
 
 Aplikácia rastlinky je na stránke produktu
-[Energy&Memory](/sip/#p/energy-memory).
+[Energy&Memory](../procvi/energy-memory).
 

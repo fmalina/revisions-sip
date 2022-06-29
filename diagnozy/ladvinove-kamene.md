@@ -14,8 +14,8 @@ zvracanie, zvracanie.
 Balíček odporučených prípravkov proti ľadvinovým kameňom
 --------------------------------------------------------
 
-* [Nefronen](/sip/elixiry/nefronen) elixír
-* [Pakost](/sip/tinktury/pakost) (Kakost)
-* [Čistiaca zmes](/sip/tinktury/zmes-cistiaca) (Čistící směs)
-* [Púpava](/sip/tinktury/pupava) (Smetanka)
-* [Ľadvinový](/sip/caje/ladviny) čaj
+* [Nefronen](../elixiry/nefronen) elixír
+* [Pakost](../tinktury/pakost) (Kakost)
+* [Čistiaca zmes](../tinktury/zmes-cistiaca) (Čistící směs)
+* [Púpava](../tinktury/pupava) (Smetanka)
+* [Ľadvinový](../caje/ladviny) čaj

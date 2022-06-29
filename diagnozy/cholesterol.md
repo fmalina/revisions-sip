@@ -33,9 +33,9 @@ tuku!*
 Balíček odporučených prípravkov proti cholesterolu
 --------------------------------------------------
 
-* [Veronika](/sip/tinktury/veronika) (Rozrazil)
-* [Túžobník](/sip/tinktury/tuzobnik) (Tužebník)
-* [Cholesterol](/sip/caje/cholesterol) čaj
-* [Pečeňový](/sip/caje/pecenovy-u-caj) - U čaj
-* [Hannasaki](/sip/caje/hannasaki) čaj
-* [Pestrec mariánsky](/sip/caje/pestrec) mletý vláknina (aplikovať s Glukopur v pomere 4:1 1PL; nevariť!)
+* [Veronika](../tinktury/veronika) (Rozrazil)
+* [Túžobník](../tinktury/tuzobnik) (Tužebník)
+* [Cholesterol](../caje/cholesterol) čaj
+* [Pečeňový](../caje/pecenovy-u-caj) - U čaj
+* [Hannasaki](../caje/hannasaki) čaj
+* [Pestrec mariánsky](../caje/pestrec) mletý vláknina (aplikovať s Glukopur v pomere 4:1 1PL; nevariť!)

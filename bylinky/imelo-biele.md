@@ -20,7 +20,7 @@ uprednostňuje ako prostriedok na povzbudenie látkovej výmeny. Súčasne tak d
 vplýva na brušnú slinivku, že po dlhodobej čajovej kúre sa celkom stratí príčina
 vzniku cukrovky. Ľudia, ktorí trpia na chronické poruchy látkovej výmeny, by
 mali skúsiť aspoň pol roka pravidelne piť imelový čaj. Imelo evidentne pôsobí aj
-vtedy, keď je narušená hormonálna funkcia. Imelo sa používa aj ako prostriedok
+vtedy, keď je narušená hormonálna funkcia. Imelo sa používa aj ako prostriedok
 zastavujúci krvácanie. Keď vtiahneme do nosa studený imelový čaj, zastaví nám
 krvácanie, pomáha aj pri krvácaní z pľúc či z čriev; pôsobí aj pri týfuse a
 úplavici. Imelo je uznávaný prostriedok mimoriadne pôsobiaci na srdce a krvný
@@ -45,5 +45,5 @@ vnútornom použití jedovaté, listy a vetvičky však nie. Keď ich však zmie
 bravčovým sadlom na vazelínu a použijeme na omrzliny, úspešne pomôžu (vazelínu
 používame iba zvonka pri omrzlinách).
 
-Aplikáciu bylinky nájdete v tinktúre [Imelo](/tinktury/imelo).
+Aplikáciu bylinky nájdete v tinktúre [Imelo](../tinktury/imelo).
 

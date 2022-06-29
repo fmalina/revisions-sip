@@ -6,10 +6,10 @@ s dýchacími cestami. Regeneruje sliznice a lieči zápal priedušiek.
 
 Zloženie tinktúry:
 
-* čerstvá [myrta voňavá](/sip/bylinky/myrta-vonava)
-* plod [skorocelu indického](/sip/bylinky/skorocel-indicky)
-* plod [bedrovníka anízového](/sip/bylinky/bedrovnik-anizovy)
-* plod [fenikla obyčajného](/sip/bylinky/fenikel-obycajny)
+* čerstvá [myrta voňavá](../bylinky/myrta-vonava)
+* plod [skorocelu indického](../bylinky/skorocel-indicky)
+* plod [bedrovníka anízového](../bylinky/bedrovnik-anizovy)
+* plod [fenikla obyčajného](../bylinky/fenikel-obycajny)
 
 Upozornenie: *Výrobok nie je určený pre deti do 3 rokov. Dávkovanie pre
 dospelých 3 x 15 kvapiek za deň; pre deti od troch rokov 3 x 5 kvapiek za deň

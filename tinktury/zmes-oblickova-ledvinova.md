@@ -6,10 +6,10 @@ Obličková zmes (Ledvinová směs)
 
 Zloženie tinktúry:
 
-* [zlatobyľ](/sip/bylinky/zlatobyl-obycajna)
-* [stavikrv vtáči](/sip/bylinky/stavikrv-vtaci)
-* [horčiak štiavolistý](/sip/bylinky/horciak-stiavolisty)
-* [praslička roľná](/sip/bylinky/praslicka-rolna).
+* [zlatobyľ](../bylinky/zlatobyl-obycajna)
+* [stavikrv vtáči](../bylinky/stavikrv-vtaci)
+* [horčiak štiavolistý](../bylinky/horciak-stiavolisty)
+* [praslička roľná](../bylinky/praslicka-rolna).
 
    Upozornenie: *Výrobok nie je určený pre deti do 3 rokov. Dávkovanie pre
 dospelých 3 x 15 kvapiek za deň; pre deti od troch rokov 3 x 5 kvapiek za deň;

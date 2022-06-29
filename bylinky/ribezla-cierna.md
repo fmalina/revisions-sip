@@ -21,4 +21,4 @@ množstvo živín, najmä gama-linolénovej kyseliny (GLA) a esenciálne mastné
 kyseliny.
 
 Aplikácia rastlinky je v produkte
-[Fructavit](/sip/elixiry/duhovy-fructavit).
+[Fructavit](../elixiry/duhovy-fructavit).

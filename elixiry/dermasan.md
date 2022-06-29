@@ -9,13 +9,13 @@ odporúčaný pri ťažkých kožných poruchách.
 
 Obsahuje bylinky:
 
-* [žltnica maloúborová](/sip/bylinky/zltnica-malouborova),
-* [púpava lekárska](/sip/bylinky/pupava-lekarska),
-* [pestrec mariánsky](/sip/bylinky/pestrec-mariansky),
-* [pakost smradľavý](/sip/bylinky/pakost-smradlavy),
-* [dvojzubec trojdielny](/sip/bylinky/dvojzubec-trojdielny),
-* [zlatobyľ obyčajná](/sip/bylinky/zlatobyl-obycajna),
-* [ľubovník bodkovaný](/sip/bylinky/lubovnik-bodkovany).
+* [žltnica maloúborová](../bylinky/zltnica-malouborova),
+* [púpava lekárska](../bylinky/pupava-lekarska),
+* [pestrec mariánsky](../bylinky/pestrec-mariansky),
+* [pakost smradľavý](../bylinky/pakost-smradlavy),
+* [dvojzubec trojdielny](../bylinky/dvojzubec-trojdielny),
+* [zlatobyľ obyčajná](../bylinky/zlatobyl-obycajna),
+* [ľubovník bodkovaný](../bylinky/lubovnik-bodkovany).
 
 Upozornenie: *Výrobok nie je určený pre deti. Dávkovanie pre dospelých 3 x 15
 kvapiek za deň; riediť v nemineralizovanej vode 20 ml na jednu dávku. Potom sa

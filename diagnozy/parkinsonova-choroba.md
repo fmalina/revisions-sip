@@ -47,6 +47,6 @@ CO alebo podávaním niektorých liekov.
 Balíček odporučených prípravkov proti rozvoju Parkinsonovej choroby
 -------------------------------------------------------------------
 
-* [Neuren](/sip/elixiry/neuren) elixír
-* [Pečeňový](/sip/caje/pecenovy-u-caj) - U čaj
-* [BCAA](/sip/produkty-CVI/bcaa-l-carnitin)
+* [Neuren](../elixiry/neuren) elixír
+* [Pečeňový](../caje/pecenovy-u-caj) - U čaj
+* [BCAA](../procvi/bcaa-l-carnitin)

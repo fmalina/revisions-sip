@@ -37,6 +37,6 @@ prítomnosti čarodejníc.
 čiernym.
 
 Aplikácia bylinky je na stránke čajov
-[Pečeňový U](/sip/caje/pecenovy-u-caj),
-[Hepatik](/sip/caje/hepatik) a
-[Cholesterol](/sip/caje/cholesterol).
+[Pečeňový U](../caje/pecenovy-u-caj),
+[Hepatik](../caje/hepatik) a
+[Cholesterol](../caje/cholesterol).

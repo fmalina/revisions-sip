@@ -4,7 +4,7 @@ Kurz masáže kojencov a detí
 #### Naše stránky navštevujú aj skúsení maséri, najmä zo Slovenska. Táto informácia je určená práve im, ale nie len im…
 
 V tomto roku, koncom mája (pravdepodobne posledný týždeň), bude v Nitre otvorený
-prvý ***lektorský akreditovaný kurz masáže kojencov a detí*** v spolupráci s
+prvý ***lektorský akreditovaný kurz masáže kojencov a detí*** v spolupráci s
 [IAIM](http://www.iaim.net/ "English") (medzinárodná asociácia masáže kojencov a
 detí).
 
@@ -37,7 +37,7 @@ Tipy
 * počet účastníkov je obmedzený
 * tento druh kurzu bude na Slovensku v roku 2008 jediný.
 * hláste sa čo najskôr na e-mail adrese [holistic\_services@yahoo.com](mailto:holistic_services@yahoo.com?subject=Prihlaska%20z%20unilexicon.com/sip).
-V predmete e-mailu spomeňte unilexicon.com/sip
+V predmete e-mailu spomeňte unilexicon.com/sip
 
 \_\_\_\_\_\_\_\_\_\_\_
 

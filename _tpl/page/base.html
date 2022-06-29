@@ -5,14 +5,14 @@
 <title>{% block title %}{{ page.title }} - {{ site_name }}{% endblock %}</title>
 <meta name="description" content="{{ desc }}">
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-<link rel="stylesheet" href="/sip/style.css">
-<link rel="canonical" href="/sip{{ page.get_absolute_url }}">
-<link rel="alternate" href="/sip/feed.xml" type="application/rss+xml" title="RSS">
+<link rel="stylesheet" href="{{ site_root }}/style.css">
+<link rel="canonical" href="{{ site_url }}{{ page.get_absolute_url }}">
+<link rel="alternate" href="{{ site_root }}/feed.xml" type="application/rss+xml" title="RSS">
 </head>
 <body>
 <header>
-    	<a href="/sip/">{{ site_name }}</a> 🌿
-      {% if page.parent %}<a href="/sip/{{ page.parent }}">{{ page.parent }}</a>{% endif %}
+    <a href="{{ site_root }}/">{{ site_name }}</a> 🌿
+    {% if page.parent %}<a href="{{ site_root }}/{{ page.parent }}">{{ parent_page.title }}</a>{% endif %}
 </header>
 <main>
     <h1>{{ page.title }}</h1>
@@ -22,7 +22,7 @@
 <nav>
     <ul>
     {% for p in ls %}
-        <li><a href="/sip{{ p.get_absolute_url }}">{{ p.title }}</a></li>
+        <li><a href="{{ site_root }}{{ p.get_absolute_url }}">{{ p.title }}</a></li>
     {% endfor %}
     </ul>
 </nav>

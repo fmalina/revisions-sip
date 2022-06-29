@@ -9,11 +9,11 @@ chrapot.
 
 Obsahuje bylinky:
 
-* [divozel veľkokvetý](/sip/bylinky/divozel-velkokvety)
-* [dúška materina](/sip/bylinky/duska-materina)
-* [benedikt lekársky](/sip/bylinky/benedikt-lekarsky)
-* [ginkgo dvojlaločné](/sip/bylinky/ginkgo-dvojlalocne)
-* [oman pravý](/sip/bylinky/oman-pravy).
+* [divozel veľkokvetý](../bylinky/divozel-velkokvety)
+* [dúška materina](../bylinky/duska-materina)
+* [benedikt lekársky](../bylinky/benedikt-lekarsky)
+* [ginkgo dvojlaločné](../bylinky/ginkgo-dvojlalocne)
+* [oman pravý](../bylinky/oman-pravy).
 
 Upozornenie: *Výrobok nie je vhodný pre deti do 6 rokov. Dávkovanie pre 6 x 5
 kvapiek za deň; riediť v nemineralizovanej vode 20 ml na jednu dávku. Potom sa

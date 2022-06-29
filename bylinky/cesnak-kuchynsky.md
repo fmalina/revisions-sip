@@ -6,12 +6,12 @@ Cesnak kuchynský
 *Výskyt*: Cesnak kuchynský patrí medzi najstaršie liečivé rastliny.
 Pravdepodobne pochádza zo strednej a východnej Ázie. Dnes sa pestuje na celom
 svete a najväčším producentom je Čína, po nej nasledujú India, Thajsko, Egypt a
-USA. Cesnak kuchynský vyžaduje úrodné hlinito - piesočnaté a piesočnato -
+USA. Cesnak kuchynský vyžaduje úrodné hlinito - piesočnaté a piesočnato -
 hlinité pôdy bohaté na humus a živiny. Cesnak neznáša priame hnojenie maštaľným
 hnojom. Pôda nesmie byť ťažká, priliehavá, studená a premokrená, cesnak je
 citlivý na neprevzdušnenú pôdu (ľahko v nej podlieha chorobám), neznáša pôdny
 prísušok po zalievaní. Pri pestovaní cesnaku sa neodporúča opakované sadenie do
-tej istej pôdy po sebe skôr, ako v 5 až 7 ročných intervaloch. Pri sadení v
+tej istej pôdy po sebe skôr, ako v 5 až 7 ročných intervaloch. Pri sadení v
 kratších intervaloch vzniká riziko napadnutia úrody háďatkom zhubným.
 
 *Zber*: Tri až štyri týždne pred zberom cesnak nezalievame. Správny čas zberu
@@ -38,13 +38,13 @@ viazalo veľa povier, vešal sa nad dvere a do okien, aby udržal čo najďalej
 démonov a upírov. Egypťania verili, že cesnak im dodáva silu pri namáhavej práci
 (pyramídy), Gréci vyzdvihovali jeho povzbudzujúce, močopudné, antiseptické,
 antiastmatické, preháňavé, upravujúce nepravidelnú menštruáciu a
-antiparazitické účinky. Perzskí lekári ho považovali za liek na vitiligo,
+antiparazitické účinky. Perzskí lekári ho považovali za liek na vitiligo,
 besnotu a protijed.
 
 *Upozornenie*: Pri dodržovaní odporúčaných dávok sa nevyskytujú komplikácie.
 Veľké dávky však môžu spôsobiť predráždenie tráviacej sliznice a močových ciest.
 
 Aplikáciu bylinky nájdete na stránke protiparazitického prípravku
-[ParaProteX](/sip/produkty-CVI/paraprotex), produkte
-[Choleston](/sip/produkty-CVI/choleston) a
-[Forever Garlic - Thyme](/sip/produkty-FLP/forever-garlic-thyme).
+[ParaProteX](../procvi/paraprotex), produkte
+[Choleston](../procvi/choleston) a
+[Forever Garlic - Thyme](../proflp/forever-garlic-thyme).

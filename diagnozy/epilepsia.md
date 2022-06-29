@@ -21,9 +21,9 @@ záchvatmi - **veľký** záchvat, **malý** záchvat, **psychomotorický** zác
 Balíček odporučených prípravkov proti epilepsii
 -----------------------------------------------
 
-* [Ginkgo](/sip/tinktury/ginkgo) biloba tinktúra
-* [Žilná zmes](/sip/tinktury/ginkgo) tinktúra
-* [Valeriána](/sip/tinktury/valeriana) lekárska (Kozlík) tinktúra
-* [Pozdrav z Křtin](/sip/caje/pozdrav-z-krtin) čaj
-* [Hepatik](/sip/caje/hepatik) čaj
-* [Pestrec mariánsky](/sip/caje/pestrec) (Ostropestřec) s Glukopur 4:1 PL v obchodnej sieti - nevariť!
+* [Ginkgo](../tinktury/ginkgo) biloba tinktúra
+* [Žilná zmes](../tinktury/ginkgo) tinktúra
+* [Valeriána](../tinktury/valeriana) lekárska (Kozlík) tinktúra
+* [Pozdrav z Křtin](../caje/pozdrav-z-krtin) čaj
+* [Hepatik](../caje/hepatik) čaj
+* [Pestrec mariánsky](../caje/pestrec) (Ostropestřec) s Glukopur 4:1 PL v obchodnej sieti - nevariť!

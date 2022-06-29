@@ -4,11 +4,11 @@ Smilax lekársky
 ### Sarsaparilla, Smilax Officinalis, Zázvorové pivo
 
 *Výskyt*: Pochádza zo strednej Ameriky (Honduras, Guatemala, Mexiko a Grenada) a
-západnej Indie. Niekoľko druhov má zastúpenie v lesoch vo všetkých oblastiach
+západnej Indie. Niekoľko druhov má zastúpenie v lesoch vo všetkých oblastiach
 Spojených štátov a nesú ľudový názov Greenbrier.
 
 *Uplatnenie*: Európski lekári považujú smilax za „čističku“ krvi a diuretikum,
-ďalej ako liek na syfilis a reumatizmus a tiež ďalšie pohlavne prenosné choroby.
+ďalej ako liek na syfilis a reumatizmus a tiež ďalšie pohlavne prenosné choroby.
 Ďalej pôsobí pri ochorení dnou, pri reumatizme, poraneniach, artritíde, horúčke,
 kašli, skrofulóze (tuberkulóza krčných miazgových (lymfatických) uzlín),
 upravuje vysoký krvný tlak, tráviace poruchy, psoriázu, kožné ochorenia a
@@ -25,6 +25,6 @@ zárodky choroby sú "v ponuke" v domácej strave.
 *Upozornenie*: Nadmerné dávky môžu spôsobiť gastrointestinálne podráždenie
 (tráviacej sústavy).
 
-Aplikácia je na stránkach [VitalMan](/sip/#p/vital-man) a
-[VitalWoman](/sip/#p/vital-woman).
+Aplikácia je na stránkach [VitalMan](../procvi/vital-man) a
+[VitalWoman](../procvi/vital-woman).
 

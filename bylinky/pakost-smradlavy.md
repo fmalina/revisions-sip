@@ -23,7 +23,7 @@ dutiny, zápal mandlí, krvácanie z nosa, povrchové odreniny a rany.
 *Upozornenie*: Pri zbere citlivejšia pokožka zberača môže mať slabé zápaly!
 
 Aplikáciu bylinky nájdete na stránkach tinktúry
-[Pakost](/tinktury/pakost) a elixírov
-[Reumel](/elixiry/reumel), [Disbiosan](/elixiry/disbiosan) a
-[Dermasan](/elixiry/dermasan).
+[Pakost](../tinktury/pakost) a elixírov
+[Reumel](../elixiry/reumel), [Disbiosan](../elixiry/disbiosan) a
+[Dermasan](../elixiry/dermasan).
 

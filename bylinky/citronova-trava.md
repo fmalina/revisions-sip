@@ -25,5 +25,5 @@ liekoch.
 na staroveké dokumenty (udržiava ich suché a vláčne).
 
 Aplikácia bylinky je v čaji
-[Rooibos s citrónovou trávou](/sip/caje/rooibos-s-citronovou-travou) a čaji
-[Siesta](/sip/caje/siesta).
+[Rooibos s citrónovou trávou](../caje/rooibos-s-citronovou-travou) a čaji
+[Siesta](../caje/siesta).

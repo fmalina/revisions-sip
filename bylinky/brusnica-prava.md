@@ -26,4 +26,4 @@ nachladnutí (znižujú horúčky).
 neodporúča sa tiež ľuďom náchylným na tvorbu obličkových kameňov.
 
 Aplikácia bylinky je na stránke produktu
-[Zenthonic](/sip/produkty-CVI/zenthonic).
+[Zenthonic](../procvi/zenthonic).

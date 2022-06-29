@@ -29,6 +29,6 @@ stárnutiu a k celkovému posilneniu organizmu, ktoré je okrem iného dané
 anabolickým efektom.
 
 Aplikáciu bylinky nájdete v produkte [Liquid
-Chlorophyll](/sip/#p/liquid-chlorophyll). a v produkte [Fields
-of Greens](/sip/#p/fields-of-greens).
+Chlorophyll](../procvi/liquid-chlorophyll). a v produkte [Fields
+of Greens](../proflp/fields-of-greens).
 

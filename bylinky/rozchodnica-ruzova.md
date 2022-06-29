@@ -3,9 +3,9 @@ Rozchodnica ružová
 
 #### Rozchodnice růžová, Rhodiola rosea (syn. Sedum roseum), Rozchodnica (Zlatý koreň)
 
-*Výskyt*: Rastie predovšetkým vo vysokohorských oblastiach bývalého ZSSR (južná
+*Výskyt*: Rastie predovšetkým vo vysokohorských oblastiach bývalého ZSSR (južná
 Sibír, Ural, Zabajkalsko), Mongolska, Číny, západnej a strednej Európy a
-Balkánu.  Na Slovensku ju nájdeme v Tatrách a v Malej Fatre, je však zákonom
+Balkánu.  Na Slovensku ju nájdeme v Tatrách a v Malej Fatre, je však zákonom
 chránená. Dá sa dobre pestovať zo semien alebo delením odrezkov.
 Identifikovaných bolo okolo 200 druhov, známych je asi 20 druhov, napr. *R.
 alterna, R. brevipetiolata, R. crenulata, R. kirilowii* a *R. sachalinensis.*
@@ -41,7 +41,7 @@ vyvinuté metódy kultivácie Rhodiola rosea a v oblastiach južného Fínska za
 plantáže a boli vyškolení pestovatelia.
 
 Aplikáciu bylinky nájdete na stránke tinktúry
-[Rozchodnica](/tinktury/rozchodnica), na stránke elixíru
-[Vitalit](/elixiry/vitalit-eleixir) a prípravku zdravej výživy
-[Rhodiolin](/zdravie/rhodiolin-120-ks-60-ks).
+[Rozchodnica](../tinktury/rozchodnica), na stránke elixíru
+[Vitalit](../elixiry/vitalit-eleixir) a prípravku zdravej výživy
+[Rhodiolin](../zdravie/rhodiolin-120-ks-60-ks).
 

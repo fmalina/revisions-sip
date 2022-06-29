@@ -15,10 +15,10 @@ nikedy pojem imunita zjednodušuje na obranu proti infekcií.
 Objednajte si balíček prípravkov na posilnenie imunity
 ------------------------------------------------------
 
-* [Echinacea](/sip/tinktury/echinacea) (Echinacea)
-* [Kapucínka](/sip/tinktury/kapucinka) (Lichořeřišnice)
-* [Túžobník](/sip/tinktury/tuzobnik) (Tužebník)
-* [Stimulen](/sip/elixiry/stimulen) elixír
-* [Sayonara](/sip/caje/sayonara) čajovina
-* [Rooibos](/sip/caje/rooibos) čaj
-* [Psyllium](/sip/caje/psyllium) vláknina; nevariť!
+* [Echinacea](../tinktury/echinacea) (Echinacea)
+* [Kapucínka](../tinktury/kapucinka) (Lichořeřišnice)
+* [Túžobník](../tinktury/tuzobnik) (Tužebník)
+* [Stimulen](../elixiry/stimulen) elixír
+* [Sayonara](../caje/sayonara) čajovina
+* [Rooibos](../caje/rooibos) čaj
+* [Psyllium](../caje/psyllium) vláknina; nevariť!

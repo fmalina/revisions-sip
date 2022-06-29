@@ -55,10 +55,10 @@ mihalnice, pálenie, svrbenie, pocit cudzieho telesa v oku a slziace oči.
 Balíček odporučených prípravkov na prevenciu proti problémom s očami
 --------------------------------------------------------------------
 
-* [Očianka](/sip/tinktury/ocianka) (Světlík)
-* [Pagaštan](/sip/#p/pagastan) (Jírovec)
-* [Nechtík](/sip/#p/nechtik) (Měsíček) - pre vonkajšie použitie pripraviť riedený nálev!
-* [Psyllium](/sip/caje/psyllium) vláknina
-* [Pečeňový](/sip/caje/pecenovy-u-caj) - U čaj
-* [Pestrec mariánsky](/sip/caje/pestrec) mletý *(aplikovať s Glukopur v pomere 4:1 1PL); nevariť!*
-* Olivový panenský olej; lisovaný za studena 1 PL *(v obchodnej sieti)*
+* [Očianka](../tinktury/ocianka) (Světlík)
+* [Pagaštan](../tinktury/pagastan) (Jírovec)
+* [Nechtík](../tinktury/nechtik) (Měsíček) - pre vonkajšie použitie pripraviť riedený nálev!
+* [Psyllium](../caje/psyllium) vláknina
+* [Pečeňový](../caje/pecenovy-u-caj) - U čaj
+* [Pestrec mariánsky](../caje/pestrec) mletý *(aplikovať s Glukopur v pomere 4:1 1PL); nevariť!*
+* Olivový panenský olej; lisovaný za studena 1 PL *(v obchodnej sieti)*

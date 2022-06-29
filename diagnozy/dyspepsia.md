@@ -25,9 +25,9 @@ pach, býva často aj pri karcinóme hrubého čreva.
 Balíček odporučených prípravkov proti dyspepsii
 -----------------------------------------------
 
-* [Benedikt](/sip/tinktury/benedikt) tinktúra
-* [Žalúdočná zmes](/sip/tinktury/zmes-zaludocna) tinktúra
-* [Čistiaca zmes](/sip/tinktury/zmes-cistiaca) (Čistící směs)
-* [Rooibos](/sip/caje/rooibos) čaj
-* [Žalúdok a črevá](/sip/caje/zaludok-creva) čaj
-* Olivový olej panenský; lisovaný za studena, 1PL - v obchodnej sieti
+* [Benedikt](../tinktury/benedikt) tinktúra
+* [Žalúdočná zmes](../tinktury/zmes-zaludocna) tinktúra
+* [Čistiaca zmes](../tinktury/zmes-cistiaca) (Čistící směs)
+* [Rooibos](../caje/rooibos) čaj
+* [Žalúdok a črevá](../caje/zaludok-creva) čaj
+* Olivový olej panenský; lisovaný za studena, 1PL - v obchodnej sieti

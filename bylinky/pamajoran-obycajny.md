@@ -1,7 +1,7 @@
 Pamajorán obyčajný
 ==================
 
-#### Dobromysl obecná, Origanum vulgare L., Origanum majorana L., Origanum onites L., Dobrá myseľ (červený čaj, divá majoránka, pastiersky tymian)
+#### Dobromysl obecná, Origanum vulgare L., Origanum majorana L., Origanum onites L., Dobrá myseľ (červený čaj, divá majoránka, pastiersky tymian)
 
 *Výskyt*: Pamajorán obyčajný (oregano) sa často zamieňa s majoránom záhradným,
 ktorý u nás divo nerastie. Odkiaľ sa bylinka objavila v našich končinách nie je
@@ -23,5 +23,5 @@ používa na podporu trávenia a liečbu zápalu priedušiek.
 *Upozornenie*: Silica sa nesmie užívať, lebo vo vysokých dávkach sa prejavuje
 neurotoxicky a vyvoláva kŕče.
 
-Aplikáciu bylinky nájdete v elixíre [Hypnosan](/elixiry/hypnosan).
+Aplikáciu bylinky nájdete v elixíre [Hypnosan](../elixiry/hypnosan).
 

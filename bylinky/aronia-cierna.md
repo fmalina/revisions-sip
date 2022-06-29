@@ -32,4 +32,4 @@ ich môžeme zbierať postupne a konzumovať ich vždy čerstvé. Niekedy nás a
 predbehnúť vtáci, preto je rozumné na toto období prekryť ker sieťovinou (hoci
 rozdeliť sa o úrodu s operencami je celkom fér).
 
-Aplikácia bylinky je v produkte [Fructavit](/sip/elixiry/duhovy-fructavit).
+Aplikácia bylinky je v produkte [Fructavit](../elixiry/duhovy-fructavit).

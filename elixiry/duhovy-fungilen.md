@@ -58,11 +58,11 @@ niekoľkých dňoch samy odoznejú.
 
 Zloženie:
 
-* [plamienka zimná](/sip/#p/plamienka-zimna) extrakt z plodnice,
-* [kapucínka väčšia](/sip/#p/kapucinka-vacsia) kvet,
-* [breza previsnutá](/sip/#p/breza-previsnuta) list,
-* [levanduľa lekárska](/sip/#p/levandula-lekarska) vňať,
-* [puškvorec obyčajný](/sip/#p/puskvorec-obycajny) koreň,
+* [plamienka zimná](../bylinky/plamienka-zimna) extrakt z plodnice,
+* [kapucínka väčšia](../bylinky/kapucinka-vacsia) kvet,
+* [breza previsnutá](../bylinky/breza-previsnuta) list,
+* [levanduľa lekárska](../bylinky/levandula-lekarska) vňať,
+* [puškvorec obyčajný](../bylinky/puskvorec-obycajny) koreň,
 * alkohol 43 %.
 
 *Upozornenie*: Na vzniku mykóz, dermatóz, dismikróbie a ďalších hore uvedených

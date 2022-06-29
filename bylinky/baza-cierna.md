@@ -27,7 +27,7 @@ majú mierne preháňavý účinok.
 *Zaujímavosť*: Nálezy semien bazy čiernej boli v dobe kamenne a bronzovej, čo
 svedčí o tom, že už v praveku slúžila ako potrava.
 
-Aplikáciu bylinky nájdete v elixíre [Cardolen](/elixiry/cardolen) a
-čajoch [Chrípka](/sip/caje/chripka), [Pre deti](/sip/caje/pre-deti) a [Veverský
-čaj](/sip/caje/veversky).
+Aplikáciu bylinky nájdete v elixíre [Cardolen](../elixiry/cardolen) a
+čajoch [Chrípka](../caje/chripka), [Pre deti](../caje/pre-deti) a [Veverský
+čaj](../caje/veversky).
 

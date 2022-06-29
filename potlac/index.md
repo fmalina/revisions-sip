@@ -1,12 +1,10 @@
 Tričká a tašky
 ==============
 
-## mimo predaj
-
 *Tieto stránky sú spracované podľa podkladov Marie Kučerovej (Art – Mehrid,
 Prievidza), ktorej budú zaslané Vaše objednávky na realizáciu.*
 
-Na stránkach [Tričká](/sip/lieciveobrazy/tricka) a [Tašky](/sip/lieciveobrazy/tasky)
+Na stránkach [Tričká](../lieciveobrazy/tricka) a [Tašky](../lieciveobrazy/tasky)
 sa dozvedáte o autorke, jej pocitoch, vyznaniach a o produktoch z jej tvorivej dielne.
 Je na Vás, či tieto informácie prijmete s rešpektom, úctou a láskou, alebo odmietnete.
 
@@ -48,9 +46,6 @@ diela, ktoré siahajú svojou silou tam, kam už „nemôže“ lekár ani lieč
 
 Je na Vás, či tieto informácie prijmete s rešpektom, úctou a láskou, alebo ich
 jednoducho - odmietnete.
-
-Vyberte si svoj vybraný tovar a vložte ho do košíka. Produkty Vám dodáme poštou
-na dobierku.
 
 *Tieto stránky sú spracované podľa podkladov Marie Kučerovej (Art – Mehrid,
 Prievidza)*

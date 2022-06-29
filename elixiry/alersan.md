@@ -11,11 +11,11 @@ ciest a čriev, zvyšuje odolnosť proti vírusom a baktériám, má protizápal
 
 Obsahuje bylinky:
 
-* [kapucínka väčšia](/sip/bylinky/kapucinka-vacsia),
-* [echinacea purpurea](/sip/bylinky/echinacea-purpurea),
-* [levanduľa lekárska](/sip/bylinky/levandula-lekarska),
-* [očianka rostkovova](/sip/bylinky/ocianka-rostkovova)
-* [dvojzubec trojdielny](/sip/bylinky/dvojzubec-trojdielny).
+* [kapucínka väčšia](../bylinky/kapucinka-vacsia),
+* [echinacea purpurea](../bylinky/echinacea-purpurea),
+* [levanduľa lekárska](../bylinky/levandula-lekarska),
+* [očianka rostkovova](../bylinky/ocianka-rostkovova)
+* [dvojzubec trojdielny](../bylinky/dvojzubec-trojdielny).
 
 Upozornenie*: Výrobok nie je vhodný pre deti. Dávkovanie maximálne 3 x 15
 kvapiek za deň; riediť v nemineralizovanej vode 20 ml na jednu dávku. Potom sa

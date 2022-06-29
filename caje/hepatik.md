@@ -5,8 +5,8 @@ Hepatik (Hepatik)
 
 Obsahuje:
 
-* [čakanku](/sip/bylinky/cakanka-obycajna) koreň a vňať
-* [jahody obyčajnej](/sip/bylinky/jahoda-obycajna) koreň a vňať,
-* [púpavu lekársku](/sip/bylinky/pupava-lekarska),
-* [pýr plazivý](/sip/bylinky/pyr-plazivy),
-* [repík lekársky](/sip/bylinky/repik-lekarsky).
+* [čakanku](../bylinky/cakanka-obycajna) koreň a vňať
+* [jahody obyčajnej](../bylinky/jahoda-obycajna) koreň a vňať,
+* [púpavu lekársku](../bylinky/pupava-lekarska),
+* [pýr plazivý](../bylinky/pyr-plazivy),
+* [repík lekársky](../bylinky/repik-lekarsky).

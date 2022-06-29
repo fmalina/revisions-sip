@@ -75,8 +75,8 @@ rozdiely vo výskyte anémie vyrovnávajú.
 Balíček odporučených prípravkov proti anémii
 --------------------------------------------
 
-* [Veverský](/sip/caje/veversky) čaj
-* [Čistiaca](/sip/tinktury/zmes-cistiaca) zmes
-* [Lipkavec](/sip/tinktury/lipkavec) (Svízel)
-* [Ľubovník](/sip/tinktury/lubovnik) (Třezalka)
-* Olivový olej panenský; lisovaný za studena, 1PL - v obchodnej sieti
+* [Veverský](../caje/veversky) čaj
+* [Čistiaca](../tinktury/zmes-cistiaca) zmes
+* [Lipkavec](../tinktury/lipkavec) (Svízel)
+* [Ľubovník](../tinktury/lubovnik) (Třezalka)
+* Olivový olej panenský; lisovaný za studena, 1PL - v obchodnej sieti

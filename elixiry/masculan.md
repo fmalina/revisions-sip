@@ -10,10 +10,10 @@ proti problémom s prostatou a impotenciou.
 
 Obsahuje bylinky:
 
-* [leuzea šuštivá](/sip/bylinky/leuzea-sustiva),
-* [zlatobyľ obyčajná](/sip/bylinky/zlatobyl-obycajna),
-* [všehojovec štetinatý](/sip/bylinky/vsehojovec-stetinaty),
-* [pýr plazivý](/sip/bylinky/pyr-plazivy).
+* [leuzea šuštivá](../bylinky/leuzea-sustiva),
+* [zlatobyľ obyčajná](../bylinky/zlatobyl-obycajna),
+* [všehojovec štetinatý](../bylinky/vsehojovec-stetinaty),
+* [pýr plazivý](../bylinky/pyr-plazivy).
 
 *Upozornenie: Výrobok nie je vhodný pre deti. Dávkovanie maximálne 3 x 15
 kvapiek za deň; riediť v nemineralizovanej vode 20 ml na jednu dávku. Potom sa

@@ -8,11 +8,11 @@ organizmu, predchádza vzniku kĺbových problémov, zmierňuje zápalové stavy
 
 Obsahuje bylinky:
 
-* [pakost smradľavý](/sip/bylinky/pakost-smradlavy)
-* [echinacea purpurea](/sip/bylinky/echinacea-purpurea)
-* [túžobník brestový](/sip/bylinky/tuzobnik-brestovy)
-* [mrlík dobrý](/sip/bylinky/mrlik-dobry)
-* [breza previsnutá](/sip/bylinky/breza-previsnuta).
+* [pakost smradľavý](../bylinky/pakost-smradlavy)
+* [echinacea purpurea](../bylinky/echinacea-purpurea)
+* [túžobník brestový](../bylinky/tuzobnik-brestovy)
+* [mrlík dobrý](../bylinky/mrlik-dobry)
+* [breza previsnutá](../bylinky/breza-previsnuta).
 
 Upozornenie: *Výrobok nie je určený pre deti. Dávkovanie pre dospelých 3 x 15
 kvapiek za deň; riediť v nemineralizovanej vode 20 ml na jednu dávku. Potom sa

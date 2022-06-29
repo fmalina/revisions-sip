@@ -4,8 +4,8 @@ Vyšetrenie živej kvapky krvi pod mikroskopom
 Čo to je?
 
 Je to veľmi zaujímavá metóda pohľadu na Vaše zdravie cez kvapku krvi (živej
-kvapky krvi) pod mikroskopom. Vyšetrujúci Vám pri analýze obrazu Vašej krvi
-(ktorý sledujete spolu s ním (ňou) na displeji počítača) odpovie na rad
+kvapky krvi) pod mikroskopom. Vyšetrujúci Vám pri analýze obrazu Vašej krvi
+(ktorý sledujete spolu s ním (ňou) na displeji počítača) odpovie na rad
 zvedavých otázok, ukáže Vám čo je dobré a čo menej dobré, odporučí Vám zmeny,
 ktoré Vám určite pomôžu.
 

@@ -34,4 +34,4 @@ centrálne toxické následky. Šťava z čerstvej rastliny môže pri vniknutí
 svojím proteolytickým účinkom natrvalo poleptať rohovku. V žiadnom prípade zber
 nesmú robiť deti!
 
-Aplikácia bylinky je v tinktúre [Lastovičník väčší](/sip/tinktury/lastovicnik).
+Aplikácia bylinky je v tinktúre [Lastovičník väčší](../tinktury/lastovicnik).

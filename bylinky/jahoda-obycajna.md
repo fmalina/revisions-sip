@@ -15,7 +15,7 @@ dodnes.
 
 *Uplatnenie*: Má sťahujúce a močopudné účinky, ktoré jej dodávajú taníny a
 pôsobia proti hnačke. Vďaka prokyanidovým derivátom v podzemku zasa chránia
-cievy. Podzemné časti rastliny sa odporúčajú aj na liečbu miernej hnačky a ako
+cievy. Podzemné časti rastliny sa odporúčajú aj na liečbu miernej hnačky a ako
 hygienická ústna voda na výplachy. V liečiteľstve sa rastlinka odporúča aj na
 zápchu, skorbut, dnu, tuberkulózu, arteriosklerózu, pletoru (rozmnožovanie
 plyzmy a krviniek) a nízky tlak. Jahodovým kúpeľom sa pripisuje povesť
@@ -31,9 +31,9 @@ pretože by ich *ujedala dieťaťu v nebi*.
 jahodách dostať žihľavku; tiež neodporúčame jesť pri ľadvinovej kolike.
 
 Aplikáciu bylinky nájdete na stránkeproduktu
-[Zenthonic](/sip/#p/zenthonic), čajov
-[Hepatik,](/sip/caje/hepatik) [Pozdrav ze Křtin](/sip/caje/pozdrav-z-krtin) a
-[Siesta](/sip/caje/siesta).
+[Zenthonic](../procvi/zenthonic), čajov
+[Hepatik,](../caje/hepatik) [Pozdrav ze Křtin](../caje/pozdrav-z-krtin) a
+[Siesta](../caje/siesta).
 
 ### 
 

@@ -8,12 +8,12 @@ najmä pre študentov, manažérov a duševne pracujúcich).
 
 Obsahuje bylinky:
 
-* [nevädza poľná](/sip/bylinky/nevadza-polna),
-* [medovka lekárska](/sip/bylinky/medovka-lekarska),
-* [srdcovník obyčajný](/sip/bylinky/srdcovnik-obycajny),
-* [ľubovník bodkovaný](/sip/bylinky/lubovnik-bodkovany),
-* [hluchavka biela](/sip/bylinky/hluchavka-biela)
-* [chmeľ obyčajný](/sip/bylinky/chmel-obycajny).
+* [nevädza poľná](../bylinky/nevadza-polna),
+* [medovka lekárska](../bylinky/medovka-lekarska),
+* [srdcovník obyčajný](../bylinky/srdcovnik-obycajny),
+* [ľubovník bodkovaný](../bylinky/lubovnik-bodkovany),
+* [hluchavka biela](../bylinky/hluchavka-biela)
+* [chmeľ obyčajný](../bylinky/chmel-obycajny).
 
 *Upozornenie: Výrobok nie je vhodný pre deti. Dávkovanie maximálne 3 x 15
 kvapiek za deň; riediť v nemineralizovanej vode 20 ml na jednu dávku. Potom sa

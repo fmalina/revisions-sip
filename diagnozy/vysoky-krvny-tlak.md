@@ -27,10 +27,10 @@ Hodnoty TK v detskom veku a u mladistvých sú nižšie!
 Balíček odporučených prípravkov proti vysokému krvnému tlaku
 ------------------------------------------------------------
 
-* [Hloh](/sip/tinktury/hloh) (Hloh)
-* [Veronika](/sip/tinktury/veronika) (Rozrazil)
-* [Imelo](/sip/#p/imelo) (Jmelí)
-* [Hepatik](/sip/caje/hepatik) čaj
-* [Ľadvinový](/sip/caje/ladviny) čaj
-* [Pestrec mariánsky](/sip/#p/pestrec) mletý (aplikovať s Glukopur v pomere 4:1 1PL; nevariť!)
+* [Hloh](../tinktury/hloh) (Hloh)
+* [Veronika](../tinktury/veronika) (Rozrazil)
+* [Imelo](../tinktury/imelo) (Jmelí)
+* [Hepatik](../caje/hepatik) čaj
+* [Ľadvinový](../caje/ladviny) čaj
+* [Pestrec mariánsky](../tinktury/pestrec) mletý (aplikovať s Glukopur v pomere 4:1 1PL; nevariť!)
 * Olivový olej (obchodná sieť) 1 PL denne

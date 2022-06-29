@@ -36,11 +36,11 @@ bola veľmi nešťastná a prosila bohov, aby nepatrila ani do ríše mŕtvych, 
 živých. Bohovia jej vyhoveli, premenili ju na ker – *myrhu*, ktorá nad svojim
 osudom neustále roní horké slzy vo forme živice.
 
-*Upozornenie*: *Myrha* je považovaná za tzv. bezpečnú rastlinu, napriek tomu ju
+*Upozornenie*: *Myrha* je považovaná za tzv. bezpečnú rastlinu, napriek tomu ju
 však neodporúčame pre tehotné ženy (možnosť dráždenia maternice a vyvolanie
 sťahov), pri nadmernom používaní môže vyvolať hnačky a bolesti brucha. Nie je
 vhodná ani pre deti mladšie ako 2 roky, pretože deti v tomto veku nevedia
 kloktať a vypľuť tekutinu (zvyčajne ju prehltnú).
 
 Aplikácia živice je v protiparazitickom produkte
-[ParaProteX](/sip/produkty-CVI/paraprotex).
+[ParaProteX](../procvi/paraprotex).

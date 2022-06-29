@@ -14,6 +14,4 @@ do podhorských oblastí.
 *Uplatnenie*: Droga má protihnačkové účinky, pomáha rozpúšťať močové kamienky a
 pôsobí dezinfekčne na močové cesty.
 
-Aplikáciu bylinky nájdete na stránke tinktúry [Obličková
-zmes](/sip/#p/oblickova-zmes-ledvinova-smes).
-
+Aplikáciu bylinky nájdete na stránke tinktúry [Obličková zmes](../tinktury/zmes-oblickova-ledvinova).

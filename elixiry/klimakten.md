@@ -13,11 +13,11 @@ pohybu), pomáha ku rovnováhe minerálnych látok a stopových prvkov v tele.
 
 Obsahuje bylinky:
 
-* [jarabina vtáčia](/sip/bylinky/jarabina-vtacia),
-* [srdcovník obyčajný](/sip/bylinky/srdcovnik-obycajny),
-* [ľubovník bodkovaný](/sip/bylinky/lubovnik-bodkovany),
-* [alchemilka žltozelená](/sip/bylinky/alchemilka-zltozelena),
-* [veronika lekárska](/sip/bylinky/veronika-lekarska).
+* [jarabina vtáčia](../bylinky/jarabina-vtacia),
+* [srdcovník obyčajný](../bylinky/srdcovnik-obycajny),
+* [ľubovník bodkovaný](../bylinky/lubovnik-bodkovany),
+* [alchemilka žltozelená](../bylinky/alchemilka-zltozelena),
+* [veronika lekárska](../bylinky/veronika-lekarska).
 
 Upozornenie*: Výrobok nie je vhodný pre deti. Dávkovanie maximálne 3 x 15
 kvapiek za deň; riediť v nemineralizovanej vode 20 ml na jednu dávku. Potom sa

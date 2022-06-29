@@ -15,13 +15,13 @@ neodpadávali. Zviazané do snopčekov sa nechajú na plachtách dozrieť; po
 vymlátení sa presúšajú na vzdušných miestach za občasného presýpania. Skladujú
 sa v dobre uzatvorených obaloch.
 
-*Uplatnenie*: *Rasca* všaka silici pôsobí ako mierne spazmolitikum proti kŕčom,
+*Uplatnenie*: *Rasca* všaka silici pôsobí ako mierne spazmolitikum proti kŕčom,
 eupeptikum podporujúce trávenie a vetropudné karminatívum. Silica má fungicídne
 účinky (usmrcuje viaceré mikroorganizmy, napr. Aspergillus a Candida). Rastlina
 podporuje trávenie, utišujúco pôsobí na bolesti brucha (kolika) a aerofágiou. V
 ľudovom liečiteľstve jej pripisovali aj schopnosť galaktologa (z *gréčtiny
-- veda o mlieku*). Dnes sa hojne používa na dochucovanie syrov, chleba, pečiva a
+- veda o mlieku*). Dnes sa hojne používa na dochucovanie syrov, chleba, pečiva a
 cukrárskych výrobkov.
 
-Aplikáciu bylinky nájdete na stránke [Brnenský čaj](/sip/caje/brnensky).
+Aplikáciu bylinky nájdete na stránke [Brnenský čaj](../caje/brnensky).
 

@@ -7,9 +7,9 @@ strese. Je vhodný adaptogén v náročných podmienkach námahy.
 
 Zloženie tinktúry:
 
-* čerstvé rastlina [echinacea purpurea](/sip/bylinky/echinacea-purpurea)
-* [leuzea šustivá](/sip/bylinky/leuzea-sustiva)
-* koreň [všehojovca štetinatého](/sip/bylinky/vsehojovec-stetinaty).
+* čerstvé rastlina [echinacea purpurea](../bylinky/echinacea-purpurea)
+* [leuzea šustivá](../bylinky/leuzea-sustiva)
+* koreň [všehojovca štetinatého](../bylinky/vsehojovec-stetinaty).
 
 Upozornenie: *Výrobok nie je určený pre deti do 3 rokov. Dávkovanie pre
 dospelých 3 x 15 kvapiek za deň; pre deti od troch rokov 3 x 5 kvapiek za deň

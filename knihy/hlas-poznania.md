@@ -18,7 +18,7 @@ radosti.
 *D. M. R.*
 
 V našej ponuke od tohto autora si pozrite aj [Štyri
-dohody](/sip/knihy/ctyri-dohody),
-[Modlitby](/sip/knihy/modlitby) a [Láska,
-vzťahy…](/sip/knihy/laska)
+dohody](../knihy/ctyri-dohody),
+[Modlitby](../knihy/modlitby) a [Láska,
+vzťahy…](../knihy/laska)
 

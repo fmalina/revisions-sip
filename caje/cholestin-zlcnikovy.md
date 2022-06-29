@@ -6,9 +6,9 @@ ako prvá pomoc pri žlčníkovom záchvate.
 
 Obsahuje:
 
-* [hluchavka](/sip/bylinky/hluchavka-biela) kvet
-* [fenykel](/sip/bylinky/fenikel-obycajny) plod
-* [breza](/sip/bylinky/breza-previsnuta) list
-* [nechtík](/sip/bylinky/nechtik-lekarsky) kvet
-* [púpava](/sip/bylinky/pupava-lekarska) koreň a vňať
-* [zlatobyľ](/sip/bylinky/zlatobyl-obycajna) vňať.
+* [hluchavka](../bylinky/hluchavka-biela) kvet
+* [fenykel](../bylinky/fenikel-obycajny) plod
+* [breza](../bylinky/breza-previsnuta) list
+* [nechtík](../bylinky/nechtik-lekarsky) kvet
+* [púpava](../bylinky/pupava-lekarska) koreň a vňať
+* [zlatobyľ](../bylinky/zlatobyl-obycajna) vňať.

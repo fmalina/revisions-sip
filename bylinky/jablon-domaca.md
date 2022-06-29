@@ -51,5 +51,5 @@ No a slávne *jablko* Isaaca Newtona sa podľa legendy „zaslúžilo“ o záko
 gravitácii, práve keď sedel pod stromom a spadlo mu na hlavu.
 
 Aplikácia plodu je na stránke produktu
-[Zenthonic](/sip/#p/zenthonic).
+[Zenthonic](../procvi/zenthonic).
 

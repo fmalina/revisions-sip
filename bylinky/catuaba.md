@@ -30,5 +30,5 @@ vody, necháme 5 minút variť, odstavíme na 15 minút, schladíme a pijeme
 (napríklad v rámci pitného režimu dňa).
 
 Aplikácia bylinky je v prípravkoch
-[VitalWoman](/sip/produkty-CVI/vital-woman) a
-[VitalMan](/sip/produkty-CVI/vital-man).
+[VitalWoman](../procvi/vital-woman) a
+[VitalMan](../procvi/vital-man).

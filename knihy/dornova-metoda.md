@@ -15,6 +15,6 @@ brány energie bezpečne a presne uvedené do pôvodných správnych polôh. Dej
 dynamicky, za aktívnej spoluúčasti pacienta. V knihe je Dornova metóda doplnená
 Breussovou masážou, ktorá upravuje kĺby a vyrovnáva statiku tela. Kontaktnou
 látkou pre obidve metódy je olej z [ľubovníka
-bodkovaného](/sip/bylinky/lubovnik-bodkovany), ktorého liečivé
+bodkovaného](../bylinky/lubovnik-bodkovany), ktorého liečivé
 účinky sa spolupodieľajú na výborných výsledkoch týchto metód.
 

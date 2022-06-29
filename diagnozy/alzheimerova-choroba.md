@@ -48,9 +48,9 @@ medikamentmi pod dohľadom lekárov.
 Objednajte is balíček prípravkov na pomoc v boji s Alzheimerovou chorobou
 -------------------------------------------------------------------------
 
-* [Arnika](/sip/tinktury/arnika) horská
-* [Ginkgo](/sip/tinktury/ginkgo) biloba
-* [Žilná](/sip/tinktury/zmes-zilna) zmes
-* [Hepatik](/sip/caje/hepatik) čaj
-* [Ľadvinový](/sip/caje/ladviny) čaj
-* [Pestrec](/sip/caje/pestrec) mariánsky (Ostropestřec mariansky) vláknina s Glukopur 4:1 PL (nevariť!)
+* [Arnika](../tinktury/arnika) horská
+* [Ginkgo](../tinktury/ginkgo) biloba
+* [Žilná](../tinktury/zmes-zilna) zmes
+* [Hepatik](../caje/hepatik) čaj
+* [Ľadvinový](../caje/ladviny) čaj
+* [Pestrec](../caje/pestrec) mariánsky (Ostropestřec mariansky) vláknina s Glukopur 4:1 PL (nevariť!)

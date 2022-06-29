@@ -19,7 +19,7 @@ hlavne rôznymi vírusmi. Rovnako ako protiinfekčná je dôležitá aj protiná
 imunita. Aj v boji proti obávaným nádorovým chorobám sa Vilcacora osvedčila.
 Zaujímavé sú aj skúsenosti s antimutagénnym účinkom Vilcacory. (Mutagenita
 znamená schopnosť vytvárať mutácie, ktoré môžu viesť k vzniku nádorov.) V tejto
-súvislosti je pozoruhodná informácia časopisu Journal of Ethnopharmacy z r.
+súvislosti je pozoruhodná informácia časopisu Journal of Ethnopharmacy z r.
 1993. Zistilo sa, že moč nefajčiarov nevykazuje mutagénnu aktivitu, pričom moč
 fajčiarov áno. Po aplikácii prípravku z Vilcacory mutagénna aktivita v moči
 fajčiarov výrazne klesla. Z tohto prakticky vyplýva, že je vhodné Vilcacoru
@@ -30,12 +30,12 @@ Crohnovej chorobe). Prípravky z Vilcacory sa však osvedčili aj pri celom rade
 vrede žalúdka a dvanástnika, pri alergiách, depresii, trombózach, pri chronickom
 únavnom syndróme, pri poruchách menštruácie, atď.
 
-*Zaujímavosť*: O veľkom záujme odbornej verejnosti o Uncaria tomentosu svedčí aj
+*Zaujímavosť*: O veľkom záujme odbornej verejnosti o Uncaria tomentosu svedčí aj
 skutočnosť, že v roku 1994 sa v Ženeve pod záštitou Svetovej zdravotníckej
 organizácie (WHO) konala medzinárodná konferencia venovaná výlučne tejto
 rastline. Účastníci konferencie konštatovali, že od objavenia *chinínu* žiadna
 iná rastlina z Južnej Ameriky nevyvolala toľko pozornosti a záujmu odborníkov zo
 sveta vedy.
 
-Na stránkach ju nájdete ako čajovinu [Vilcacora](/sip/caje/vilcacora).### 
+Na stránkach ju nájdete ako čajovinu [Vilcacora](../caje/vilcacora).### 
 

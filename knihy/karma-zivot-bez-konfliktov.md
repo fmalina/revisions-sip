@@ -18,5 +18,5 @@ myšlienkach vynorili takéto a podobné otázky - je táto múdra kniha určen�
 Vám.
 
 V našej ponuke od tohto autora si pozrite aj knihu [Čo nám
-prekáža…](/sip/knihy/co-nam-stoji-na-ceste)
+prekáža…](../knihy/co-nam-stoji-na-ceste)
 

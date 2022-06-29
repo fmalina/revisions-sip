@@ -29,5 +29,5 @@ semien.
 *Upozornenie*: Nesprávna aplikácia červeného jazmínu môže vyvolať čkanie.
 
 Aplikácia bylinky je v produkte
-[ParaProteX](/sip/#p/paraprotex).
+[ParaProteX](../procvi/paraprotex).
 

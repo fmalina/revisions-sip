@@ -30,19 +30,19 @@ podráždenie, nepokoj, hnačky, nevoľnosť až zvracanie, ale tieto účinky s
 mierne a prechodné. U ľudí, ktorí začínajú bylinku užívať sa môžu niekedy
 objaviť bolesti hlavy v priebehu jedného až dvoch dní na začiatku používania.
 Pokiaľ sú tieto vedľajšie účinky nepríjemné, je lepšie bylinku neužívať alebo
-znížiť jej dávky. Ginkgo biloba má širokú škálu preventívnych účinkov (zlepšuje
+znížiť jej dávky. Ginkgo biloba má širokú škálu preventívnych účinkov (zlepšuje
 krvný obeh a cievy, má vplyv na priepustnosť krvných vlásočníc a znižuje ich
 lámavosť, čím prispieva k zlepšeniu krvného prietoku a zabraňuje vzniku krvných
-zrazenín, upravuje nepravidelnú činnosť srdca, zlepšuje prekrvenie končatín, je
-vhodný pre ľudí trpiacimi studenými končatinami, svojou antioxidačnou aktivitou
+zrazenín, upravuje nepravidelnú činnosť srdca, zlepšuje prekrvenie končatín, je
+vhodný pre ľudí trpiacimi studenými končatinami, svojou antioxidačnou aktivitou
 odbúrava voľné radikály, čím spomaľuje rozvoj zmien súvisiacich so starnutím a
-predlžuje vek, má pozitívne účinky pri liečbe Parkinsonovej a Alzhaimerovej
-choroby, lieči impotenciu, má antibakteriálny a antivírusový účinok.
+predlžuje vek, má pozitívne účinky pri liečbe Parkinsonovej a Alzhaimerovej
+choroby, lieči impotenciu, má antibakteriálny a antivírusový účinok.
 
-Aplikáciu bylinky nájdete v tinktúre [Ginkgo](/tinktury/ginkgo) a
-elixíroch [Venavit](/elixiry/venavit),
-[Respiran](/elixiry/respiran) a [Cardolen](/elixiry/cardolen),
-produktoch [Forever Ginkgo Plus](/sip/#p/forever-ginkgo-plus),
-[Protect 4Life](/sip/#p/protect-4life) a [MegaProtect
-4Life](/sip/#p/megaprotect-4life).
+Aplikáciu bylinky nájdete v tinktúre [Ginkgo](../tinktury/ginkgo) a
+elixíroch [Venavit](../elixiry/venavit),
+[Respiran](../elixiry/respiran) a [Cardolen](../elixiry/cardolen),
+produktoch [Forever Ginkgo Plus](../proflp/forever-ginkgo-plus),
+[Protect 4Life](../procvi/protect-4life) a [MegaProtect
+4Life](../procvi/megaprotect-4life).
 

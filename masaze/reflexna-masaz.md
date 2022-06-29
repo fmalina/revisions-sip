@@ -25,7 +25,7 @@ Kontakt MT **+421 904 471 900** (**Marie**)
 
 *priestory na ul. Garbiarska 242/26, Prievidza*, alebo J. Pauleho 2/7, Prievidza
 
-Kontakt MT +421 903 028 148 (**Stanislav**)
+Kontakt MT +421 903 028 148 (**Stanislav**)
 
 priestory v Oslanoch (Oslany - obec na hlavnej ceste medzi Novákmi a
 Partizánskym)

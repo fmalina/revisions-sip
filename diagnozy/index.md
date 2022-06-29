@@ -34,10 +34,10 @@ alternatívne riešenie ste ošetrujúcemu lekárovi **oznámili**.
 
 ## Nech sa páči, pokračujte cez jednotlivé diagnózy…
 
-**Tip 1:** Pod "***Pridaj do košíka***" v niektorej diagnóze nájdete
+**Tip 1:** Pod "***Pridaj do košíka***" v niektorej diagnóze nájdete
 **doplňujúce prípravky** (sú to odporučené rýchlo spotrebovávané alebo
 rozširujúce); rozširujúce prípravky sú odkonzultované (s výrobcom Herba Vitalis
-a odborníkmi s FLP). Odporúčajú vziať si ich najmä pri akútnych stavoch (po
+a odborníkmi s FLP). Odporúčajú vziať si ich najmä pri akútnych stavoch (po
 konzultácii s lekárom alebo odborníkom) do svojho terapeutického portfólia a tak
 rozšíriť výber "balíčka" naraz.
 

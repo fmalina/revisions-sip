@@ -11,6 +11,6 @@ viac ako sto chorôb. Nové, upravené vydanie.
 
 Autorský kolektív tvoria dlhoroční odborníci v tejto oblasti. Vedúci autor má v
 našej ponuke ďalšiu zaujímavú knihu [Predlekárska prvá pomoc alternatívnymi
-metódami](/sip/knihy/predlekarska-prva-pomoc) a knihu [Čchi
-Kung](/sip/knihy/cchi-kung).
+metódami](../knihy/predlekarska-prva-pomoc) a knihu [Čchi
+Kung](../knihy/cchi-kung).
 

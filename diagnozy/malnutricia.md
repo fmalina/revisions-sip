@@ -41,8 +41,8 @@ svalstvo, dychové cvičenia, cvičenie jogy…
 Balíček odporučených prípravkov proti malnutrícii
 -------------------------------------------------
 
-* [Disbiosan](/sip/elixiry/disbiosan) elixír
-* [Psyllium](/sip/caje/psyllium) vláknina
-* [Žalúdok a črevá](/sip/caje/zaludok-creva) čaj
-* [BCAA plus L-carnitin Liquid](/sip/produkty-CVI/bcaa-l-carnitin)
-* Olivový panenský olej; lisovaný za studena; 1PL denne *(v obchodnej sieti)*
+* [Disbiosan](../elixiry/disbiosan) elixír
+* [Psyllium](../caje/psyllium) vláknina
+* [Žalúdok a črevá](../caje/zaludok-creva) čaj
+* [BCAA plus L-carnitin Liquid](../procvi/bcaa-l-carnitin)
+* Olivový panenský olej; lisovaný za studena; 1PL denne *(v obchodnej sieti)*

@@ -6,9 +6,9 @@ Húževnatec jedlý (Shiitake)
 *Výskyt*: Húževnatec jedlý (Shiitake) je jedlá huba pôvodom z východnej Ázie. Vo
 svete je veľmi obľúbená pre svoje využitie v kuchyni, hlavne v čínskej a v
 ďalších orientálnych kuchyniach. Dnes sa už s úspechom pestuje aj mimo východnej
-Ázii. Názov shiitake je prebraný z japončiny, kde výraz znamená *Shii huba*, čo
+Ázii. Názov shiitake je prebraný z japončiny, kde výraz znamená *Shii huba*, čo
 v nepresnom preklade znamená "rastúca huba na strome". Číňania jej hovoria
-*xiānggū* (voňavá huba), alebo *dōnggū* (zimná huba). Húževnatec jedlý rastie na
+*xiānggū* (voňavá huba), alebo *dōnggū* (zimná huba). Húževnatec jedlý rastie na
 mŕtvych pňoch (guľatinách, shii).
 
 *Uplatnenie*: Podľa celého radu výskumov, shiitake pôsobí veľmi priaznivo na
@@ -39,4 +39,4 @@ pečeňové ťažkosti, vyčerpanie, slabosť a posilniť čchi (životnú energ
 *Upozornenie*: V homeopatickej aplikácii sa odporúča používať ako liečivo
 maximálne jednu hubu na osobu a deň.
 
-Aplikácia huby je v produkte [Imunex](/sip/elixiry/duhovy-imunex).
+Aplikácia huby je v produkte [Imunex](../elixiry/duhovy-imunex).

@@ -22,14 +22,14 @@ vyhlásili za liečivú bylinu, ktorá sa už tradične používala na výplach 
 resp. liečbu výtoku. Mladé výhonky sa pripravujú ako špenát a pridávajú sa do
 polievky.
 
-*Zaujímavosť*: Bylinka vďačí za svoj latinský názov tvaru kvetu - otvorená
+*Zaujímavosť*: Bylinka vďačí za svoj latinský názov tvaru kvetu - otvorená
 papuľka - latinsky *lamos*. Podľa gréckej mytológie bola vraj Lámia Diovou
 milenkou. Jeho žiarlivá manželka Héra zahubila dieťa zrodené z tohto zväzku. Aby
 sa Lámia pomstila, začala požierať deti šťastných matiek. Stala sa tak z nej
 obluda, ktorou sa hrozilo neposlušným deťom.
 
-Aplikáciu bylinky nájdete na stránke elixírov [Neuren](/elixiry/neuren) a
-[Nefronen](/elixiry/nefronen) a tiež na stránke čajov [Pre
-ženy,](/sip/caje/pre-zeny) [Ľadvinový čaj](/sip/caje/ladviny) a
-[Cholestin](/sip/caje/cholestin-zlcnikovy).
+Aplikáciu bylinky nájdete na stránke elixírov [Neuren](../elixiry/neuren) a
+[Nefronen](../elixiry/nefronen) a tiež na stránke čajov [Pre
+ženy,](../caje/pre-zeny) [Ľadvinový čaj](../caje/ladviny) a
+[Cholestin](../caje/cholestin-zlcnikovy).
 

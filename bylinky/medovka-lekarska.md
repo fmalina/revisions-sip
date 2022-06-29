@@ -5,7 +5,7 @@ Medovka lekárska
 
 *Výskyt*: Medovka lekárska pochádza z východného Stredozemia a pestuje sa najmä
 v strednej a južnej Európe. Poznáme ju ako záhradnú kultúru na menších plochách.
-Kedže ju včely zbožňujú, dostala po nich aj latinský botanický názov (melissa -
+Kedže ju včely zbožňujú, dostala po nich aj latinský botanický názov (melissa -
 včela).
 
 *Kvitne*: Od júna do augusta.
@@ -34,9 +34,9 @@ medovkový protikŕčový alkoholový destilát. Už v 15. storočí sa pripravo
 de Charme*", jeden z prvých parfumov.
 
 Aplikáciu bylinky nájdete na stránkach tinktúry
-[Medovka](/tinktury/medovka), stránke elixírov
-[Neuren](/elixiry/neuren) a [Hypnosan](/elixiry/hypnosan) a stránke čajov
-[Nervus](/sip/caje/nervus), [Pre deti,](/sip/caje/pre-deti)[Veverský
-čaj](/sip/caje/veversky), [Hlavabol](/sip/caje/hlavabol) a stránke [Ušné
-sviečky](/sip/#p/usne-sviecky).
+[Medovka](../tinktury/medovka), stránke elixírov
+[Neuren](../elixiry/neuren) a [Hypnosan](../elixiry/hypnosan) a stránke čajov
+[Nervus](../caje/nervus), [Pre deti,](../caje/pre-deti)[Veverský
+čaj](../caje/veversky), [Hlavabol](../caje/hlavabol) a stránke [Ušné
+sviečky](../sviecky/usne-sviecky).
 

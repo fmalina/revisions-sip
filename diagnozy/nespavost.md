@@ -30,7 +30,7 @@ treba uviesť užívanie tráviacich fermentov, pretože zaťažený a nestráve
 Balíček odporučených prípravkov proti nespavosti
 ------------------------------------------------
 
-* [Hypnosan](/sip/elixiry/hypnosan) elixír
-* [Valeriána](/sip/tinktury/valeriana) (Kozlík)
-* [Ukľudňujúca zmes](/sip/#p/ukludnujuca-zmes) (Uklidňujíci směs)
-* [Pozdrav zo Křtin](/sip/caje/pozdrav-z-krtin) čaj
+* [Hypnosan](../elixiry/hypnosan) elixír
+* [Valeriána](../tinktury/valeriana) (Kozlík)
+* [Ukľudňujúca zmes](../tinktury/zmes-ukludnujuca) (Uklidňujíci směs)
+* [Pozdrav zo Křtin](../caje/pozdrav-z-krtin) čaj

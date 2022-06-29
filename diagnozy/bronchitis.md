@@ -44,9 +44,9 @@ stráviteľná potrava (riedka), vyhýbať sa alergénom.
 Balíček odporučených prípravkov proti bronchitis
 ------------------------------------------------
 
-* [Psyllium](/sip/caje/psyllium) vláknina
-* [Priedušková zmes](/sip/tinktury/zmes-prieduskova) (Průdušková směs)
-* [Divozel](/sip/tinktury/divozel) (Divizna)
-* [Ginkgo](/sip/tinktury/ginkgo) (Ginkgo)
-* [Bronchiol](/sip/caje/bronchiol) čaj
-* [Respiran](/sip/elixiry/respiran) elixír
+* [Psyllium](../caje/psyllium) vláknina
+* [Priedušková zmes](../tinktury/zmes-prieduskova) (Průdušková směs)
+* [Divozel](../tinktury/divozel) (Divizna)
+* [Ginkgo](../tinktury/ginkgo) (Ginkgo)
+* [Bronchiol](../caje/bronchiol) čaj
+* [Respiran](../elixiry/respiran) elixír

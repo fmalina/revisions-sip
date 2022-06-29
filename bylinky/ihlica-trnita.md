@@ -24,4 +24,4 @@ zápale obličiek a opuchlín rozličného pôvodu, obezite, zvyšuje krvný tla
 hemoroidoch, na zastavenie krvácania, pri neplodnosti.
 
 Aplikáciu bylinky nájdete
-v [Brnenskom čaji](/sip/caje/brnensky).
+v [Brnenskom čaji](../caje/brnensky).

@@ -12,7 +12,7 @@ celom svete. Chuť plodu je v princípe neporovnateľná s chuťou iného ovocia
 Zrelý plod má tmavo fialový povrch. *Mangostana* sa používa na liečebné účely už
 stovky rokov. Pochádza zo stromu, ktorý môže dorásť do výšky až 75 metrov.
 
-*Uplatnenie*: Lahodné ovocie z *mangostanu* je bohaté na *xantony*, ktoré
+*Uplatnenie*: Lahodné ovocie z *mangostanu* je bohaté na *xantony*, ktoré
 podporujú zdravé telesné funkcie. Okrem toho každý plod *mangostanu* obsahuje až
 5 g vlákniny. Jeho purpurový pigment je používaný ako farbivo. Spomína sa v
 čínskej medicíne, jej uplatnenie sa datuje do obdobia dynastie Ming (1368
@@ -32,5 +32,5 @@ Veitchii* od *James Herbert Veitchova* sa hovorí, že autor navštívil Javu v 
 (štyroch) stupňov zemepisnej šírky od rovníka.
 
 Aplikáciu plodu nájdete v produkte
-[ZenThonic](/sip/#p/zenthonic).
+[ZenThonic](../procvi/zenthonic).
 

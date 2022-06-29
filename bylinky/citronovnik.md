@@ -30,4 +30,4 @@ elektrický motor. Treba podotknúť, že tieto experimenty tiež fungujú aj s 
 druhmi ovocia a zeleniny.
 
 Aplikácia silice z citróna je v produkte
-[Telová sviečka](/sip/sviecky/telove-sviecky).
+[Telová sviečka](../sviecky/telove-sviecky).

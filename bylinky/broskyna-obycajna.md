@@ -54,4 +54,4 @@ rakoviny*), ale zároveň upozornil, že príliš veľa jadierok môže vyvolať
 nežiaduce vedľajšie účinky. Táto prírodná potrava by mala byť konzumovaná v
 biologicky racionálnom množstve (nie viac ako 30 až 35 jadierok denne).
 
-Aplikácia jadra broskýň je na stránke čaju [MU](/sip/caje/mu).
+Aplikácia jadra broskýň je na stránke čaju [MU](../caje/mu).

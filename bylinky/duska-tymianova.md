@@ -26,5 +26,5 @@ izolovali silicu, ktorá bola zložkou mumifikačného balzamu.
 *Upozornenie*: Pre pomerne silnú toxicitu vďaka tymolu obsiahnutému v silici sa
 dnes neodporúča samostatne na interné užívanie.
 
-Aplikáciu bylinky nájdete na stránke v čaji [Bronchiol](/sip/caje/bronchiol).
+Aplikáciu bylinky nájdete na stránke v čaji [Bronchiol](../caje/bronchiol).
 

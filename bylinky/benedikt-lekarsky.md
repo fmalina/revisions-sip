@@ -25,7 +25,7 @@ tráviacich ťažkostiach, najmä pri pocite preplnenosti a plynatosti.
 myší chvost) - môže dôjsť ku alergickým reakciám.
 
 Aplikáciu bylinky nájdete v tinktúre
-[Benedikt](/tinktury/benedikt), elixíre
-[Respiran](/elixiry/respiran) a [Pečeňovom](/sip/caje/pecenovy-u-caj) - U
+[Benedikt](../tinktury/benedikt), elixíre
+[Respiran](../elixiry/respiran) a [Pečeňovom](../caje/pecenovy-u-caj) - U
 čaji.
 

@@ -15,7 +15,7 @@ Kde: v Prievidzi, v centre Jógy na starom sídlisku
 Informácie a záväzné prihlášky: Marcela Bugárová, V. Benedikty 3/6, 973 01
 Prievidza
 
-### Duchovné srdce  - múdrosť archanjela Metatrona
+### Duchovné srdce  - múdrosť archanjela Metatrona
 
 Seminár vedú *Mary Mehrid Angel* a *Eduard Pasztor*
 
@@ -25,7 +25,7 @@ Kde: Čajovňa Zelenej Tary, Trnavského 4, Dom služieb Dúbravka, Bratislava
 
 Cena: 1800,00 Sk
 
-*Seminár o samotnej príčine chorôb - onkologia, jej priebeh a cielená liečba -
+*Seminár o samotnej príčine chorôb - onkologia, jej priebeh a cielená liečba -
 vesmírom, anjelmi a prírodou*
 
 ### Anjelské cvičenie II s Rafaelom
@@ -50,7 +50,7 @@ Prievidza
 
 Seminár vedie *Mary Mehrid Angel*
 
-Seminár začína **15.11.2008 o 09:30 h** v Makovického dome, J. Bottu 20, Žilina
+Seminár začína **15.11.2008 o 09:30 h** v Makovického dome, J. Bottu 20, Žilina
 
 Cena: 1200,00 Sk
 

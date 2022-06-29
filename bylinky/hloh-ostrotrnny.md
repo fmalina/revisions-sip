@@ -4,7 +4,7 @@ Hloh ostrotrnný
 #### Hloh obecný, Crataegus monogyna agg., Hložie (hlôžka, hložina)
 
 *Výskyt*: Rastie v celej Európe, západnej Ázii, v Severnej Amerike a severnej
-Afrike. U nás sa vyskytujú len dva druhy, najčastejšie na kamenistých a
+Afrike. U nás sa vyskytujú len dva druhy, najčastejšie na kamenistých a
 slnečných stráňach a okrajoch lesa.
 
 *Kvitne*: Od mája do júna.
@@ -23,6 +23,6 @@ srdca). Posilňuje srdcový sval a znižuje krvný tlak.
 *Upozornenie*: Predávkovanie môže spôsobiť výrazné zníženie tlaku a spomalenie
 činnosti srdca.
 
-Aplikáciu bylinky nájdete v tinktúre [Hloh](/tinktury/hloh) a
-elixíre [Cardolen](/elixiry/cardolen).
+Aplikáciu bylinky nájdete v tinktúre [Hloh](../tinktury/hloh) a
+elixíre [Cardolen](../elixiry/cardolen).
 

@@ -5,7 +5,7 @@ Múčenka pleťová
 
 *Výskyt*: Bylinka pochádza z Brazílie a z juhu Spojených štátov amerických. Keď
 španielski dobyvatelia objavili bylinku s jedlými plodmi, videli v jej kvetoch
-symbol umučenia Krista - tyčinky predstavovali ukrižovanie, purpurové vlákna
+symbol umučenia Krista - tyčinky predstavovali ukrižovanie, purpurové vlákna
 tŕňovú korunu a blizny sa zoskupovali do tvaru kríža.
 
 *Zber*: Predmetom zberu sú nadzemné časti s kvetmi, prípadne plodmi.
@@ -20,5 +20,5 @@ Jej vôňa je zmesou sladkých kvetov a citrusu.
 *Zaujímavosť*: Vo Francúzsku v 1916 roku aplikovali bylinku vyslúžilcom ako
 prostriedok zbavujúci strachu z vojnových hrôz.
 
-Aplikáciu bylinky nájdete v čaji [Nervus](/sip/caje/nervus).
+Aplikáciu bylinky nájdete v čaji [Nervus](../caje/nervus).
 

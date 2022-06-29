@@ -9,11 +9,11 @@ týmto problémom.
 
 Obsahuje bylinky:
 
-* [pestrec mariánsky](/sip/bylinky/pestrec-mariansky),
-* [jastrabina lekárska](/sip/bylinky/jastrabina-lekarska),
-* [brusnica čučoriadková](/sip/bylinky/brusnica-cucoriedkova),
-* [slnečnica hľuznatá](/sip/bylinky/slnecnica-hluznata) (topinambur),
-* [púpava lekárska](/sip/bylinky/pupava-lekarska).
+* [pestrec mariánsky](../bylinky/pestrec-mariansky),
+* [jastrabina lekárska](../bylinky/jastrabina-lekarska),
+* [brusnica čučoriadková](../bylinky/brusnica-cucoriedkova),
+* [slnečnica hľuznatá](../bylinky/slnecnica-hluznata) (topinambur),
+* [púpava lekárska](../bylinky/pupava-lekarska).
 
 Upozornenie: *Výrobok nie je určený pre deti. Dávkovanie pre dospelých 3 x 15
 kvapiek za deň; riediť v nemineralizovanej vode 20 ml na jednu dávku. Potom sa

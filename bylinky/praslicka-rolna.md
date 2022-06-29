@@ -26,7 +26,7 @@ nefarbeného nábytku (*odtiaľ ľudové názvy*).
 *Upozornenie*: Rastlina vo väčších dávkach môže spôsobiť nevoľnosť a
 nechutenstvo. Nezamieňať s príbuznými jedovatými druhmi. Ľahko ju môžeme zameniť
 s jedovatou prasličkou bahennou (*Equisetum palustre*) a prasličkou lesnou
-(*Equisetum silvaticum*), ktoré obsahujú zvýšené množstvo alkaloidných báz.
+(*Equisetum silvaticum*), ktoré obsahujú zvýšené množstvo alkaloidných báz.
 
 Aplikáciu bylinky nájdete na stránke tinktúry
-[Obličková zmes](/sip/tinktury/zmes-oblickova-ledvinova).
+[Obličková zmes](../tinktury/zmes-oblickova-ledvinova).

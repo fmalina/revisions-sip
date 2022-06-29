@@ -6,7 +6,7 @@ Cyprus vždyzelený
 *Výskyt*: Pochádza z Orientu (zmienka je z 15. stor. pred n. l.) a pestuje sa v
 celej stredozemnej oblasti. Často sa vysádza okolo cintorínov a plní funkciu
 živého plota a vetrolamu. Starí Peržania a Gréci ho považovali za posvätnú
-bylinku a pripisovali mu veľký význam v zádušnom kulte.
+bylinku a pripisovali mu veľký význam v zádušnom kulte.
 
 *Zber*: Ešte zelené, resp. nezrelé samčie plodonosné šišky a listy, ktoré sa
 sušia.
@@ -20,5 +20,5 @@ záchvaty kašľa (bronchitída, chrípka, čierny kašeľ, astma).
 
 *Upozornenie*: Silica sa môže užívať len na lekársky predpis.
 
-Aplikáciu bylinky nájdete v čaji [MU](/sip/caje/mu).
+Aplikáciu bylinky nájdete v čaji [MU](../caje/mu).
 

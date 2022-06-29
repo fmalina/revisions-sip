@@ -5,7 +5,7 @@ Kapucínka väčšia
 
 *Výskyt*: Druh pochádza z Južnej Ameriky a Mexika a kultivuje sa na celom svete;
 u nás je jediným zástupcom čeľade kapucínkovitých. Na celom svete sa pestujú ako
-okrasné rastlinky. Prvý raz rastlinku priviezli do Európy v roku 1684 a nazvali
+okrasné rastlinky. Prvý raz rastlinku priviezli do Európy v roku 1684 a nazvali
 ju "*peruánsky kvet*" alebo "k*rvavá kvetina z Peru*". V krajine pôvodu sa ňou
 tradične ošetrujú rany.
 
@@ -33,5 +33,5 @@ Sušené plody sa uplatňujú ako preháňadlo.
 reakciu.
 
 Aplikáciu bylinky nájdete na stránke tinktúry
-[Kapucínka](/tinktury/kapucinka).
+[Kapucínka](../tinktury/kapucinka).
 

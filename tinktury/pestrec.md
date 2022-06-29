@@ -8,7 +8,7 @@ prostriedok pri pečeňových chorobách. Regeneruje pečeňové bunky a priazni
 pôsobí na podžalúdkovú žľazu, dvanástnik a žlčník. Pôsobí proti tvorbe žlčových
 kameňov.
 
-[Viac informácií](/sip/bylinky/pestrec-mariansky) o bylinke…
+[Viac informácií](../bylinky/pestrec-mariansky) o bylinke…
 
 Upozornenie: *Výrobok nie je určený pre deti do 3 rokov. Dávkovanie pre
 dospelých 3 x 15 kvapiek za deň; pre deti od troch rokov 3 x 5 kvapiek za deň

@@ -25,12 +25,12 @@ elixíru do jednej dávky očistného klystíru.
 
 *Zloženie*:
 
-* [nátržník vzpriamený](/sip/#p/natrznik-vzpriameny) extrakt z vňate,
-* [benedikta lekárskeho](/sip/#p/benedikt-lekarsky) vňať,
-* [ľubovník bodkovaný](/sip/#p/lubovnik-bodkovany) vňať,
-* [lipkavec pravý](/sip/#p/lipkavec-syridlovy) (syridlový) vňať,
-* [ihlica tŕnistá](/sip/#p/ihlica-trnita) koreň,
-* [orech čierny](/sip/#p/orech-cierny) oplodie,
+* [nátržník vzpriamený](../bylinky/natrznik-vzpriameny) extrakt z vňate,
+* [benedikta lekárskeho](../bylinky/benedikt-lekarsky) vňať,
+* [ľubovník bodkovaný](../bylinky/lubovnik-bodkovany) vňať,
+* [lipkavec pravý](../bylinky/lipkavec-syridlovy) (syridlový) vňať,
+* [ihlica tŕnistá](../bylinky/ihlica-trnita) koreň,
+* [orech čierny](../bylinky/orech-cierny) oplodie,
 * alkohol 43%.
 
 *Upozornenie*: Nevhodné pre deti do 6 rokov, tehotné a dojčiace ženy. Pri

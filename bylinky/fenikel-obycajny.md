@@ -29,8 +29,8 @@ zámeny s jedovatými mrkvovitými rastlinami. Odporúča sa kupovať hotovú dr
 dlhodobé užívanie sa neodporúča pre estrogénne účinky.
 
 Aplikáciu bylinky nájdete v tinktúre
-[Priedušková zmes](/sip/tinktury/zmes-prieduskova),
-čajoch [Nekašeľ](/sip/caje/nekasel),
-[Pre deti,](/sip/caje/pre-deti) [Veverský](/sip/caje/veversky) a
-produktoch [Cholestin](/sip/caje/cholestin-zlcnikovy) a
-[Slim Formula](/sip/produkty-CVI/slim-formula).
+[Priedušková zmes](../tinktury/zmes-prieduskova),
+čajoch [Nekašeľ](../caje/nekasel),
+[Pre deti,](../caje/pre-deti) [Veverský](../caje/veversky) a
+produktoch [Cholestin](../caje/cholestin-zlcnikovy) a
+[Slim Formula](../procvi/slim-formula).

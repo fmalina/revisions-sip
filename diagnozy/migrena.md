@@ -40,9 +40,9 @@ infekciou alebo upchaním čelných dutín.
 Objednajte si balíček prípravkov proti migréne
 ----------------------------------------------
 
-* [Migresan](/sip/elixiry/migresan) elixír
-* [Rimbaba](/sip/tinktury/rimbaba) (Řimbaba)
-* [Valeriána](/sip/#p/valeriana) (Kozlík)
-* [Pozdrav zo Křtin](/sip/caje/pozdrav-z-krtin) čaj
-* [Hannasaki](/sip/#p/hannasaki) (Hannasaki) čaj
+* [Migresan](../elixiry/migresan) elixír
+* [Rimbaba](../tinktury/rimbaba) (Řimbaba)
+* [Valeriána](../tinktury/valeriana) (Kozlík)
+* [Pozdrav zo Křtin](../caje/pozdrav-z-krtin) čaj
+* [Hannasaki](../caje/hannasaki) (Hannasaki) čaj
 * Olivový panenský olej; lisovaný za studena; 1 PL *(v obchodnej sieti)*

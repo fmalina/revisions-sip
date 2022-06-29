@@ -10,9 +10,9 @@ ciev.
 
 Obsahuje bylinky:
 
-* [pohanka jedlá](/sip/bylinky/pohanka-jedla)
-* [schizandra čínska](/sip/bylinky/schizandra-cinska)
-* [ginkgo dvojlaločné](/sip/bylinky/ginkgo-dvojlalocne)
+* [pohanka jedlá](../bylinky/pohanka-jedla)
+* [schizandra čínska](../bylinky/schizandra-cinska)
+* [ginkgo dvojlaločné](../bylinky/ginkgo-dvojlalocne)
 
 Upozornenie*: Výrobok nie je vhodný pre deti. Dávkovanie maximálne 3 x 15
 kvapiek za deň; riediť v nemineralizovanej vode 20 ml na jednu dávku. Potom sa

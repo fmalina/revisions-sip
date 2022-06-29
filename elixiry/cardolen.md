@@ -9,12 +9,12 @@ organizmus.
 
 Obsahuje bylinky:
 
-* [hloh ostrotrnný](/sip/bylinky/hloh-ostrotrnny),
-* [tužobník brestový](/sip/bylinky/tuzobnik-brestovy),
-* [ginkgo dvojlaločné](/sip/bylinky/ginkgo-dvojlalocne),
-* [divozel veľkokvetý](/sip/bylinky/divozel-velkokvety),
-* [baza čierna](/sip/bylinky/baza-cierna),
-* [schizandra čínska](/sip/bylinky/schizandra-cinska).
+* [hloh ostrotrnný](../bylinky/hloh-ostrotrnny),
+* [tužobník brestový](../bylinky/tuzobnik-brestovy),
+* [ginkgo dvojlaločné](../bylinky/ginkgo-dvojlalocne),
+* [divozel veľkokvetý](../bylinky/divozel-velkokvety),
+* [baza čierna](../bylinky/baza-cierna),
+* [schizandra čínska](../bylinky/schizandra-cinska).
 
 Upozornenie: *Výrobok nie je určený pre deti. Dávkovanie pre dospelých 3 x 15
 kvapiek za deň; riediť v nemineralizovanej vode 20 ml na jednu dávku. Potom sa

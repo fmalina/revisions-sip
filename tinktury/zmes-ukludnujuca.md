@@ -9,10 +9,10 @@ pracujúcich a proti stresovej záťaži.
 
 Zloženie tintúry:
 
-* výťažok z čerstvého plodu [pagaštana](/sip/bylinky/pagastan-konsky)
-* [pohanky](/sip/bylinky/pohanka-jedla)
-* [komonica](/sip/bylinky/komonica-lekarska)
-* [ruta](/sip/bylinky/ruta-vonava).
+* výťažok z čerstvého plodu [pagaštana](../bylinky/pagastan-konsky)
+* [pohanky](../bylinky/pohanka-jedla)
+* [komonica](../bylinky/komonica-lekarska)
+* [ruta](../bylinky/ruta-vonava).
 
 Upozornenie: *Výrobok nie je určený pre deti do 3 rokov. Dávkovanie pre
 dospelých 3 x 15 kvapiek za deň; pre deti od troch rokov 3 x 5 kvapiek za deň

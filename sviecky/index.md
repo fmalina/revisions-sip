@@ -13,10 +13,3 @@ problémov pre seba a svojich blízkych.
 
 **Voskové obklady** sú tiež alternatívnym spôsobom nápravy Vašich ťažkostí.
 Preštudujte si ich a rozhodnite.
-
-Sviečky a obklady si teraz môžete u nás objednať. Prejdite si ponuku sviečok a
-obkladov, jednoducho vložte do košíka tú, ktorá Vám "vonia" (v ponuke sú sviečky
-s rôznymi silicami). Sviečky aj obklady Vám dodáme doporučenou poštou na
-dobierku.
-
-Cena poštovného a balného je *1,50 € (45,19 Sk).*
