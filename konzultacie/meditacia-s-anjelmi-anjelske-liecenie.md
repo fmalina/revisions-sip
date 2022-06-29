@@ -1,6 +1,6 @@
 Meditácia s anjelmi (anjelské liečenie)
 =======================================
-Kontakt:   marie.kolibrik@gmail.com   MT: +421 904 471 900
+Kontakt: <mailto:marie.kolibrik@gmail.com>  MT: +421 904 471 900
 
 ### Anjelské liečenie I/II s archanjelom Michaelom
 
@@ -39,8 +39,7 @@ a dnes už majiteľov tričiek s tématikou anjelov.*
 *Spracované podľa podkladov Marie Kučerovej (Art – Mehrid,
 Prievidza), ktorej zasielajte Vaše objednávky na realizáciu.*
 
-Na stránkach [Tričká](../lieciveobrazy/tricka) a [Tašky](../lieciveobrazy/tasky)
-sa dozvedáte o autorke, jej pocitoch, vyznaniach a o produktoch z jej tvorivej dielne.
+Info o autorke, jej pocitoch, vyznaniach a o produktoch z jej tvorivej dielne.
 Je na Vás, či tieto informácie prijmete s rešpektom, úctou a láskou, alebo odmietnete.
 
 … tak môžeme nazvať zo skúseností tričká a tašky s reprodukciami originálnych

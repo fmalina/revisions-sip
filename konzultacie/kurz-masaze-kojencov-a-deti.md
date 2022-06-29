@@ -1,11 +1,11 @@
 Kurz masáže kojencov a detí
 ===========================
 
-#### Naše stránky navštevujú aj skúsení maséri, najmä zo Slovenska. Táto informácia je určená práve im, ale nie len im…
+> Naše stránky navštevujú aj skúsení maséri, najmä zo Slovenska. Táto informácia je určená práve im, ale nie len im…
 
 V tomto roku, koncom mája (pravdepodobne posledný týždeň), bude v Nitre otvorený
 prvý ***lektorský akreditovaný kurz masáže kojencov a detí*** v spolupráci s
-[IAIM](http://www.iaim.net/ "English") (medzinárodná asociácia masáže kojencov a
+[IAIM](http://www.iaim.net/) (medzinárodná asociácia masáže kojencov a
 detí).
 
 Intenzívny kurz bude v trvaní 5. dní v anglickom jazyku. Kurz vedie skúsená
@@ -36,7 +36,7 @@ Tipy
 
 * počet účastníkov je obmedzený
 * tento druh kurzu bude na Slovensku jediný.
-* hláste sa na e-mail adrese holistic_services@yahoo.com, spomeňte altmed
+* hláste sa na e-mail adrese <mailto:holistic_services@yahoo.com>, spomeňte altmed
 
 ***
 

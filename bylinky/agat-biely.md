@@ -29,7 +29,5 @@ nich nechutenstvo, skleslosť, hnačka, kolika, slabosť a srdečná arytmia.
 Príznaky se obvykle objavia do hodiny od prehltnutia a pomoc veterinára je
 nevyhnutná.
 
-Aplikácia byliny je na stránke Slniečkový čaj.
-
 Picture (c) agat.flog.pravda.sk
 

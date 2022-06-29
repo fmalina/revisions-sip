@@ -40,7 +40,7 @@ kompetencie.
 
 ***Miesto a čas***: spresníme
 
-***Cena***: 27 € za jednu prednášku
+***Cena***: 27€ za jednu prednášku
 
 ***Zvýhodnenie***: pri platbe za celý cyklus ôsmych prednášok cena  190 €
 

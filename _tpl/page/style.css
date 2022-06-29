@@ -3,6 +3,7 @@ header{margin:2em}
 main{margin:1em}
 header,h1,footer{text-align:center}
 a{color:#006}
+a:visited{color:#228}
 header a{color:goldenrod;font-size:larger}
 h1{font-weight:normal}
 nav{border-top:1px solid goldenrod}

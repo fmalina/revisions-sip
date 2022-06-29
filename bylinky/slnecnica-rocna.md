@@ -34,6 +34,3 @@ jav, ktorý sa o *slnečnici* traduje. V skutočnosti sa vyskytuje len u pukov
 noci sa opäť vracajú na východiskové pozície. Predpokladáme, že
 pripomínať *slnečnice* ako inšpiračný materiál pre obraz Van Gogha je liatie
 vody do mora.
-
-Aplikácia rastlinky je na stránke Slniečkový čaj.
-

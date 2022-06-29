@@ -25,6 +25,3 @@ astme, akútnom katare priedušiek.
 *Upozornenie*: Listy sú však mierne jedovaté a hospodárskym zvieratám po spasení
 môžu spôsobiť zažívacie ťažkosti. Podávání květu nemá žádných kontraindikací ani
 nežádoucích účinků, problematické však může být podávání odvaru z makovic.
-
-Aplikácia bylinky je na stránke Slniečkový čaj.
-

@@ -32,9 +32,9 @@ MUDr. Radomír Růžička, CSc. je popredný český odborník v oblasti tradič
 akupunktúru a akupresúru) a tým sa významne zaslúžil o jej etablovanie v
 československej klinickej aj experimentálnej medicíne. Je autorom a spoluautorom
 rady kníh z tejto oblasti: Akupunktúra v teórii a praxi, [Tradičná čínska
-medicína](../knihy/tradicni-cinska-medicina), Mikrosystémy
+medicína](tradicna-cinska-medicina), Mikrosystémy
 akupunktúry Su - Jok, Učenie o piatich prvkoch, Chronopunktúra, [Predlekárska
-prvá pomoc](../knihy/predlekarska-prva-pomoc) a je tiež
+prvá pomoc](predlekarska-prva-pomoc) a je tiež
 autorom súboru farebných nástenných máp Topografia akupunktúrnych bodov a mapy
 Aurikuloterapie, Su - Jok a Reflexológie.
 
