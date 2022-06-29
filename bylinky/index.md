@@ -20,9 +20,8 @@ Informácie o liečivkách v našich produktoch dôsledne spracovávame. Ak vša
 potrebujete hlbšie štúdium byliniek sú tu aj užitočné
 odkazy, alebo zaujímavá [kniha](/altmed/knihy/byliny) z našej ponuky.
 
-Všetky ponúkané produkty (okrem [ušných a telových sviečok](/altmed/sviecky),
-[dúhových elixírov](/altmed/elixiry) a
-[tričiek](/altmed/potlac/tricka)) sú dovážané z Česko-moravskej vysočiny,
+Všetky produkty na zozname (okrem [ušných a telových sviečok](/altmed/sviecky),
+[dúhových elixírov](/altmed/elixiry) sú z Česko-moravskej vysočiny,
 resp. knihy sú z českých vydavateľstiev (knihy sú v ***českom*** originále).
 
 Názvy liečiviek sú uvedené v slovenčine, češtine a latinčine. Poskytujeme aj

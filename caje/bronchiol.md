@@ -15,10 +15,10 @@ Obsahuje:
 
 * [dúška materina](../bylinky/duska-materina) vňať
 * [dúška tymiánová](../bylinky/duska-tymianova) vňať
-* [slez lesný](../bylinky/smil-lesny) kvet a list
+* [slez lesný](../bylinky/slez-lesny) kvet a list
 * [ibiš lekársky](../bylinky/ibis-lekarsky) koreň
 * [podbeľ liečivý](../bylinky/podbel-liecivy) list
-* [sladkovka hladkoplodá](../bylinky/sladovka-hladkoploda) koreň
+* [sladkovka hladkoplodá](../bylinky/sladkovka-hladkoploda) koreň
 * [prvosienka jarná](../bylinky/prvosienka-jarna) kvet
 * [skorocel](../bylinky/skorocel-indicky) list
 * [túžobník brestový](../bylinky/tuzobnik-brestovy) vňať.

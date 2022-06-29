@@ -34,32 +34,32 @@ kategórie. Výber z celkovej ponuky je štruktúrovaný:
   [Digestive Enzymes](/altmed/procvi/digestive-enzymes);
   [Meal Time](/altmed/procvi/meal-time);
   [Digest Ease](/altmed/procvi/digest-ease);
-  [Slim Formula](/altmed/procvi/slim-formula-90-ks);)
+  [Slim Formula](/altmed/procvi/slim-formula);)
 * prípravky na ošetrenie pleti (
-  [Hand&Body Lotion](/altmed/procvi/hand-body-lotion-objem-1000-ml);
-  [VeinCare](/altmed/procvi/veincare-objem-75-ml))
+  [Hand&Body Lotion](/altmed/procvi/hand-body-lotion);
+  [VeinCare](/altmed/procvi/veincare))
 * vitamíny (
   [C 1000](/altmed/procvi/c-1000),
   [C Plus](/altmed/procvi/c-plus),
-  [Lion Kids](/altmed/procvi/lion-kids-d-90-ks),
+  [Lion Kids](/altmed/procvi/lion-kids),
   [Stress Management B - Complex](/altmed/procvi/stress-management-b-complex))
 * prípravky z liečivých rastlín (
   [Energy&Memory](/altmed/procvi/energy-memory),
-  [Choleston](/altmed/procvi/choleston-90-ks);
-  [ImmunAid](/altmed/procvi/imunaid-180-ks);
-  [Nopalin](/altmed/procvi/nopalin-200-ks);
-  [Ocean 21](/altmed/procvi/ocean-21-objem-946-ml);
-  [ParaProtex](/altmed/procvi/paraprotex-100-ks);
-  [Noni Liquid](/altmed/procvi/polinesian-noni-liquid-objem-946-ml);
-  [VirAgo](/altmed/procvi/virago-90-ks);
-  [VitalMan](/altmed/procvi/vital-man-60-ks);
-  [VitalWoman](/altmed/procvi/vital-woman-60-ks);
-  [ZenThonic](/altmed/procvi/zenthonic-objem-946-ml))
+  [Choleston](/altmed/procvi/choleston);
+  [ImmunAid](/altmed/procvi/imunaid);
+  [Nopalin](/altmed/procvi/nopalin);
+  [Ocean 21](/altmed/procvi/ocean-21);
+  [ParaProtex](/altmed/procvi/paraprotex);
+  [Noni Liquid](/altmed/procvi/polinesian-noni-liquid);
+  [VirAgo](/altmed/procvi/virago);
+  [VitalMan](/altmed/procvi/vital-man);
+  [VitalWoman](/altmed/procvi/vital-woman);
+  [ZenThonic](/altmed/procvi/zenthonic))
 * ďalšie prírodné doplnky (
   [LiverAid](/altmed/procvi/liver-aid-with-silymarin),
   [Natural HGH Support](/altmed/procvi/natural-hgh-support),
-  [OxyMax](/altmed/procvi/oxymax-objem-60-ml);
-  [Rhodiolin](/altmed/procvi/rhodiolin-120-ks-60-ks);
+  [OxyMax](/altmed/procvi/oxymax);
+  [Rhodiolin](/altmed/procvi/rhodiolin);
   [Pure Yucca](/altmed/procvi/pure-yucca);
   [Super Soya Lecithin](/altmed/procvi/super-soya-lecithin);
   [Strong Bones](/altmed/procvi/strong-bones))

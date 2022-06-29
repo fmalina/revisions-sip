@@ -48,7 +48,7 @@ liečené miesto sa uzdravuje a regeneruje do stavu zdravia.
 Terapeutické použitie odporúčame 5 až 7 dní za sebou a po 2 až 3 dňoch proces
 zopakovať. Aplikácia nespôsobuje žiadnu bolesť ani nepríjemné pocity výrazného
 tepla od horiacej sviečky. Pri ušných problémoch používajte [ušné
-sviečky](../aplikacia-usnych-sviecok). Vždy si prečítajte
+sviečky](usne-sviecky). Vždy si prečítajte
 pozorne návod na aplikáciu.
 
 *Upozornenie!* Neodporúčame aplikovať pri pooperačných stavoch, pri krvácavosti,
