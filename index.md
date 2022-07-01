@@ -1,7 +1,9 @@
-Alternatívna medicína
-=====================
-Ahoj, stránka Ťa chce naučiť o dnes alternatívnej medicíne.
-Nič nepredáva, bylinky nazbierate podľa výskytu a všetky tu spomenuté produkty
-zoženiete na sieti podľa názvu. Sipsip má aj priateľskú stránku [ňom ňom](/nom/).
+# Sip sip 🌿
 
-Texty napísal F. Herzáň (kedysi Slniečková), editoval a publikoval [F. Malina](/fm/).
+## alternatívna medicína
+
+Chceme Vás naučiť o dnes alternatívnej medicíne.
+Nič nepredávame, bylinky nazbierate podľa výskytu a všetky tu spomenuté produkty
+zoženiete na sieti podľa názvu. Máme aj priateľskú stránku [ňom ňom](/nom/).
+
+Napísal Ing. František Herzáň, CSc. (pre Slniečková), editoval a publikoval [F. Malina](/fm/).

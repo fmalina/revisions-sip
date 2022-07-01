@@ -21,4 +21,7 @@ Vaše názory, pripomienky, kritika - sú našou inšpiráciou…!
 Autorský kolektív ©   Ing. František ***Herzáň***, CSc.   MUDr. Soňa
 ***Podhorányiová***   Ľudmila ***Michalcová***
 
-Podmienky kopírovania dátových súborov ako celku, alebo ich častí sú riešené v dikcií zákona č. 618/2003 o autorskom práve a právach súvisiacich s autorským právom. Autorský kolektív verí, že právne vedomie majiteľa licencie ctí tieto zákonné rámce, ako prejav úcty ku práci autorského kolektívu.
+Podmienky kopírovania dátových súborov ako celku, alebo ich častí sú riešené
+v dikcií zákona č. 618/2003 o autorskom práve a právach súvisiacich s autorským právom.
+Autorský kolektív verí, že právne vedomie majiteľa licencie ctí tieto zákonné rámce,
+ako prejav úcty ku práci autorského kolektívu.

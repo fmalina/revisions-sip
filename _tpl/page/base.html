@@ -2,18 +2,20 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>{% block title %}{{ page.title }} - {{ site_name }}{% endblock %}</title>
+<title>{% block title %}{{ page.title }}{% if page.home %}Alternatívna medicína{% else %} - {{ site_name }}{% endif %}{% endblock %}</title>
 <meta name="description" content="{{ desc }}">
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
 <link rel="stylesheet" href="{{ site_root }}/style.css">
 <link rel="canonical" href="{{ site_url }}{{ page.get_absolute_url }}">
 <link rel="alternate" href="{{ site_root }}/feed.xml" type="application/rss+xml" title="RSS">
 </head>
-<body>
+<body class="{{ page.slug }}">
+{% if not page.home %}
 <header>
-    <a href="{{ site_root }}/">{{ site_name }}</a> 🌿
+    <a href="{{ site_root }}/">{{ site_name }}</a>{% if not page.parent %} 🌿{% else %} &rsaquo;{% endif %}
     {% if page.parent %}<a href="{{ site_root }}/{{ page.parent }}">{{ parent_page.title }}</a>{% endif %}
 </header>
+{% endif %}
 <main>
     <h1>{{ page.title }}</h1>
     {{ page.body }}
