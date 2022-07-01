@@ -9,19 +9,19 @@ ponuke.
 Liečivé bylinky, plody a huby si u nás môžete kúpiť hneď teraz v **nasledovných
 formách,** ako:
 
-* [čaje](/altmed/caje),
-* [jedno - bylinkové tinktúry a zmesi](/altmed/tinktury),
-* [elixíry](/altmed/elixiry),
-* [dúhové elixíry](/altmed/elixiry),
-* [prípravky CVI](/altmed/procvi),
-* [prípravky FLP](/altmed/proflp).
+* [čaje](/sip/caje),
+* [jedno - bylinkové tinktúry a zmesi](/sip/tinktury),
+* [elixíry](/sip/elixiry),
+* [dúhové elixíry](/sip/elixiry),
+* [prípravky CVI](/sip/procvi),
+* [prípravky FLP](/sip/proflp).
 
 Informácie o liečivkách v našich produktoch dôsledne spracovávame. Ak však
 potrebujete hlbšie štúdium byliniek sú tu aj užitočné
-odkazy, alebo zaujímavá [kniha](/altmed/knihy/byliny) z našej ponuky.
+odkazy, alebo zaujímavá [kniha](/sip/knihy/byliny) z našej ponuky.
 
-Všetky produkty na zozname (okrem [ušných a telových sviečok](/altmed/sviecky),
-[dúhových elixírov](/altmed/elixiry) sú z Česko-moravskej vysočiny,
+Všetky produkty na zozname (okrem [ušných a telových sviečok](/sip/sviecky),
+[dúhových elixírov](/sip/elixiry) sú z Česko-moravskej vysočiny,
 resp. knihy sú z českých vydavateľstiev (knihy sú v ***českom*** originále).
 
 Názvy liečiviek sú uvedené v slovenčine, češtine a latinčine. Poskytujeme aj

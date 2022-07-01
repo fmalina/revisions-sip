@@ -22,18 +22,18 @@ vyriešiť zdravotné ťažkosti, ale aj pôsobiť preventívne. Ak ste tak ešt
 neurobili, prejdite si ponuku *Dúhových elixírov* a nájdite riešenie zdravotných
 problémov pre seba a svojich blízkych. Dúhové elixíry sú vyrábané z ekologicky
 čistého prostredia Českej republiky (*výrobca Herba Vitalis, výrobca
-[tinktúr](/altmed/tinktury) a elixírov v našej ponuke*) podľa receptúr Bc.
-Martina *Kolára* viz [lexikón zdravia](/altmed/knihy/lexikon-zdravia)
+[tinktúr](/sip/tinktury) a elixírov v našej ponuke*) podľa receptúr Bc.
+Martina *Kolára* viz [lexikón zdravia](/sip/knihy/lexikon-zdravia)
 a ich komponenty sú preložné do slovenského jazyka (názvy
 komponentov aj do češtiny a latinčiny). Pozorne si prečítajte upozornenia pri
 každom výrobku; upozornenia sú citované z príslušného *rozhodnutia* Úradu
 verejného zdravotníctva Slovenskej republiky.
 
 *Odporúčanie*: Dúhové elixíry sa podávajú v poradí
-[Fungilen](/altmed/elixiry/duhovy-fungilen),
-[Detoxilen](/altmed/elixiry/duhovy-detoxilen),
-[Fruktavit](/altmed/elixiry/duhovy-fructavit) a
-[Imunex](/altmed/elixiry/duhovy-imunex). Pre ženy pred otehotnením je vhodná
+[Fungilen](/sip/elixiry/duhovy-fungilen),
+[Detoxilen](/sip/elixiry/duhovy-detoxilen),
+[Fruktavit](/sip/elixiry/duhovy-fructavit) a
+[Imunex](/sip/elixiry/duhovy-imunex). Pre ženy pred otehotnením je vhodná
 detoxikácia organizmu. Fungicídna diéta je následne vhodná v priebehu
 tehotenstva (pri výskyte napr. kvasiniek). Počas tehotenstva je rozumné užívať
 Fructavit alebo Imunex (odporučené dve fľašky aj súbežne, potom odporúčame

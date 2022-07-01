@@ -22,8 +22,8 @@ nie len fyzickom, ale i psychickom). Rozhodnete sa sami, nikto Vám nebude núti
 terapiu - “*liečiť*” sa budete sami (ak sa tak skutočne rozhodnete)!
 
 Pretože ide o individuálne konzultácie, ktoré vedie **Marcel Černoch** (ČR)
-- autor knihy [Diagnostika v praxi](/altmed/knihy/diagnostika-v-praxi) a spoluautor brožúry
-[Čítame z tváre](/altmed/knihy/citame-z-tvare), je rozumné, keď si
+- autor knihy [Diagnostika v praxi](/sip/knihy/diagnostika-v-praxi) a spoluautor brožúry
+[Čítame z tváre](/sip/knihy/citame-z-tvare), je rozumné, keď si
 svoj čas dohodnete a tiež sa spýtate na všetko, čo Vás zaujíma pred samotnou
 konzultáciou:
 

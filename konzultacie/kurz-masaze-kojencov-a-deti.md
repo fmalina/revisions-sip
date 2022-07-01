@@ -36,7 +36,7 @@ Tipy
 
 * počet účastníkov je obmedzený
 * tento druh kurzu bude na Slovensku jediný.
-* hláste sa na e-mail adrese <mailto:holistic_services@yahoo.com>, spomeňte altmed
+* hláste sa na e-mail adrese <mailto:holistic_services@yahoo.com>
 
 ***
 

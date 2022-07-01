@@ -15,5 +15,4 @@ Pýtajte sa na nasledovných kontaktných adresách.
 
 Aktualizácia kontaktov z CaliNews, príloha, október - november 2009.
 
-Ceny Vám definujú vyššie uvedení odborníci. Pri objednávaní prosím uveďte, že
-kontaktné údaje ste získali zo stránok altmed.
+Ceny Vám definujú vyššie uvedení odborníci.

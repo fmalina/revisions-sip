@@ -19,55 +19,55 @@ odskúšanú. Jedným zdrojom je medzinárodná sieť ***CaliVita International
 kategórie. Výber z celkovej ponuky je štruktúrovaný:
 
 * antioxidanty (
-  [Smokerade](/altmed/procvi/smokerade);
-  [Sublingual](/altmed/procvi/sublingual-coq10),
-  [Liquid Chlorophyll](/altmed/procvi/liquid-chlorophyll),
-  [Protect 4Life](/altmed/procvi/protect-4life),
-  [MegaProtect 4Life](/altmed/procvi/megaprotect-4life))
+  [Smokerade](/sip/procvi/smokerade);
+  [Sublingual](/sip/procvi/sublingual-coq10),
+  [Liquid Chlorophyll](/sip/procvi/liquid-chlorophyll),
+  [Protect 4Life](/sip/procvi/protect-4life),
+  [MegaProtect 4Life](/sip/procvi/megaprotect-4life))
 * multivitamíny - vitamíny podľa krvnej skupiny (
-  [Vital 0](/altmed/procvi/vital-0);
-  [Vital A](/altmed/procvi/vital-a);
-  [Vital B](/altmed/procvi/vital-a);
-  [Vital AB](/altmed/procvi/vital-ab))
+  [Vital 0](/sip/procvi/vital-0);
+  [Vital A](/sip/procvi/vital-a);
+  [Vital B](/sip/procvi/vital-a);
+  [Vital AB](/sip/procvi/vital-ab))
 * prípravky na podporu trávenia a úpravu hmotnosti (
-  [AC - Zymes](/altmed/procvi/ac-zymes);
-  [Digestive Enzymes](/altmed/procvi/digestive-enzymes);
-  [Meal Time](/altmed/procvi/meal-time);
-  [Digest Ease](/altmed/procvi/digest-ease);
-  [Slim Formula](/altmed/procvi/slim-formula);)
+  [AC - Zymes](/sip/procvi/ac-zymes);
+  [Digestive Enzymes](/sip/procvi/digestive-enzymes);
+  [Meal Time](/sip/procvi/meal-time);
+  [Digest Ease](/sip/procvi/digest-ease);
+  [Slim Formula](/sip/procvi/slim-formula);)
 * prípravky na ošetrenie pleti (
-  [Hand&Body Lotion](/altmed/procvi/hand-body-lotion);
-  [VeinCare](/altmed/procvi/veincare))
+  [Hand&Body Lotion](/sip/procvi/hand-body-lotion);
+  [VeinCare](/sip/procvi/veincare))
 * vitamíny (
-  [C 1000](/altmed/procvi/c-1000),
-  [C Plus](/altmed/procvi/c-plus),
-  [Lion Kids](/altmed/procvi/lion-kids),
-  [Stress Management B - Complex](/altmed/procvi/stress-management-b-complex))
+  [C 1000](/sip/procvi/c-1000),
+  [C Plus](/sip/procvi/c-plus),
+  [Lion Kids](/sip/procvi/lion-kids),
+  [Stress Management B - Complex](/sip/procvi/stress-management-b-complex))
 * prípravky z liečivých rastlín (
-  [Energy&Memory](/altmed/procvi/energy-memory),
-  [Choleston](/altmed/procvi/choleston);
-  [ImmunAid](/altmed/procvi/immunaid);
-  [Nopalin](/altmed/procvi/nopalin);
-  [Ocean 21](/altmed/procvi/ocean-21);
-  [ParaProtex](/altmed/procvi/paraprotex);
-  [Noni Liquid](/altmed/procvi/polinesian-noni);
-  [VirAgo](/altmed/procvi/virago);
-  [VitalMan](/altmed/procvi/vital-man);
-  [VitalWoman](/altmed/procvi/vital-woman);
-  [ZenThonic](/altmed/procvi/zenthonic))
+  [Energy&Memory](/sip/procvi/energy-memory),
+  [Choleston](/sip/procvi/choleston);
+  [ImmunAid](/sip/procvi/immunaid);
+  [Nopalin](/sip/procvi/nopalin);
+  [Ocean 21](/sip/procvi/ocean-21);
+  [ParaProtex](/sip/procvi/paraprotex);
+  [Noni Liquid](/sip/procvi/polinesian-noni);
+  [VirAgo](/sip/procvi/virago);
+  [VitalMan](/sip/procvi/vital-man);
+  [VitalWoman](/sip/procvi/vital-woman);
+  [ZenThonic](/sip/procvi/zenthonic))
 * ďalšie prírodné doplnky (
-  [LiverAid](/altmed/procvi/liver-aid-with-silymarin),
-  [Natural HGH Support](/altmed/procvi/natural-hgh-support),
-  [OxyMax](/altmed/procvi/oxymax);
-  [Rhodiolin](/altmed/procvi/rhodiolin);
-  [Pure Yucca](/altmed/procvi/pure-yucca);
-  [Super Soya Lecithin](/altmed/procvi/super-soya-lecithin);
-  [Strong Bones](/altmed/procvi/strong-bones))
+  [LiverAid](/sip/procvi/liver-aid-with-silymarin),
+  [Natural HGH Support](/sip/procvi/natural-hgh-support),
+  [OxyMax](/sip/procvi/oxymax);
+  [Rhodiolin](/sip/procvi/rhodiolin);
+  [Pure Yucca](/sip/procvi/pure-yucca);
+  [Super Soya Lecithin](/sip/procvi/super-soya-lecithin);
+  [Strong Bones](/sip/procvi/strong-bones))
 * prístroje a pomôcky od CaliVita Electronics (
-  [BioHarmonex](/altmed/procvi/bioharmonex),
-  [Communiguard](/altmed/procvi/harmonizer-elektromagnetickeho-smogu)).
+  [BioHarmonex](/sip/procvi/bioharmonex),
+  [Communiguard](/sip/procvi/harmonizer-elektromagnetickeho-smogu)).
 
-Druhým zdrojom je medzinárodná sieť *[Forever Living Products](/altmed/proflp)*.
+Druhým zdrojom je medzinárodná sieť *[Forever Living Products](/sip/proflp)*.
 Jej prípravkové portfólio má spoločného menovateľa - známu rastlinku - Aloe vera.
 
 Naša spoločnosť nepreferuje v ponuke ani jednu sieť, pretože staviame na Vašom
