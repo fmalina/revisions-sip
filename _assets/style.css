@@ -1,6 +1,6 @@
-body{font-family:Garamond,serif;max-width:700px;padding:1.5em;color:#332;font-size:1.2rem}
+body{font-family:Garamond,serif;max-width:700px;padding:1em;color:#332;font-size:1.1rem}
 
-h1{font-size:2.5em;color:goldenrod}
+h1{font-size:2em;color:goldenrod}
 .unilex-sip h1{position:relative;top:.75em}
 h2{font-weight:normal}
 em{letter-spacing:.05rem}
@@ -17,3 +17,8 @@ nav ul{padding:0 1em}
 nav li{list-style:none}
 nav a{padding:.2em 0;display:inline-block}
 footer{padding-top:2em;color:#777}
+
+@media only screen and (min-width: 768px) {
+	body{padding:2em;font-size:1.2rem}
+	h1{font-size:2.5em}
+}
