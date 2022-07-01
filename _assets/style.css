@@ -12,5 +12,4 @@ nav{border-top:1px solid goldenrod}
 nav ul{padding:0 1em}
 nav li{list-style:none}
 nav a{padding:.2em 0;display:inline-block}
-nav ul li:first-child{font-weight:bold}
 footer{padding-top:2em}
