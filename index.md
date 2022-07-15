@@ -1,6 +1,6 @@
 # Sip sip 🌿
 
-## alternatívna medicína
+## Bylinková medicína
 
 Chceme Vás naučiť o dnes alternatívnej medicíne.
 Nič nepredávame, bylinky nazbierate podľa výskytu a všetky tu spomenuté produkty

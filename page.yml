@@ -1,0 +1,7 @@
+source: .
+target: ../unilex/static/sip
+tpl: ./_tpl
+ctx:
+    site_name: 'Sip sip'
+    site_url: https://unilexicon.com/sip
+    site_root: /sip
